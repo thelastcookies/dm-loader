@@ -1,0 +1,8755 @@
+{
+  "v": "7.0.9",
+  "p": {
+    "layers": [
+      "0",
+      1
+    ],
+    "autoAdjustIndex": true,
+    "hierarchicalRendering": false
+  },
+  "d": [
+    {
+      "c": "ht.Node",
+      "i": 502268,
+      "p": {
+        "name": "按钮",
+        "layer": 1,
+        "image": "symbols/palette-icon/basic/按钮.json",
+        "position": {
+          "x": 1342,
+          "y": -428.71121
+        },
+        "width": 194,
+        "height": 46.57759
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Text",
+      "i": 502269,
+      "p": {
+        "name": "文字",
+        "layer": 1,
+        "position": {
+          "x": 1340,
+          "y": -429
+        }
+      },
+      "s": {
+        "text": "酸碱计量系统",
+        "text.align": "center",
+        "text.font": "25px arial, sans-serif",
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502270,
+      "p": {
+        "name": "筒（多处可用）",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/锅筒.json",
+        "rotation": 1.5708,
+        "position": {
+          "x": 619,
+          "y": 367.5
+        },
+        "width": 131,
+        "height": 188
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502271,
+      "p": {
+        "name": "罐（多处可用）",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/罐.json",
+        "rotation": 1.5708,
+        "position": {
+          "x": 844,
+          "y": 369
+        },
+        "width": 124,
+        "height": 102
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502272,
+      "p": {
+        "name": "罐（多处可用）",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/罐.json",
+        "rotation": 1.5708,
+        "position": {
+          "x": 955,
+          "y": 370
+        },
+        "width": 124,
+        "height": 102
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502273,
+      "p": {
+        "name": "罐（多处可用）",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/罐.json",
+        "rotation": 1.5708,
+        "position": {
+          "x": 1066,
+          "y": 370
+        },
+        "width": 124,
+        "height": 102
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 502274,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 503.24775,
+          "y": 275.89999
+        },
+        "width": 166.97858,
+        "height": 51.37802,
+        "points": {
+          "__a": [
+            {
+              "x": 419.75846,
+              "y": 250.21098
+            },
+            {
+              "x": 586.73704,
+              "y": 250.21098
+            },
+            {
+              "x": 586.73704,
+              "y": 301.58901
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(255,255,3)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 502275,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 464.12866,
+          "y": 286.43249
+        },
+        "width": 88,
+        "height": 74.49814,
+        "points": {
+          "__a": [
+            {
+              "x": 508.12866,
+              "y": 249.18342
+            },
+            {
+              "x": 508.12866,
+              "y": 323.68156
+            },
+            {
+              "x": 420.12866,
+              "y": 323.68156
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(255,255,3)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 502276,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 888,
+          "y": 287.54216
+        },
+        "width": 398,
+        "height": 39.08433,
+        "points": {
+          "__a": [
+            {
+              "x": 689,
+              "y": 301.09866
+            },
+            {
+              "x": 689,
+              "y": 268
+            },
+            {
+              "x": 1087,
+              "y": 268
+            },
+            {
+              "x": 1087,
+              "y": 307.08433
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(255,255,3)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 502277,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 864,
+          "y": 288.08237
+        },
+        "width": 0,
+        "height": 40.16474,
+        "points": {
+          "__a": [
+            {
+              "x": 864,
+              "y": 268
+            },
+            {
+              "x": 864,
+              "y": 308.16474
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(255,255,3)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 502278,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 974,
+          "y": 289.08237
+        },
+        "width": 0,
+        "height": 40.16474,
+        "points": {
+          "__a": [
+            {
+              "x": 974,
+              "y": 269
+            },
+            {
+              "x": 974,
+              "y": 309.16474
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(255,255,3)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 502279,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1489.38186,
+          "y": 486.34621
+        },
+        "width": 1348.97399,
+        "height": 0,
+        "points": {
+          "__a": [
+            {
+              "x": 814.89487,
+              "y": 486.34621
+            },
+            {
+              "x": 2163.86886,
+              "y": 486.34621
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(255,255,3)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 502280,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 813.40541,
+          "y": 485.79517
+        },
+        "width": 0,
+        "height": 21.44832,
+        "points": {
+          "__a": [
+            {
+              "x": 813.40541,
+              "y": 475.071
+            },
+            {
+              "x": 813.40541,
+              "y": 496.51933
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(255,255,3)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 502281,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 863.82515,
+          "y": 458.11928
+        },
+        "width": 0,
+        "height": 54.3785,
+        "points": {
+          "__a": [
+            {
+              "x": 863.82515,
+              "y": 430.93003
+            },
+            {
+              "x": 863.82515,
+              "y": 485.30853
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(255,255,3)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 502282,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 973,
+          "y": 459.18925
+        },
+        "width": 0,
+        "height": 54.3785,
+        "points": {
+          "__a": [
+            {
+              "x": 973,
+              "y": 432
+            },
+            {
+              "x": 973,
+              "y": 486.3785
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(255,255,3)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 502283,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1082,
+          "y": 458.18925
+        },
+        "width": 0,
+        "height": 54.3785,
+        "points": {
+          "__a": [
+            {
+              "x": 1082,
+              "y": 431
+            },
+            {
+              "x": 1082,
+              "y": 485.3785
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(255,255,3)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 502284,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1320.42984,
+          "y": 355.4719
+        },
+        "width": 87,
+        "height": 259.81695,
+        "points": {
+          "__a": [
+            {
+              "x": 1276.92984,
+              "y": 485.38038
+            },
+            {
+              "x": 1276.92984,
+              "y": 225.56343
+            },
+            {
+              "x": 1363.92984,
+              "y": 225.56343
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(255,255,3)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 502285,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1359.42984,
+          "y": 376.61979
+        },
+        "width": 165,
+        "height": 217.52117,
+        "points": {
+          "__a": [
+            {
+              "x": 1276.92984,
+              "y": 267.85921
+            },
+            {
+              "x": 1441.92984,
+              "y": 267.85921
+            },
+            {
+              "x": 1441.92984,
+              "y": 485.38038
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(255,255,3)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 502286,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1237.67382,
+          "y": 373.20602
+        },
+        "width": 72.80977,
+        "height": 130.65274,
+        "points": {
+          "__a": [
+            {
+              "x": 1274.0787,
+              "y": 438.5324
+            },
+            {
+              "x": 1201.26894,
+              "y": 438.5324
+            },
+            {
+              "x": 1201.26894,
+              "y": 307.97695
+            },
+            {
+              "x": 1221.76378,
+              "y": 307.87965
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(255,255,3)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 502287,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1255.5,
+          "y": 334
+        },
+        "width": 43,
+        "height": 20,
+        "points": {
+          "__a": [
+            {
+              "x": 1234,
+              "y": 324
+            },
+            {
+              "x": 1234,
+              "y": 344
+            },
+            {
+              "x": 1277,
+              "y": 344
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(255,255,3)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 502288,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1359.44303,
+          "y": 438.48214
+        },
+        "width": 160.37884,
+        "height": 0.28609,
+        "points": {
+          "__a": [
+            {
+              "x": 1279.25361,
+              "y": 438.33909
+            },
+            {
+              "x": 1439.63245,
+              "y": 438.62518
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(255,255,3)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 502289,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1379.63684,
+          "y": 372.16535
+        },
+        "width": 20,
+        "height": 130,
+        "points": {
+          "__a": [
+            {
+              "x": 1369.63684,
+              "y": 437.16535
+            },
+            {
+              "x": 1369.63684,
+              "y": 307.16535
+            },
+            {
+              "x": 1389.63684,
+              "y": 307.16535
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(255,255,3)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 502290,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1419.5,
+          "y": 333
+        },
+        "width": 43,
+        "height": 20,
+        "points": {
+          "__a": [
+            {
+              "x": 1398,
+              "y": 323
+            },
+            {
+              "x": 1398,
+              "y": 343
+            },
+            {
+              "x": 1441,
+              "y": 343
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(255,255,3)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 502291,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1481.07118,
+          "y": 439.12286
+        },
+        "width": 72.90852,
+        "height": 0,
+        "points": {
+          "__a": [
+            {
+              "x": 1444.61692,
+              "y": 439.12286
+            },
+            {
+              "x": 1517.52544,
+              "y": 439.12286
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(255,255,3)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 502292,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1636.5,
+          "y": 356
+        },
+        "width": 87,
+        "height": 259.81695,
+        "points": {
+          "__a": [
+            {
+              "x": 1593,
+              "y": 485.90848
+            },
+            {
+              "x": 1593,
+              "y": 226.09152
+            },
+            {
+              "x": 1680,
+              "y": 226.09152
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(255,255,3)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 502293,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1675.5,
+          "y": 377
+        },
+        "width": 165,
+        "height": 217.52117,
+        "points": {
+          "__a": [
+            {
+              "x": 1593,
+              "y": 268.23941
+            },
+            {
+              "x": 1758,
+              "y": 268.23941
+            },
+            {
+              "x": 1758,
+              "y": 485.76059
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(255,255,3)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 502294,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1553.5,
+          "y": 374
+        },
+        "width": 72.80977,
+        "height": 130.65274,
+        "points": {
+          "__a": [
+            {
+              "x": 1589.90488,
+              "y": 439.32637
+            },
+            {
+              "x": 1517.09512,
+              "y": 439.32637
+            },
+            {
+              "x": 1517.09512,
+              "y": 308.77093
+            },
+            {
+              "x": 1537.58996,
+              "y": 308.67363
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(255,255,3)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 502295,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1571.5,
+          "y": 335
+        },
+        "width": 43,
+        "height": 20,
+        "points": {
+          "__a": [
+            {
+              "x": 1550,
+              "y": 325
+            },
+            {
+              "x": 1550,
+              "y": 345
+            },
+            {
+              "x": 1593,
+              "y": 345
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(255,255,3)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 502296,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1675.5,
+          "y": 439
+        },
+        "width": 160.37884,
+        "height": 0.28609,
+        "points": {
+          "__a": [
+            {
+              "x": 1595.31058,
+              "y": 438.85695
+            },
+            {
+              "x": 1755.68942,
+              "y": 439.14305
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(255,255,3)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 502297,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1695.5,
+          "y": 373
+        },
+        "width": 20,
+        "height": 130,
+        "points": {
+          "__a": [
+            {
+              "x": 1685.5,
+              "y": 438
+            },
+            {
+              "x": 1685.5,
+              "y": 308
+            },
+            {
+              "x": 1705.5,
+              "y": 308
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(255,255,3)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 502298,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1735.5,
+          "y": 334
+        },
+        "width": 43,
+        "height": 20,
+        "points": {
+          "__a": [
+            {
+              "x": 1714,
+              "y": 324
+            },
+            {
+              "x": 1714,
+              "y": 344
+            },
+            {
+              "x": 1757,
+              "y": 344
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(255,255,3)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 502299,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1797.5,
+          "y": 439
+        },
+        "width": 73.85477,
+        "height": 0,
+        "points": {
+          "__a": [
+            {
+              "x": 1760.57261,
+              "y": 439
+            },
+            {
+              "x": 1834.42739,
+              "y": 439
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(255,255,3)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 502300,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1954.5,
+          "y": 355.76059
+        },
+        "width": 87,
+        "height": 259.81695,
+        "points": {
+          "__a": [
+            {
+              "x": 1911,
+              "y": 485.66906
+            },
+            {
+              "x": 1911,
+              "y": 225.85211
+            },
+            {
+              "x": 1998,
+              "y": 225.85211
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(255,255,3)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 502301,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1993.5,
+          "y": 376.76059
+        },
+        "width": 165,
+        "height": 217.52117,
+        "points": {
+          "__a": [
+            {
+              "x": 1911,
+              "y": 268
+            },
+            {
+              "x": 2076,
+              "y": 268
+            },
+            {
+              "x": 2076,
+              "y": 485.52117
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(255,255,3)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 502302,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1871.5,
+          "y": 373.76059
+        },
+        "width": 72.80977,
+        "height": 130.65274,
+        "points": {
+          "__a": [
+            {
+              "x": 1907.90488,
+              "y": 439.08696
+            },
+            {
+              "x": 1835.09512,
+              "y": 439.08696
+            },
+            {
+              "x": 1835.09512,
+              "y": 308.53151
+            },
+            {
+              "x": 1855.58996,
+              "y": 308.43421
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(255,255,3)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 502303,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1889.5,
+          "y": 334.76059
+        },
+        "width": 43,
+        "height": 20,
+        "points": {
+          "__a": [
+            {
+              "x": 1868,
+              "y": 324.76059
+            },
+            {
+              "x": 1868,
+              "y": 344.76059
+            },
+            {
+              "x": 1911,
+              "y": 344.76059
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(255,255,3)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 502304,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1993.5,
+          "y": 438.76059
+        },
+        "width": 160.37884,
+        "height": 0.28609,
+        "points": {
+          "__a": [
+            {
+              "x": 1913.31058,
+              "y": 438.61754
+            },
+            {
+              "x": 2073.68942,
+              "y": 438.90363
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(255,255,3)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 502305,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 2013.5,
+          "y": 372.76059
+        },
+        "width": 20,
+        "height": 130,
+        "points": {
+          "__a": [
+            {
+              "x": 2003.5,
+              "y": 437.76059
+            },
+            {
+              "x": 2003.5,
+              "y": 307.76059
+            },
+            {
+              "x": 2023.5,
+              "y": 307.76059
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(255,255,3)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 502306,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 2053.5,
+          "y": 333.76059
+        },
+        "width": 43,
+        "height": 20,
+        "points": {
+          "__a": [
+            {
+              "x": 2032,
+              "y": 323.76059
+            },
+            {
+              "x": 2032,
+              "y": 343.76059
+            },
+            {
+              "x": 2075,
+              "y": 343.76059
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(255,255,3)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 502307,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 2111.8112,
+          "y": 439
+        },
+        "width": 65.6224,
+        "height": 0,
+        "points": {
+          "__a": [
+            {
+              "x": 2079,
+              "y": 439
+            },
+            {
+              "x": 2144.6224,
+              "y": 439
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(255,255,3)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 502308,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 2144,
+          "y": 463.10798
+        },
+        "width": 0,
+        "height": 48.21595,
+        "points": {
+          "__a": [
+            {
+              "x": 2144,
+              "y": 439
+            },
+            {
+              "x": 2144,
+              "y": 487.21595
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(255,255,3)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 502309,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 2163.2948,
+          "y": 486.21291
+        },
+        "width": 0,
+        "height": 21.13372,
+        "points": {
+          "__a": [
+            {
+              "x": 2163.2948,
+              "y": 475.64605
+            },
+            {
+              "x": 2163.2948,
+              "y": 496.77977
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(255,255,3)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 502310,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 557.03091,
+          "y": 449.38244
+        },
+        "width": 0.1445,
+        "height": 32.2539,
+        "points": {
+          "__a": [
+            {
+              "x": 557.10315,
+              "y": 433.25549
+            },
+            {
+              "x": 556.95866,
+              "y": 465.50939
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(255,255,3)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502311,
+      "p": {
+        "name": "泵-普通",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/泵-普通.json",
+        "rotation": 1.5708,
+        "position": {
+          "x": 403.70906,
+          "y": 249.27112
+        }
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502312,
+      "p": {
+        "name": "泵-普通",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/泵-普通.json",
+        "rotation": 1.5708,
+        "position": {
+          "x": 404,
+          "y": 324
+        },
+        "width": 32,
+        "height": 32
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502313,
+      "p": {
+        "name": "24",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/24.json",
+        "position": {
+          "x": 558.5,
+          "y": 494
+        }
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(255,255,3)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502314,
+      "p": {
+        "name": "流入流出",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/流入流出.json",
+        "rotation": 1.5708,
+        "position": {
+          "x": 557,
+          "y": 474
+        }
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(255,255,3)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502315,
+      "p": {
+        "name": "截止阀",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/截止阀.json",
+        "rotation": 1.5708,
+        "position": {
+          "x": 557,
+          "y": 450
+        }
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(232,232,232)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502316,
+      "p": {
+        "name": "桨叶",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/桨叶.json",
+        "position": {
+          "x": 837,
+          "y": 370
+        }
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502317,
+      "p": {
+        "name": "桨叶",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/桨叶.json",
+        "position": {
+          "x": 944,
+          "y": 371
+        },
+        "width": 46,
+        "height": 120
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502318,
+      "p": {
+        "name": "桨叶",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/桨叶.json",
+        "position": {
+          "x": 1057,
+          "y": 370
+        },
+        "width": 46,
+        "height": 120
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502319,
+      "p": {
+        "name": "电动机-MATE",
+        "layer": 1,
+        "image": "symbols/palette-icon/m-point/电动机-MATE.json",
+        "position": {
+          "x": 845,
+          "y": 295
+        }
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502320,
+      "p": {
+        "name": "电动机-MATE",
+        "layer": 1,
+        "image": "symbols/palette-icon/m-point/电动机-MATE.json",
+        "position": {
+          "x": 952,
+          "y": 296
+        }
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502321,
+      "p": {
+        "name": "电动机-MATE",
+        "layer": 1,
+        "image": "symbols/palette-icon/m-point/电动机-MATE.json",
+        "position": {
+          "x": 1064,
+          "y": 296
+        }
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502322,
+      "p": {
+        "name": "流向",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/流向.json",
+        "rotation": 1.5708,
+        "position": {
+          "x": 1225.5,
+          "y": 308
+        }
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(224,224,224)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502323,
+      "p": {
+        "name": "流向",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/流向.json",
+        "position": {
+          "x": 1234,
+          "y": 316.5
+        }
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(224,224,224)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502324,
+      "p": {
+        "name": "流向",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/流向.json",
+        "rotation": 1.5708,
+        "position": {
+          "x": 1389.5,
+          "y": 307
+        },
+        "width": 18,
+        "height": 15
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(224,224,224)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502325,
+      "p": {
+        "name": "流向",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/流向.json",
+        "position": {
+          "x": 1398.5,
+          "y": 315
+        },
+        "width": 18,
+        "height": 15
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(224,224,224)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502326,
+      "p": {
+        "name": "流向",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/流向.json",
+        "rotation": 1.5708,
+        "position": {
+          "x": 1540.5,
+          "y": 309
+        },
+        "width": 18,
+        "height": 15
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(224,224,224)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502327,
+      "p": {
+        "name": "流向",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/流向.json",
+        "position": {
+          "x": 1549.5,
+          "y": 317
+        },
+        "width": 18,
+        "height": 15
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(224,224,224)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502328,
+      "p": {
+        "name": "流向",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/流向.json",
+        "rotation": 1.5708,
+        "position": {
+          "x": 1705.5,
+          "y": 309
+        },
+        "width": 18,
+        "height": 15
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(224,224,224)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502329,
+      "p": {
+        "name": "流向",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/流向.json",
+        "position": {
+          "x": 1714.5,
+          "y": 317
+        },
+        "width": 18,
+        "height": 15
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(224,224,224)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502330,
+      "p": {
+        "name": "流向",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/流向.json",
+        "rotation": 1.5708,
+        "position": {
+          "x": 1859.5,
+          "y": 309
+        },
+        "width": 18,
+        "height": 15
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(224,224,224)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502331,
+      "p": {
+        "name": "流向",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/流向.json",
+        "position": {
+          "x": 1868.5,
+          "y": 317
+        },
+        "width": 18,
+        "height": 15
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(224,224,224)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502332,
+      "p": {
+        "name": "流向",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/流向.json",
+        "rotation": 1.5708,
+        "position": {
+          "x": 2024.5,
+          "y": 308
+        },
+        "width": 18,
+        "height": 15
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(224,224,224)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502333,
+      "p": {
+        "name": "流向",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/流向.json",
+        "position": {
+          "x": 2033.5,
+          "y": 316
+        },
+        "width": 18,
+        "height": 15
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(224,224,224)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502334,
+      "p": {
+        "name": "电动阀-带框",
+        "layer": 1,
+        "image": "symbols/palette-icon/m-point/电动阀-带框.json",
+        "position": {
+          "x": 1228,
+          "y": 374
+        }
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502335,
+      "p": {
+        "name": "泵-MATE",
+        "layer": 1,
+        "image": "symbols/palette-icon/m-point/泵-MATE.json",
+        "position": {
+          "x": 1282,
+          "y": 375
+        }
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502336,
+      "p": {
+        "name": "截止阀",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/截止阀.json",
+        "rotation": 1.5708,
+        "position": {
+          "x": 1277,
+          "y": 250
+        }
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(232,232,232)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502337,
+      "p": {
+        "name": "截止阀",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/截止阀.json",
+        "rotation": 1.5708,
+        "position": {
+          "x": 1277,
+          "y": 294
+        }
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(232,232,232)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502338,
+      "p": {
+        "name": "截止阀",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/截止阀.json",
+        "rotation": 1.5708,
+        "position": {
+          "x": 1277,
+          "y": 460
+        },
+        "width": 30,
+        "height": 14
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(232,232,232)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502339,
+      "p": {
+        "name": "截止阀",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/截止阀.json",
+        "rotation": 1.5708,
+        "position": {
+          "x": 1277,
+          "y": 416
+        },
+        "width": 30,
+        "height": 14
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(232,232,232)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502340,
+      "p": {
+        "name": "电动阀-带框",
+        "layer": 1,
+        "image": "symbols/palette-icon/m-point/电动阀-带框.json",
+        "position": {
+          "x": 1551,
+          "y": 370
+        },
+        "width": 34,
+        "height": 34
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502341,
+      "p": {
+        "name": "泵-MATE",
+        "layer": 1,
+        "image": "symbols/palette-icon/m-point/泵-MATE.json",
+        "position": {
+          "x": 1599,
+          "y": 371
+        },
+        "width": 48,
+        "height": 32
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502342,
+      "p": {
+        "name": "截止阀",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/截止阀.json",
+        "rotation": 1.5708,
+        "position": {
+          "x": 1593,
+          "y": 248
+        },
+        "width": 30,
+        "height": 14
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(232,232,232)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502343,
+      "p": {
+        "name": "截止阀",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/截止阀.json",
+        "rotation": 1.5708,
+        "position": {
+          "x": 1593,
+          "y": 292
+        },
+        "width": 30,
+        "height": 14
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(232,232,232)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502344,
+      "p": {
+        "name": "截止阀",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/截止阀.json",
+        "rotation": 1.5708,
+        "position": {
+          "x": 1593,
+          "y": 458
+        },
+        "width": 30,
+        "height": 14
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(232,232,232)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502345,
+      "p": {
+        "name": "截止阀",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/截止阀.json",
+        "rotation": 1.5708,
+        "position": {
+          "x": 1593,
+          "y": 414
+        },
+        "width": 30,
+        "height": 14
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(232,232,232)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502346,
+      "p": {
+        "name": "电动阀-带框",
+        "layer": 1,
+        "image": "symbols/palette-icon/m-point/电动阀-带框.json",
+        "position": {
+          "x": 1866,
+          "y": 370
+        },
+        "width": 34,
+        "height": 34
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502347,
+      "p": {
+        "name": "泵-MATE",
+        "layer": 1,
+        "image": "symbols/palette-icon/m-point/泵-MATE.json",
+        "position": {
+          "x": 1919,
+          "y": 370
+        },
+        "width": 48,
+        "height": 32
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502348,
+      "p": {
+        "name": "截止阀",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/截止阀.json",
+        "rotation": 1.5708,
+        "position": {
+          "x": 1911,
+          "y": 249
+        },
+        "width": 30,
+        "height": 14
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(232,232,232)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502349,
+      "p": {
+        "name": "截止阀",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/截止阀.json",
+        "rotation": 1.5708,
+        "position": {
+          "x": 1911,
+          "y": 293
+        },
+        "width": 30,
+        "height": 14
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(232,232,232)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502350,
+      "p": {
+        "name": "截止阀",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/截止阀.json",
+        "rotation": 1.5708,
+        "position": {
+          "x": 1911,
+          "y": 459
+        },
+        "width": 30,
+        "height": 14
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(232,232,232)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502351,
+      "p": {
+        "name": "截止阀",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/截止阀.json",
+        "rotation": 1.5708,
+        "position": {
+          "x": 1911,
+          "y": 415
+        },
+        "width": 30,
+        "height": 14
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(232,232,232)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502352,
+      "p": {
+        "name": "电动阀-带框",
+        "layer": 1,
+        "image": "symbols/palette-icon/m-point/电动阀-带框.json",
+        "position": {
+          "x": 1398,
+          "y": 373
+        },
+        "width": 34,
+        "height": 34
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502353,
+      "p": {
+        "name": "泵-MATE",
+        "layer": 1,
+        "image": "symbols/palette-icon/m-point/泵-MATE.json",
+        "position": {
+          "x": 1451,
+          "y": 375
+        },
+        "width": 48,
+        "height": 32
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502354,
+      "p": {
+        "name": "截止阀",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/截止阀.json",
+        "rotation": 1.5708,
+        "position": {
+          "x": 1442,
+          "y": 418
+        },
+        "width": 30,
+        "height": 14
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(232,232,232)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502355,
+      "p": {
+        "name": "截止阀",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/截止阀.json",
+        "rotation": 1.5708,
+        "position": {
+          "x": 1442,
+          "y": 462
+        },
+        "width": 30,
+        "height": 14
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(232,232,232)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502356,
+      "p": {
+        "name": "截止阀",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/截止阀.json",
+        "rotation": 1.5708,
+        "position": {
+          "x": 1442,
+          "y": 292
+        },
+        "width": 30,
+        "height": 14
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(232,232,232)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502357,
+      "p": {
+        "name": "电动阀-带框",
+        "layer": 1,
+        "image": "symbols/palette-icon/m-point/电动阀-带框.json",
+        "position": {
+          "x": 1714,
+          "y": 373
+        },
+        "width": 34,
+        "height": 34
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502358,
+      "p": {
+        "name": "泵-MATE",
+        "layer": 1,
+        "image": "symbols/palette-icon/m-point/泵-MATE.json",
+        "position": {
+          "x": 1767,
+          "y": 375
+        },
+        "width": 48,
+        "height": 32
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502359,
+      "p": {
+        "name": "截止阀",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/截止阀.json",
+        "rotation": 1.5708,
+        "position": {
+          "x": 1758,
+          "y": 418
+        },
+        "width": 30,
+        "height": 14
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(232,232,232)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502360,
+      "p": {
+        "name": "截止阀",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/截止阀.json",
+        "rotation": 1.5708,
+        "position": {
+          "x": 1758,
+          "y": 462
+        },
+        "width": 30,
+        "height": 14
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(232,232,232)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502361,
+      "p": {
+        "name": "截止阀",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/截止阀.json",
+        "rotation": 1.5708,
+        "position": {
+          "x": 1758,
+          "y": 292
+        },
+        "width": 30,
+        "height": 14
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(232,232,232)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502362,
+      "p": {
+        "name": "电动阀-带框",
+        "layer": 1,
+        "image": "symbols/palette-icon/m-point/电动阀-带框.json",
+        "position": {
+          "x": 2032,
+          "y": 372
+        },
+        "width": 34,
+        "height": 34
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502363,
+      "p": {
+        "name": "泵-MATE",
+        "layer": 1,
+        "image": "symbols/palette-icon/m-point/泵-MATE.json",
+        "position": {
+          "x": 2085,
+          "y": 374
+        },
+        "width": 48,
+        "height": 32
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502364,
+      "p": {
+        "name": "截止阀",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/截止阀.json",
+        "rotation": 1.5708,
+        "position": {
+          "x": 2076,
+          "y": 417
+        },
+        "width": 30,
+        "height": 14
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(232,232,232)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502365,
+      "p": {
+        "name": "截止阀",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/截止阀.json",
+        "rotation": 1.5708,
+        "position": {
+          "x": 2076,
+          "y": 461
+        },
+        "width": 30,
+        "height": 14
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(232,232,232)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502366,
+      "p": {
+        "name": "截止阀",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/截止阀.json",
+        "rotation": 1.5708,
+        "position": {
+          "x": 2076,
+          "y": 291
+        },
+        "width": 30,
+        "height": 14
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(232,232,232)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502367,
+      "p": {
+        "name": "截止阀",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/截止阀.json",
+        "position": {
+          "x": 464.12774,
+          "y": 250.13738
+        }
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(232,232,232)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502368,
+      "p": {
+        "name": "截止阀",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/截止阀.json",
+        "position": {
+          "x": 462.39187,
+          "y": 323.43142
+        }
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(232,232,232)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502369,
+      "p": {
+        "name": "进度条",
+        "layer": 1,
+        "tag": "DPU1036.HW.AI030306.PV",
+        "image": "symbols/palette-icon/basic/进度条.json",
+        "position": {
+          "x": 687,
+          "y": 367.69368
+        },
+        "width": 28,
+        "height": 131.38736
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.tag": "DPU1036.HW.AI030306.PV",
+        "bar.max": 4
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 502370,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1231.5,
+          "y": 301.21227
+        },
+        "width": 13,
+        "height": 16.42454,
+        "points": {
+          "__a": [
+            {
+              "x": 1237.03637,
+              "y": 293
+            },
+            {
+              "x": 1225,
+              "y": 296.08538
+            },
+            {
+              "x": 1238,
+              "y": 297.76311
+            },
+            {
+              "x": 1225.09156,
+              "y": 300.95765
+            },
+            {
+              "x": 1233.96606,
+              "y": 302.71346
+            },
+            {
+              "x": 1234.0514,
+              "y": 309.42454
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 1,
+        "shape.border.color": "rgb(255,255,255)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 502371,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1395.5,
+          "y": 299.21227
+        },
+        "width": 13,
+        "height": 16.42454,
+        "points": {
+          "__a": [
+            {
+              "x": 1401.03637,
+              "y": 291
+            },
+            {
+              "x": 1389,
+              "y": 294.08538
+            },
+            {
+              "x": 1402,
+              "y": 295.76311
+            },
+            {
+              "x": 1389.09156,
+              "y": 298.95765
+            },
+            {
+              "x": 1397.96606,
+              "y": 300.71346
+            },
+            {
+              "x": 1398.0514,
+              "y": 307.42454
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 1,
+        "shape.border.color": "rgb(255,255,255)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 502372,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1547.5,
+          "y": 302.21227
+        },
+        "width": 13,
+        "height": 16.42454,
+        "points": {
+          "__a": [
+            {
+              "x": 1553.03637,
+              "y": 294
+            },
+            {
+              "x": 1541,
+              "y": 297.08538
+            },
+            {
+              "x": 1554,
+              "y": 298.76311
+            },
+            {
+              "x": 1541.09156,
+              "y": 301.95765
+            },
+            {
+              "x": 1549.96606,
+              "y": 303.71346
+            },
+            {
+              "x": 1550.0514,
+              "y": 310.42454
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 1,
+        "shape.border.color": "rgb(255,255,255)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 502373,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1711.5,
+          "y": 300.21227
+        },
+        "width": 13,
+        "height": 16.42454,
+        "points": {
+          "__a": [
+            {
+              "x": 1717.03637,
+              "y": 292
+            },
+            {
+              "x": 1705,
+              "y": 295.08538
+            },
+            {
+              "x": 1718,
+              "y": 296.76311
+            },
+            {
+              "x": 1705.09156,
+              "y": 299.95765
+            },
+            {
+              "x": 1713.96606,
+              "y": 301.71346
+            },
+            {
+              "x": 1714.0514,
+              "y": 308.42454
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 1,
+        "shape.border.color": "rgb(255,255,255)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 502374,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1866.5,
+          "y": 302.21227
+        },
+        "width": 13,
+        "height": 16.42454,
+        "points": {
+          "__a": [
+            {
+              "x": 1872.03637,
+              "y": 294
+            },
+            {
+              "x": 1860,
+              "y": 297.08538
+            },
+            {
+              "x": 1873,
+              "y": 298.76311
+            },
+            {
+              "x": 1860.09156,
+              "y": 301.95765
+            },
+            {
+              "x": 1868.96606,
+              "y": 303.71346
+            },
+            {
+              "x": 1869.0514,
+              "y": 310.42454
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 1,
+        "shape.border.color": "rgb(255,255,255)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 502375,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 2030.5,
+          "y": 300.21227
+        },
+        "width": 13,
+        "height": 16.42454,
+        "points": {
+          "__a": [
+            {
+              "x": 2036.03637,
+              "y": 292
+            },
+            {
+              "x": 2024,
+              "y": 295.08538
+            },
+            {
+              "x": 2037,
+              "y": 296.76311
+            },
+            {
+              "x": 2024.09156,
+              "y": 299.95765
+            },
+            {
+              "x": 2032.96606,
+              "y": 301.71346
+            },
+            {
+              "x": 2033.0514,
+              "y": 308.42454
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 1,
+        "shape.border.color": "rgb(255,255,255)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502376,
+      "p": {
+        "name": "流入流出",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/流入流出.json",
+        "position": {
+          "x": 1373,
+          "y": 226
+        }
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(255,255,3)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502377,
+      "p": {
+        "name": "流入流出",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/流入流出.json",
+        "position": {
+          "x": 1689,
+          "y": 226
+        }
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(255,255,3)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502378,
+      "p": {
+        "name": "流入流出",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/流入流出.json",
+        "position": {
+          "x": 2005.55004,
+          "y": 226.06331
+        }
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(255,255,3)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502379,
+      "p": {
+        "name": "进度条",
+        "layer": 1,
+        "tag": "DPU1035.HW.AI090205.PV",
+        "image": "symbols/palette-icon/basic/进度条.json",
+        "position": {
+          "x": 886.38286,
+          "y": 369
+        },
+        "width": 16.76572,
+        "height": 124
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.tag": "DPU1035.HW.AI090205.PV",
+        "bar.max": 800
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502380,
+      "p": {
+        "name": "进度条",
+        "layer": 1,
+        "tag": "DPU1035.HW.AI010205.PV",
+        "image": "symbols/palette-icon/basic/进度条.json",
+        "position": {
+          "x": 997.38286,
+          "y": 370
+        },
+        "width": 16.76572,
+        "height": 124
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.tag": "DPU1035.HW.AI010205.PV",
+        "bar.max": 800
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502381,
+      "p": {
+        "name": "进度条",
+        "layer": 1,
+        "tag": "DPU1035.HW.AI120105.PV",
+        "image": "symbols/palette-icon/basic/进度条.json",
+        "position": {
+          "x": 1109.38286,
+          "y": 370
+        },
+        "width": 16.76572,
+        "height": 124
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.tag": "DPU1035.HW.AI120105.PV",
+        "bar.max": 800
+      }
+    },
+    {
+      "c": "ht.Text",
+      "i": 502382,
+      "p": {
+        "name": "文字",
+        "layer": 1,
+        "position": {
+          "x": 579,
+          "y": 417
+        }
+      },
+      "s": {
+        "text": "碱储存罐",
+        "text.align": "center",
+        "text.font": "16px arial, sans-serif",
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Text",
+      "i": 502383,
+      "p": {
+        "name": "文字",
+        "layer": 1,
+        "position": {
+          "x": 835,
+          "y": 473
+        }
+      },
+      "s": {
+        "text": "碱计量箱A",
+        "text.align": "center",
+        "text.font": "16px arial, sans-serif",
+        "label": "",
+        "text.color": "rgb(255,255,255)"
+      }
+    },
+    {
+      "c": "ht.Text",
+      "i": 502384,
+      "p": {
+        "name": "文字",
+        "layer": 1,
+        "position": {
+          "x": 945,
+          "y": 475
+        }
+      },
+      "s": {
+        "text": "碱计量箱B",
+        "text.align": "center",
+        "text.font": "16px arial, sans-serif",
+        "label": "",
+        "text.color": "rgb(255,255,255)"
+      }
+    },
+    {
+      "c": "ht.Text",
+      "i": 502385,
+      "p": {
+        "name": "文字",
+        "layer": 1,
+        "position": {
+          "x": 1050,
+          "y": 477
+        }
+      },
+      "s": {
+        "text": "碱计量箱C",
+        "text.align": "center",
+        "text.font": "16px arial, sans-serif",
+        "label": "",
+        "text.color": "rgb(255,255,255)"
+      }
+    },
+    {
+      "c": "ht.Text",
+      "i": 502386,
+      "p": {
+        "name": "文字",
+        "layer": 1,
+        "position": {
+          "x": 1464,
+          "y": 227
+        }
+      },
+      "s": {
+        "text": "去超滤反洗管道混合器",
+        "text.align": "center",
+        "text.font": "16px arial, sans-serif",
+        "label": "",
+        "text.color": "rgb(255,255,255)"
+      }
+    },
+    {
+      "c": "ht.Text",
+      "i": 502387,
+      "p": {
+        "name": "文字",
+        "layer": 1,
+        "position": {
+          "x": 1769,
+          "y": 226
+        }
+      },
+      "s": {
+        "text": "去二级反渗透进水管",
+        "text.align": "center",
+        "text.font": "16px arial, sans-serif",
+        "label": "",
+        "text.color": "rgb(255,255,255)"
+      }
+    },
+    {
+      "c": "ht.Text",
+      "i": 502388,
+      "p": {
+        "name": "文字",
+        "layer": 1,
+        "position": {
+          "x": 2098,
+          "y": 225
+        }
+      },
+      "s": {
+        "text": "去热网补充水碱加药点",
+        "text.align": "center",
+        "text.font": "16px arial, sans-serif",
+        "label": "",
+        "text.color": "rgb(255,255,255)"
+      }
+    },
+    {
+      "c": "ht.Text",
+      "i": 502389,
+      "p": {
+        "name": "文字",
+        "layer": 1,
+        "rotation": 1.5708,
+        "position": {
+          "x": 1322,
+          "y": 359
+        }
+      },
+      "s": {
+        "text": "超滤反洗碱计量泵A",
+        "text.align": "center",
+        "text.font": "16px arial, sans-serif",
+        "label": "",
+        "text.color": "rgb(255,255,255)"
+      }
+    },
+    {
+      "c": "ht.Text",
+      "i": 502390,
+      "p": {
+        "name": "文字",
+        "layer": 1,
+        "rotation": 1.5708,
+        "position": {
+          "x": 1486.00018,
+          "y": 361.00009
+        }
+      },
+      "s": {
+        "text": "超滤反洗碱计量泵B",
+        "text.align": "center",
+        "text.font": "16px arial, sans-serif",
+        "label": "",
+        "text.color": "rgb(255,255,255)"
+      }
+    },
+    {
+      "c": "ht.Text",
+      "i": 502391,
+      "p": {
+        "name": "文字",
+        "layer": 1,
+        "rotation": 1.5708,
+        "position": {
+          "x": 1638.00018,
+          "y": 385.00009
+        }
+      },
+      "s": {
+        "text": "二级反渗透进水碱计量泵A",
+        "text.align": "center",
+        "text.font": "16px arial, sans-serif",
+        "label": "",
+        "text.color": "rgb(255,255,255)"
+      }
+    },
+    {
+      "c": "ht.Text",
+      "i": 502392,
+      "p": {
+        "name": "文字",
+        "layer": 1,
+        "rotation": 1.5708,
+        "position": {
+          "x": 1800.00018,
+          "y": 386.00009
+        }
+      },
+      "s": {
+        "text": "二级反渗透进水碱计量泵B",
+        "text.align": "center",
+        "text.font": "16px arial, sans-serif",
+        "label": "",
+        "text.color": "rgb(255,255,255)"
+      }
+    },
+    {
+      "c": "ht.Text",
+      "i": 502393,
+      "p": {
+        "name": "文字",
+        "layer": 1,
+        "rotation": 1.5708,
+        "position": {
+          "x": 1962.00018,
+          "y": 371.00009
+        }
+      },
+      "s": {
+        "text": "热网补水碱计量泵A",
+        "text.align": "center",
+        "text.font": "16px arial, sans-serif",
+        "label": "",
+        "text.color": "rgb(255,255,255)"
+      }
+    },
+    {
+      "c": "ht.Text",
+      "i": 502394,
+      "p": {
+        "name": "文字",
+        "layer": 1,
+        "rotation": 1.5708,
+        "position": {
+          "x": 2118.00018,
+          "y": 370.00009
+        }
+      },
+      "s": {
+        "text": "热网补水碱计量泵B",
+        "text.align": "center",
+        "text.font": "16px arial, sans-serif",
+        "label": "",
+        "text.color": "rgb(255,255,255)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502395,
+      "p": {
+        "name": "数据绑定",
+        "layer": 1,
+        "tag": "DPU1036.HW.AI030306.PV",
+        "image": "symbols/palette-icon/basic/数据绑定.json",
+        "position": {
+          "x": 739,
+          "y": 421
+        }
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.unit": "m",
+        "node.tag": "DPU1036.HW.AI030306.PV",
+        "node.label": "#.##"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502396,
+      "p": {
+        "name": "数据绑定",
+        "layer": 1,
+        "tag": "DPU1035.HW.AI090205.PV",
+        "image": "symbols/palette-icon/basic/数据绑定.json",
+        "position": {
+          "x": 854,
+          "y": 448
+        }
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.unit": "mm",
+        "node.tag": "DPU1035.HW.AI090205.PV",
+        "node.label": "###.##"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502397,
+      "p": {
+        "name": "数据绑定",
+        "layer": 1,
+        "tag": "DPU1035.HW.AI010205.PV",
+        "image": "symbols/palette-icon/basic/数据绑定.json",
+        "position": {
+          "x": 962,
+          "y": 452
+        },
+        "width": 80,
+        "height": 24
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.unit": "mm",
+        "node.tag": "DPU1035.HW.AI010205.PV",
+        "node.label": "###.##"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502398,
+      "p": {
+        "name": "数据绑定",
+        "layer": 1,
+        "tag": "DPU1035.HW.AI120105.PV",
+        "image": "symbols/palette-icon/basic/数据绑定.json",
+        "position": {
+          "x": 1071,
+          "y": 454
+        },
+        "width": 80,
+        "height": 24
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.unit": "mm",
+        "node.tag": "DPU1035.HW.AI120105.PV",
+        "node.label": "###.##"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502399,
+      "p": {
+        "name": "数据绑定",
+        "layer": 1,
+        "tag": "DPU1035.HW.AI070202.PV",
+        "image": "symbols/palette-icon/basic/数据绑定.json",
+        "position": {
+          "x": 1231,
+          "y": 405
+        }
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.unit": "Hz",
+        "node.tag": "DPU1035.HW.AI070202.PV"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502400,
+      "p": {
+        "name": "数据绑定",
+        "layer": 1,
+        "tag": "DPU1035.HW.AI080202.PV",
+        "image": "symbols/palette-icon/basic/数据绑定.json",
+        "position": {
+          "x": 1403,
+          "y": 404
+        },
+        "width": 80,
+        "height": 24
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.unit": "Hz",
+        "node.tag": "DPU1035.HW.AI080202.PV"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502401,
+      "p": {
+        "name": "数据绑定",
+        "layer": 1,
+        "tag": "DPU1035.HW.AI010205.PV",
+        "image": "symbols/palette-icon/basic/数据绑定.json",
+        "position": {
+          "x": 1553,
+          "y": 406
+        },
+        "width": 80,
+        "height": 24
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.unit": "Hz",
+        "node.tag": "DPU1035.HW.AI010205.PV"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502402,
+      "p": {
+        "name": "数据绑定",
+        "layer": 1,
+        "tag": "DPU1035.HW.AI020205.PV",
+        "image": "symbols/palette-icon/basic/数据绑定.json",
+        "position": {
+          "x": 1719,
+          "y": 404
+        },
+        "width": 80,
+        "height": 24
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.unit": "Hz",
+        "node.tag": "DPU1035.HW.AI020205.PV"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502403,
+      "p": {
+        "name": "数据绑定",
+        "layer": 1,
+        "tag": "DPU1036.HW.AI040201.PV",
+        "image": "symbols/palette-icon/basic/数据绑定.json",
+        "position": {
+          "x": 1871,
+          "y": 401
+        },
+        "width": 80,
+        "height": 24
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.unit": "Hz",
+        "node.tag": "DPU1036.HW.AI040201.PV"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502404,
+      "p": {
+        "name": "数据绑定",
+        "layer": 1,
+        "tag": "DPU1036.HW.AI040202.PV",
+        "image": "symbols/palette-icon/basic/数据绑定.json",
+        "position": {
+          "x": 2035,
+          "y": 402
+        },
+        "width": 80,
+        "height": 24
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.unit": "Hz",
+        "node.tag": "DPU1036.HW.AI040202.PV"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502405,
+      "p": {
+        "name": "筒（多处可用）",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/锅筒.json",
+        "rotation": 1.5708,
+        "position": {
+          "x": 622.00024,
+          "y": 54.50035
+        },
+        "width": 131,
+        "height": 188
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502406,
+      "p": {
+        "name": "罐（多处可用）",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/罐.json",
+        "rotation": 1.5708,
+        "position": {
+          "x": 958.00024,
+          "y": 57.50035
+        },
+        "width": 124,
+        "height": 102
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502407,
+      "p": {
+        "name": "罐（多处可用）",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/罐.json",
+        "rotation": 1.5708,
+        "position": {
+          "x": 1069.00024,
+          "y": 57.50035
+        },
+        "width": 124,
+        "height": 102
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 502408,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 506.00024,
+          "y": -37.49965
+        },
+        "width": 166.97858,
+        "height": 51.37802,
+        "points": {
+          "__a": [
+            {
+              "x": 422.51095,
+              "y": -63.18866
+            },
+            {
+              "x": 589.48953,
+              "y": -63.18866
+            },
+            {
+              "x": 589.48953,
+              "y": -11.81064
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(250,187,187)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 502409,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 467.00024,
+          "y": -26.49965
+        },
+        "width": 88,
+        "height": 74.49814,
+        "points": {
+          "__a": [
+            {
+              "x": 511.00024,
+              "y": -63.74872
+            },
+            {
+              "x": 511.00024,
+              "y": 10.74942
+            },
+            {
+              "x": 423.00024,
+              "y": 10.74942
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(250,187,187)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 502410,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 984.50024,
+          "y": -25.49965
+        },
+        "width": 211,
+        "height": 39.08433,
+        "points": {
+          "__a": [
+            {
+              "x": 879.00024,
+              "y": -45.04182
+            },
+            {
+              "x": 879.00024,
+              "y": -45.04182
+            },
+            {
+              "x": 1090.00024,
+              "y": -45.04182
+            },
+            {
+              "x": 1090.00024,
+              "y": -5.95749
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(250,187,187)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 502411,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 977.00024,
+          "y": -23.49965
+        },
+        "width": 0,
+        "height": 40.16474,
+        "points": {
+          "__a": [
+            {
+              "x": 977.00024,
+              "y": -43.58202
+            },
+            {
+              "x": 977.00024,
+              "y": -3.41728
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(250,187,187)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 502412,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1373.21312,
+          "y": 173.50035
+        },
+        "width": 956.60025,
+        "height": 0,
+        "points": {
+          "__a": [
+            {
+              "x": 894.913,
+              "y": 173.50035
+            },
+            {
+              "x": 1851.51325,
+              "y": 173.50035
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(250,187,187)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 502413,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 893.51325,
+          "y": 172.50035
+        },
+        "width": 0,
+        "height": 21.44832,
+        "points": {
+          "__a": [
+            {
+              "x": 893.51325,
+              "y": 161.77619
+            },
+            {
+              "x": 893.51325,
+              "y": 183.22451
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(250,187,187)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 502414,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 975,
+          "y": 146.18925
+        },
+        "width": 0,
+        "height": 54.3785,
+        "points": {
+          "__a": [
+            {
+              "x": 975,
+              "y": 119
+            },
+            {
+              "x": 975,
+              "y": 173.3785
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(250,187,187)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 502415,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1085.00024,
+          "y": 145.50035
+        },
+        "width": 0,
+        "height": 54.3785,
+        "points": {
+          "__a": [
+            {
+              "x": 1085.00024,
+              "y": 118.3111
+            },
+            {
+              "x": 1085.00024,
+              "y": 172.6896
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(250,187,187)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 502416,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1323.00024,
+          "y": 42.50035
+        },
+        "width": 87,
+        "height": 259.81695,
+        "points": {
+          "__a": [
+            {
+              "x": 1279.50024,
+              "y": 172.40882
+            },
+            {
+              "x": 1279.50024,
+              "y": -87.40813
+            },
+            {
+              "x": 1366.50024,
+              "y": -87.40813
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(250,187,187)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 502417,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1362.00024,
+          "y": 63.50035
+        },
+        "width": 165,
+        "height": 217.52117,
+        "points": {
+          "__a": [
+            {
+              "x": 1279.50024,
+              "y": -45.26024
+            },
+            {
+              "x": 1444.50024,
+              "y": -45.26024
+            },
+            {
+              "x": 1444.50024,
+              "y": 172.26093
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(250,187,187)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 502418,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1240.00024,
+          "y": 60.50035
+        },
+        "width": 72.80977,
+        "height": 130.65274,
+        "points": {
+          "__a": [
+            {
+              "x": 1276.40513,
+              "y": 125.82672
+            },
+            {
+              "x": 1203.59536,
+              "y": 125.82672
+            },
+            {
+              "x": 1203.59536,
+              "y": -4.72872
+            },
+            {
+              "x": 1224.0902,
+              "y": -4.82602
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(250,187,187)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 502419,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1258.00024,
+          "y": 21.50035
+        },
+        "width": 43,
+        "height": 20,
+        "points": {
+          "__a": [
+            {
+              "x": 1236.50024,
+              "y": 11.50035
+            },
+            {
+              "x": 1236.50024,
+              "y": 31.50035
+            },
+            {
+              "x": 1279.50024,
+              "y": 31.50035
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(250,187,187)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 502420,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1362.00024,
+          "y": 125.50035
+        },
+        "width": 160.37884,
+        "height": 0.28609,
+        "points": {
+          "__a": [
+            {
+              "x": 1281.81082,
+              "y": 125.3573
+            },
+            {
+              "x": 1442.18966,
+              "y": 125.64339
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(250,187,187)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 502421,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1382.00024,
+          "y": 59.50035
+        },
+        "width": 20,
+        "height": 130,
+        "points": {
+          "__a": [
+            {
+              "x": 1372.00024,
+              "y": 124.50035
+            },
+            {
+              "x": 1372.00024,
+              "y": -5.49965
+            },
+            {
+              "x": 1392.00024,
+              "y": -5.49965
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(250,187,187)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 502422,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1422.00024,
+          "y": 20.50035
+        },
+        "width": 43,
+        "height": 20,
+        "points": {
+          "__a": [
+            {
+              "x": 1400.50024,
+              "y": 10.50035
+            },
+            {
+              "x": 1400.50024,
+              "y": 30.50035
+            },
+            {
+              "x": 1443.50024,
+              "y": 30.50035
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(250,187,187)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 502423,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1484.00024,
+          "y": 126.50035
+        },
+        "width": 72.90852,
+        "height": 0,
+        "points": {
+          "__a": [
+            {
+              "x": 1447.54598,
+              "y": 126.50035
+            },
+            {
+              "x": 1520.4545,
+              "y": 126.50035
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(250,187,187)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 502424,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1639.00024,
+          "y": 43.50035
+        },
+        "width": 87,
+        "height": 259.81695,
+        "points": {
+          "__a": [
+            {
+              "x": 1595.50024,
+              "y": 173.40882
+            },
+            {
+              "x": 1595.50024,
+              "y": -86.40813
+            },
+            {
+              "x": 1682.50024,
+              "y": -86.40813
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(250,187,187)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 502425,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1678.00024,
+          "y": 64.50035
+        },
+        "width": 165,
+        "height": 217.52117,
+        "points": {
+          "__a": [
+            {
+              "x": 1595.50024,
+              "y": -44.26024
+            },
+            {
+              "x": 1760.50024,
+              "y": -44.26024
+            },
+            {
+              "x": 1760.50024,
+              "y": 173.26093
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(250,187,187)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 502426,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1556.00024,
+          "y": 61.50035
+        },
+        "width": 72.80977,
+        "height": 130.65274,
+        "points": {
+          "__a": [
+            {
+              "x": 1592.40513,
+              "y": 126.82672
+            },
+            {
+              "x": 1519.59536,
+              "y": 126.82672
+            },
+            {
+              "x": 1519.59536,
+              "y": -3.72872
+            },
+            {
+              "x": 1540.0902,
+              "y": -3.82602
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(250,187,187)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 502427,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1574.00024,
+          "y": 22.50035
+        },
+        "width": 43,
+        "height": 20,
+        "points": {
+          "__a": [
+            {
+              "x": 1552.50024,
+              "y": 12.50035
+            },
+            {
+              "x": 1552.50024,
+              "y": 32.50035
+            },
+            {
+              "x": 1595.50024,
+              "y": 32.50035
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(250,187,187)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 502428,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1678.00024,
+          "y": 126.50035
+        },
+        "width": 160.37884,
+        "height": 0.28609,
+        "points": {
+          "__a": [
+            {
+              "x": 1597.81082,
+              "y": 126.3573
+            },
+            {
+              "x": 1758.18966,
+              "y": 126.64339
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(250,187,187)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 502429,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1698.00024,
+          "y": 60.50035
+        },
+        "width": 20,
+        "height": 130,
+        "points": {
+          "__a": [
+            {
+              "x": 1688.00024,
+              "y": 125.50035
+            },
+            {
+              "x": 1688.00024,
+              "y": -4.49965
+            },
+            {
+              "x": 1708.00024,
+              "y": -4.49965
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(250,187,187)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 502430,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1738.00024,
+          "y": 21.50035
+        },
+        "width": 43,
+        "height": 20,
+        "points": {
+          "__a": [
+            {
+              "x": 1716.50024,
+              "y": 11.50035
+            },
+            {
+              "x": 1716.50024,
+              "y": 31.50035
+            },
+            {
+              "x": 1759.50024,
+              "y": 31.50035
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(250,187,187)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 502431,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1800.00024,
+          "y": 126.50035
+        },
+        "width": 73.85477,
+        "height": 0,
+        "points": {
+          "__a": [
+            {
+              "x": 1763.07286,
+              "y": 126.50035
+            },
+            {
+              "x": 1836.92763,
+              "y": 126.50035
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(250,187,187)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 502432,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1836,
+          "y": 150.10798
+        },
+        "width": 0,
+        "height": 48.21595,
+        "points": {
+          "__a": [
+            {
+              "x": 1836,
+              "y": 126
+            },
+            {
+              "x": 1836,
+              "y": 174.21595
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(250,187,187)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 502433,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1851.13996,
+          "y": 173.50035
+        },
+        "width": 0,
+        "height": 21.13372,
+        "points": {
+          "__a": [
+            {
+              "x": 1851.13996,
+              "y": 162.93349
+            },
+            {
+              "x": 1851.13996,
+              "y": 184.06721
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(250,187,187)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 502434,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 560.00024,
+          "y": 136.50035
+        },
+        "width": 0.1445,
+        "height": 32.2539,
+        "points": {
+          "__a": [
+            {
+              "x": 560.07249,
+              "y": 120.3734
+            },
+            {
+              "x": 559.92799,
+              "y": 152.6273
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(250,187,187)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502435,
+      "p": {
+        "name": "泵-普通",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/泵-普通.json",
+        "rotation": 1.5708,
+        "position": {
+          "x": 406.00024,
+          "y": -63.49965
+        },
+        "width": 32,
+        "height": 32
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502436,
+      "p": {
+        "name": "泵-普通",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/泵-普通.json",
+        "rotation": 1.5708,
+        "position": {
+          "x": 407.00024,
+          "y": 11.50035
+        },
+        "width": 32,
+        "height": 32
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502437,
+      "p": {
+        "name": "24",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/24.json",
+        "position": {
+          "x": 561.5,
+          "y": 182
+        },
+        "width": 47,
+        "height": 28
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(250,187,187)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502438,
+      "p": {
+        "name": "流入流出",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/流入流出.json",
+        "rotation": 1.5708,
+        "position": {
+          "x": 560.00003,
+          "y": 162.00003
+        },
+        "width": 14,
+        "height": 14
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(255,3,3)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502439,
+      "p": {
+        "name": "截止阀",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/截止阀.json",
+        "rotation": 1.5708,
+        "position": {
+          "x": 560.00024,
+          "y": 137.50035
+        },
+        "width": 30,
+        "height": 14
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(232,232,232)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502440,
+      "p": {
+        "name": "桨叶",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/桨叶.json",
+        "position": {
+          "x": 947.00024,
+          "y": 58.50035
+        },
+        "width": 46,
+        "height": 120
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502441,
+      "p": {
+        "name": "桨叶",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/桨叶.json",
+        "position": {
+          "x": 1060.00024,
+          "y": 57.50035
+        },
+        "width": 46,
+        "height": 120
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502442,
+      "p": {
+        "name": "电动机-MATE",
+        "layer": 1,
+        "image": "symbols/palette-icon/m-point/电动机-MATE.json",
+        "position": {
+          "x": 955.00024,
+          "y": -16.49965
+        },
+        "width": 48,
+        "height": 32
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502443,
+      "p": {
+        "name": "电动机-MATE",
+        "layer": 1,
+        "image": "symbols/palette-icon/m-point/电动机-MATE.json",
+        "position": {
+          "x": 1067.00024,
+          "y": -16.49965
+        },
+        "width": 48,
+        "height": 32
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502444,
+      "p": {
+        "name": "流向",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/流向.json",
+        "rotation": 1.5708,
+        "position": {
+          "x": 1228.00024,
+          "y": -4.49965
+        },
+        "width": 18,
+        "height": 15
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(224,224,224)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502445,
+      "p": {
+        "name": "流向",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/流向.json",
+        "position": {
+          "x": 1237.00024,
+          "y": 3.50035
+        },
+        "width": 18,
+        "height": 15
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(224,224,224)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502446,
+      "p": {
+        "name": "流向",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/流向.json",
+        "rotation": 1.5708,
+        "position": {
+          "x": 1392.00024,
+          "y": -5.49965
+        },
+        "width": 18,
+        "height": 15
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(224,224,224)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502447,
+      "p": {
+        "name": "流向",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/流向.json",
+        "position": {
+          "x": 1401.00024,
+          "y": 2.50035
+        },
+        "width": 18,
+        "height": 15
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(224,224,224)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502448,
+      "p": {
+        "name": "流向",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/流向.json",
+        "rotation": 1.5708,
+        "position": {
+          "x": 1543.00024,
+          "y": -3.49965
+        },
+        "width": 18,
+        "height": 15
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(224,224,224)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502449,
+      "p": {
+        "name": "流向",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/流向.json",
+        "position": {
+          "x": 1552.00024,
+          "y": 4.50035
+        },
+        "width": 18,
+        "height": 15
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(224,224,224)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502450,
+      "p": {
+        "name": "流向",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/流向.json",
+        "rotation": 1.5708,
+        "position": {
+          "x": 1708.00024,
+          "y": -3.49965
+        },
+        "width": 18,
+        "height": 15
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(224,224,224)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502451,
+      "p": {
+        "name": "流向",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/流向.json",
+        "position": {
+          "x": 1717.00024,
+          "y": 4.50035
+        },
+        "width": 18,
+        "height": 15
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(224,224,224)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502452,
+      "p": {
+        "name": "电动阀-带框",
+        "layer": 1,
+        "image": "symbols/palette-icon/m-point/电动阀-带框.json",
+        "position": {
+          "x": 1231.00024,
+          "y": 61.50035
+        },
+        "width": 34,
+        "height": 34
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502453,
+      "p": {
+        "name": "泵-MATE",
+        "layer": 1,
+        "image": "symbols/palette-icon/m-point/泵-MATE.json",
+        "position": {
+          "x": 1285.00024,
+          "y": 62.50035
+        },
+        "width": 48,
+        "height": 32
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502454,
+      "p": {
+        "name": "截止阀",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/截止阀.json",
+        "rotation": 1.5708,
+        "position": {
+          "x": 1280.00024,
+          "y": -62.49965
+        },
+        "width": 30,
+        "height": 14
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(232,232,232)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502455,
+      "p": {
+        "name": "截止阀",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/截止阀.json",
+        "rotation": 1.5708,
+        "position": {
+          "x": 1280.00024,
+          "y": -18.49965
+        },
+        "width": 30,
+        "height": 14
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(232,232,232)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502456,
+      "p": {
+        "name": "截止阀",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/截止阀.json",
+        "rotation": 1.5708,
+        "position": {
+          "x": 1280.00024,
+          "y": 147.50035
+        },
+        "width": 30,
+        "height": 14
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(232,232,232)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502457,
+      "p": {
+        "name": "截止阀",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/截止阀.json",
+        "rotation": 1.5708,
+        "position": {
+          "x": 1280.00024,
+          "y": 103.50035
+        },
+        "width": 30,
+        "height": 14
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(232,232,232)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502458,
+      "p": {
+        "name": "电动阀-带框",
+        "layer": 1,
+        "image": "symbols/palette-icon/m-point/电动阀-带框.json",
+        "position": {
+          "x": 1554.00024,
+          "y": 57.50035
+        },
+        "width": 34,
+        "height": 34
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502459,
+      "p": {
+        "name": "泵-MATE",
+        "layer": 1,
+        "image": "symbols/palette-icon/m-point/泵-MATE.json",
+        "position": {
+          "x": 1602.00024,
+          "y": 58.50035
+        },
+        "width": 48,
+        "height": 32
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502460,
+      "p": {
+        "name": "截止阀",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/截止阀.json",
+        "rotation": 1.5708,
+        "position": {
+          "x": 1596.00024,
+          "y": -64.49965
+        },
+        "width": 30,
+        "height": 14
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(232,232,232)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502461,
+      "p": {
+        "name": "截止阀",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/截止阀.json",
+        "rotation": 1.5708,
+        "position": {
+          "x": 1596.00024,
+          "y": -20.49965
+        },
+        "width": 30,
+        "height": 14
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(232,232,232)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502462,
+      "p": {
+        "name": "截止阀",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/截止阀.json",
+        "rotation": 1.5708,
+        "position": {
+          "x": 1596.00024,
+          "y": 145.50035
+        },
+        "width": 30,
+        "height": 14
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(232,232,232)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502463,
+      "p": {
+        "name": "截止阀",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/截止阀.json",
+        "rotation": 1.5708,
+        "position": {
+          "x": 1596.00024,
+          "y": 101.50035
+        },
+        "width": 30,
+        "height": 14
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(232,232,232)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502464,
+      "p": {
+        "name": "电动阀-带框",
+        "layer": 1,
+        "image": "symbols/palette-icon/m-point/电动阀-带框.json",
+        "position": {
+          "x": 1401.00024,
+          "y": 60.50035
+        },
+        "width": 34,
+        "height": 34
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502465,
+      "p": {
+        "name": "泵-MATE",
+        "layer": 1,
+        "image": "symbols/palette-icon/m-point/泵-MATE.json",
+        "position": {
+          "x": 1454.00024,
+          "y": 62.50035
+        },
+        "width": 48,
+        "height": 32
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502466,
+      "p": {
+        "name": "截止阀",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/截止阀.json",
+        "rotation": 1.5708,
+        "position": {
+          "x": 1445.00024,
+          "y": 105.50035
+        },
+        "width": 30,
+        "height": 14
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(232,232,232)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502467,
+      "p": {
+        "name": "截止阀",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/截止阀.json",
+        "rotation": 1.5708,
+        "position": {
+          "x": 1445.00024,
+          "y": 149.50035
+        },
+        "width": 30,
+        "height": 14
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(232,232,232)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502468,
+      "p": {
+        "name": "截止阀",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/截止阀.json",
+        "rotation": 1.5708,
+        "position": {
+          "x": 1445.00024,
+          "y": -20.49965
+        },
+        "width": 30,
+        "height": 14
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(232,232,232)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502469,
+      "p": {
+        "name": "电动阀-带框",
+        "layer": 1,
+        "image": "symbols/palette-icon/m-point/电动阀-带框.json",
+        "position": {
+          "x": 1717.00024,
+          "y": 60.50035
+        },
+        "width": 34,
+        "height": 34
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502470,
+      "p": {
+        "name": "泵-MATE",
+        "layer": 1,
+        "image": "symbols/palette-icon/m-point/泵-MATE.json",
+        "position": {
+          "x": 1770.00024,
+          "y": 62.50035
+        },
+        "width": 48,
+        "height": 32
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502471,
+      "p": {
+        "name": "截止阀",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/截止阀.json",
+        "rotation": 1.5708,
+        "position": {
+          "x": 1761.00024,
+          "y": 105.50035
+        },
+        "width": 30,
+        "height": 14
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(232,232,232)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502472,
+      "p": {
+        "name": "截止阀",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/截止阀.json",
+        "rotation": 1.5708,
+        "position": {
+          "x": 1761.00024,
+          "y": 149.50035
+        },
+        "width": 30,
+        "height": 14
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(232,232,232)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502473,
+      "p": {
+        "name": "截止阀",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/截止阀.json",
+        "rotation": 1.5708,
+        "position": {
+          "x": 1761.00024,
+          "y": -20.49965
+        },
+        "width": 30,
+        "height": 14
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(232,232,232)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502474,
+      "p": {
+        "name": "截止阀",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/截止阀.json",
+        "position": {
+          "x": 467.00024,
+          "y": -62.49965
+        },
+        "width": 30,
+        "height": 14
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(232,232,232)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502475,
+      "p": {
+        "name": "截止阀",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/截止阀.json",
+        "position": {
+          "x": 465.00024,
+          "y": 10.50035
+        },
+        "width": 30,
+        "height": 14
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(232,232,232)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502476,
+      "p": {
+        "name": "进度条",
+        "layer": 1,
+        "tag": "DPU1036.HW.AI030305.PV",
+        "image": "symbols/palette-icon/basic/进度条.json",
+        "position": {
+          "x": 690,
+          "y": 54.69368
+        },
+        "width": 28,
+        "height": 131.38736
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.tag": "DPU1036.HW.AI030305.PV",
+        "bar.max": 4
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 502477,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1234.00024,
+          "y": -11.49965
+        },
+        "width": 13,
+        "height": 16.42454,
+        "points": {
+          "__a": [
+            {
+              "x": 1239.53661,
+              "y": -19.71192
+            },
+            {
+              "x": 1227.50024,
+              "y": -16.62654
+            },
+            {
+              "x": 1240.50024,
+              "y": -14.94881
+            },
+            {
+              "x": 1227.5918,
+              "y": -11.75427
+            },
+            {
+              "x": 1236.4663,
+              "y": -9.99846
+            },
+            {
+              "x": 1236.55164,
+              "y": -3.28738
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 1,
+        "shape.border.color": "rgb(255,255,255)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 502478,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1398.00024,
+          "y": -13.49965
+        },
+        "width": 13,
+        "height": 16.42454,
+        "points": {
+          "__a": [
+            {
+              "x": 1403.53661,
+              "y": -21.71192
+            },
+            {
+              "x": 1391.50024,
+              "y": -18.62654
+            },
+            {
+              "x": 1404.50024,
+              "y": -16.94881
+            },
+            {
+              "x": 1391.5918,
+              "y": -13.75427
+            },
+            {
+              "x": 1400.4663,
+              "y": -11.99846
+            },
+            {
+              "x": 1400.55164,
+              "y": -5.28738
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 1,
+        "shape.border.color": "rgb(255,255,255)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 502479,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1550.00024,
+          "y": -10.49965
+        },
+        "width": 13,
+        "height": 16.42454,
+        "points": {
+          "__a": [
+            {
+              "x": 1555.53661,
+              "y": -18.71192
+            },
+            {
+              "x": 1543.50024,
+              "y": -15.62654
+            },
+            {
+              "x": 1556.50024,
+              "y": -13.94881
+            },
+            {
+              "x": 1543.5918,
+              "y": -10.75427
+            },
+            {
+              "x": 1552.4663,
+              "y": -8.99846
+            },
+            {
+              "x": 1552.55164,
+              "y": -2.28738
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 1,
+        "shape.border.color": "rgb(250,187,187)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 502480,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1714.5,
+          "y": -12.78773
+        },
+        "width": 13,
+        "height": 16.42454,
+        "points": {
+          "__a": [
+            {
+              "x": 1720.03637,
+              "y": -21
+            },
+            {
+              "x": 1708,
+              "y": -17.91462
+            },
+            {
+              "x": 1721,
+              "y": -16.23689
+            },
+            {
+              "x": 1708.09156,
+              "y": -13.04235
+            },
+            {
+              "x": 1716.96606,
+              "y": -11.28654
+            },
+            {
+              "x": 1717.0514,
+              "y": -4.57546
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 1,
+        "shape.border.color": "rgb(250,187,187)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502481,
+      "p": {
+        "name": "流入流出",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/流入流出.json",
+        "position": {
+          "x": 1376.00024,
+          "y": -86.49965
+        },
+        "width": 14,
+        "height": 14
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(255,3,3)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502482,
+      "p": {
+        "name": "流入流出",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/流入流出.json",
+        "position": {
+          "x": 1692.00024,
+          "y": -86.49965
+        },
+        "width": 14,
+        "height": 14
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(255,3,3)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502483,
+      "p": {
+        "name": "进度条",
+        "layer": 1,
+        "tag": "DPU1035.HW.AI090202.PV",
+        "image": "symbols/palette-icon/basic/进度条.json",
+        "position": {
+          "x": 1000.38286,
+          "y": 58
+        },
+        "width": 16.76572,
+        "height": 124
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.tag": "DPU1035.HW.AI090202.PV",
+        "bar.max": 800
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502484,
+      "p": {
+        "name": "进度条",
+        "layer": 1,
+        "tag": "DPU1035.HW.AI100202.PV",
+        "image": "symbols/palette-icon/basic/进度条.json",
+        "position": {
+          "x": 1112.38286,
+          "y": 58
+        },
+        "width": 16.76572,
+        "height": 124
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.tag": "DPU1035.HW.AI100202.PV",
+        "bar.max": 800
+      }
+    },
+    {
+      "c": "ht.Text",
+      "i": 502485,
+      "p": {
+        "name": "文字",
+        "layer": 1,
+        "position": {
+          "x": 582.00024,
+          "y": 104.50035
+        }
+      },
+      "s": {
+        "text": "酸储存罐",
+        "text.align": "center",
+        "text.font": "16px arial, sans-serif",
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Text",
+      "i": 502486,
+      "p": {
+        "name": "文字",
+        "layer": 1,
+        "position": {
+          "x": 948.00024,
+          "y": 162.50035
+        }
+      },
+      "s": {
+        "text": "酸计量箱A",
+        "text.align": "center",
+        "text.font": "16px arial, sans-serif",
+        "label": "",
+        "text.color": "rgb(255,255,255)"
+      }
+    },
+    {
+      "c": "ht.Text",
+      "i": 502487,
+      "p": {
+        "name": "文字",
+        "layer": 1,
+        "position": {
+          "x": 1055,
+          "y": 161
+        }
+      },
+      "s": {
+        "text": "酸计量箱B",
+        "text.align": "center",
+        "text.font": "16px arial, sans-serif",
+        "label": "",
+        "text.color": "rgb(255,255,255)"
+      }
+    },
+    {
+      "c": "ht.Text",
+      "i": 502488,
+      "p": {
+        "name": "文字",
+        "layer": 1,
+        "position": {
+          "x": 1423,
+          "y": -86
+        }
+      },
+      "s": {
+        "text": "去超滤反洗",
+        "text.align": "center",
+        "text.font": "16px arial, sans-serif",
+        "label": "",
+        "text.color": "rgb(255,255,255)"
+      }
+    },
+    {
+      "c": "ht.Text",
+      "i": 502489,
+      "p": {
+        "name": "文字",
+        "layer": 1,
+        "position": {
+          "x": 1772,
+          "y": -86
+        }
+      },
+      "s": {
+        "text": "去一级反渗透进水管",
+        "text.align": "center",
+        "text.font": "16px arial, sans-serif",
+        "label": "",
+        "text.color": "rgb(255,255,255)"
+      }
+    },
+    {
+      "c": "ht.Text",
+      "i": 502490,
+      "p": {
+        "name": "文字",
+        "layer": 1,
+        "rotation": 1.5708,
+        "position": {
+          "x": 1325.00024,
+          "y": 46.50035
+        }
+      },
+      "s": {
+        "text": "超滤反洗酸计量泵A",
+        "text.align": "center",
+        "text.font": "16px arial, sans-serif",
+        "label": "",
+        "text.color": "rgb(255,255,255)"
+      }
+    },
+    {
+      "c": "ht.Text",
+      "i": 502491,
+      "p": {
+        "name": "文字",
+        "layer": 1,
+        "rotation": 1.5708,
+        "position": {
+          "x": 1489.00018,
+          "y": 48.00009
+        }
+      },
+      "s": {
+        "text": "超滤反洗酸计量泵B",
+        "text.align": "center",
+        "text.font": "16px arial, sans-serif",
+        "label": "",
+        "text.color": "rgb(255,255,255)"
+      }
+    },
+    {
+      "c": "ht.Text",
+      "i": 502492,
+      "p": {
+        "name": "文字",
+        "layer": 1,
+        "rotation": 1.5708,
+        "position": {
+          "x": 1641.00018,
+          "y": 73.00009
+        }
+      },
+      "s": {
+        "text": "一级反渗透进水酸计量泵A",
+        "text.align": "center",
+        "text.font": "16px arial, sans-serif",
+        "label": "",
+        "text.color": "rgb(255,255,255)"
+      }
+    },
+    {
+      "c": "ht.Text",
+      "i": 502493,
+      "p": {
+        "name": "文字",
+        "layer": 1,
+        "rotation": 1.5708,
+        "position": {
+          "x": 1803.00018,
+          "y": 74.00009
+        }
+      },
+      "s": {
+        "text": "一级反渗透进水酸计量泵B",
+        "text.align": "center",
+        "text.font": "16px arial, sans-serif",
+        "label": "",
+        "text.color": "rgb(255,255,255)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502494,
+      "p": {
+        "name": "数据绑定",
+        "layer": 1,
+        "tag": "DPU1036.HW.AI030305.PV",
+        "image": "symbols/palette-icon/basic/数据绑定.json",
+        "position": {
+          "x": 742.00024,
+          "y": 108.50035
+        },
+        "width": 80,
+        "height": 24
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.unit": "m",
+        "node.tag": "DPU1036.HW.AI030305.PV",
+        "node.label": "#.##"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502495,
+      "p": {
+        "name": "数据绑定",
+        "layer": 1,
+        "tag": "DPU1035.HW.AI090202.PV",
+        "image": "symbols/palette-icon/basic/数据绑定.json",
+        "position": {
+          "x": 964,
+          "y": 140
+        },
+        "width": 80,
+        "height": 24
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.unit": "mm",
+        "node.tag": "DPU1035.HW.AI090202.PV",
+        "node.label": "###.##"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502496,
+      "p": {
+        "name": "数据绑定",
+        "layer": 1,
+        "tag": "DPU1035.HW.AI100202.PV",
+        "image": "symbols/palette-icon/basic/数据绑定.json",
+        "position": {
+          "x": 1074,
+          "y": 142
+        },
+        "width": 80,
+        "height": 24
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.unit": "mm",
+        "node.tag": "DPU1035.HW.AI100202.PV",
+        "node.label": "###.##"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502497,
+      "p": {
+        "name": "数据绑定",
+        "layer": 1,
+        "tag": "DPU1035.HW.AI010204.PV",
+        "image": "symbols/palette-icon/basic/数据绑定.json",
+        "position": {
+          "x": 1234.00024,
+          "y": 92.50035
+        },
+        "width": 80,
+        "height": 24
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.unit": "Hz",
+        "node.tag": "DPU1035.HW.AI010204.PV"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502498,
+      "p": {
+        "name": "数据绑定",
+        "layer": 1,
+        "tag": "DPU1035.HW.AI020204.PV",
+        "image": "symbols/palette-icon/basic/数据绑定.json",
+        "position": {
+          "x": 1406,
+          "y": 92
+        },
+        "width": 80,
+        "height": 24
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.unit": "Hz",
+        "node.tag": "DPU1035.HW.AI020204.PV"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502499,
+      "p": {
+        "name": "数据绑定",
+        "layer": 1,
+        "tag": "DPU1035.HW.AI030203.PV",
+        "image": "symbols/palette-icon/basic/数据绑定.json",
+        "position": {
+          "x": 1555,
+          "y": 94
+        },
+        "width": 80,
+        "height": 24
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.unit": "Hz",
+        "node.tag": "DPU1035.HW.AI030203.PV"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502500,
+      "p": {
+        "name": "数据绑定",
+        "layer": 1,
+        "tag": "DPU1035.HW.AI030204.PV",
+        "image": "symbols/palette-icon/basic/数据绑定.json",
+        "position": {
+          "x": 1722.00024,
+          "y": 91.50035
+        },
+        "width": 80,
+        "height": 24
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.unit": "Hz",
+        "node.tag": "DPU1035.HW.AI030204.PV"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502501,
+      "p": {
+        "name": "筒（多处可用）",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/锅筒.json",
+        "rotation": 1.5708,
+        "position": {
+          "x": 617.38286,
+          "y": -232
+        },
+        "width": 131,
+        "height": 188
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502502,
+      "p": {
+        "name": "罐（多处可用）",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/罐.json",
+        "rotation": 1.5708,
+        "position": {
+          "x": 953.00023,
+          "y": -228.99981
+        },
+        "width": 124,
+        "height": 102
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502503,
+      "p": {
+        "name": "罐（多处可用）",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/罐.json",
+        "rotation": 1.5708,
+        "position": {
+          "x": 1064.38286,
+          "y": -229
+        },
+        "width": 124,
+        "height": 102
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 502504,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 501.48929,
+          "y": -323.31099
+        },
+        "width": 166.97858,
+        "height": 51.37802,
+        "points": {
+          "__a": [
+            {
+              "x": 418,
+              "y": -349
+            },
+            {
+              "x": 584.97858,
+              "y": -349
+            },
+            {
+              "x": 584.97858,
+              "y": -297.62198
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(0,218,222)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 502505,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 462.38286,
+          "y": -313
+        },
+        "width": 88,
+        "height": 74.49814,
+        "points": {
+          "__a": [
+            {
+              "x": 506.38286,
+              "y": -350.24907
+            },
+            {
+              "x": 506.38286,
+              "y": -275.75093
+            },
+            {
+              "x": 418.38286,
+              "y": -275.75093
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(0,218,222)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 502506,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 886.38286,
+          "y": -312
+        },
+        "width": 398,
+        "height": 39.08433,
+        "points": {
+          "__a": [
+            {
+              "x": 687.38286,
+              "y": -298.44351
+            },
+            {
+              "x": 687.38286,
+              "y": -331.54217
+            },
+            {
+              "x": 1085.38286,
+              "y": -331.54217
+            },
+            {
+              "x": 1085.38286,
+              "y": -292.45783
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(0,218,222)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 502507,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 972.38286,
+          "y": -310
+        },
+        "width": 0,
+        "height": 40.16474,
+        "points": {
+          "__a": [
+            {
+              "x": 972.38286,
+              "y": -330.08237
+            },
+            {
+              "x": 972.38286,
+              "y": -289.91763
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(0,218,222)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 502508,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1361.10747,
+          "y": -113
+        },
+        "width": 973.57679,
+        "height": 0,
+        "points": {
+          "__a": [
+            {
+              "x": 874.31908,
+              "y": -113
+            },
+            {
+              "x": 1847.89586,
+              "y": -113
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(0,218,222)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 502509,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 872.89587,
+          "y": -114
+        },
+        "width": 0,
+        "height": 21.44832,
+        "points": {
+          "__a": [
+            {
+              "x": 872.89587,
+              "y": -124.72416
+            },
+            {
+              "x": 872.89587,
+              "y": -103.27584
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(0,218,222)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 502510,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 971.38286,
+          "y": -140
+        },
+        "width": 0,
+        "height": 54.3785,
+        "points": {
+          "__a": [
+            {
+              "x": 971.38286,
+              "y": -167.18925
+            },
+            {
+              "x": 971.38286,
+              "y": -112.81075
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(0,218,222)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 502511,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1080.38286,
+          "y": -141
+        },
+        "width": 0,
+        "height": 54.3785,
+        "points": {
+          "__a": [
+            {
+              "x": 1080.38286,
+              "y": -168.18925
+            },
+            {
+              "x": 1080.38286,
+              "y": -113.81075
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(0,218,222)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 502512,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1318.38286,
+          "y": -244
+        },
+        "width": 87,
+        "height": 259.81695,
+        "points": {
+          "__a": [
+            {
+              "x": 1274.88286,
+              "y": -114.09152
+            },
+            {
+              "x": 1274.88286,
+              "y": -373.90848
+            },
+            {
+              "x": 1361.88286,
+              "y": -373.90848
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(0,218,222)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 502513,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1357.38286,
+          "y": -223
+        },
+        "width": 165,
+        "height": 217.52117,
+        "points": {
+          "__a": [
+            {
+              "x": 1274.88286,
+              "y": -331.76058
+            },
+            {
+              "x": 1439.88286,
+              "y": -331.76058
+            },
+            {
+              "x": 1439.88286,
+              "y": -114.23942
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(0,218,222)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 502514,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1235.38286,
+          "y": -226
+        },
+        "width": 72.80977,
+        "height": 130.65274,
+        "points": {
+          "__a": [
+            {
+              "x": 1271.78774,
+              "y": -160.67363
+            },
+            {
+              "x": 1198.97798,
+              "y": -160.67363
+            },
+            {
+              "x": 1198.97798,
+              "y": -291.22907
+            },
+            {
+              "x": 1219.47282,
+              "y": -291.32637
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(0,218,222)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 502515,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1253.38286,
+          "y": -265
+        },
+        "width": 43,
+        "height": 20,
+        "points": {
+          "__a": [
+            {
+              "x": 1231.88286,
+              "y": -275
+            },
+            {
+              "x": 1231.88286,
+              "y": -255
+            },
+            {
+              "x": 1274.88286,
+              "y": -255
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(0,218,222)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 502516,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1357.38286,
+          "y": -161
+        },
+        "width": 160.37884,
+        "height": 0.28609,
+        "points": {
+          "__a": [
+            {
+              "x": 1277.19344,
+              "y": -161.14305
+            },
+            {
+              "x": 1437.57228,
+              "y": -160.85695
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(0,218,222)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 502517,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1377.38286,
+          "y": -227
+        },
+        "width": 20,
+        "height": 130,
+        "points": {
+          "__a": [
+            {
+              "x": 1367.38286,
+              "y": -162
+            },
+            {
+              "x": 1367.38286,
+              "y": -292
+            },
+            {
+              "x": 1387.38286,
+              "y": -292
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(0,218,222)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 502518,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1417.38286,
+          "y": -266
+        },
+        "width": 43,
+        "height": 20,
+        "points": {
+          "__a": [
+            {
+              "x": 1395.88286,
+              "y": -276
+            },
+            {
+              "x": 1395.88286,
+              "y": -256
+            },
+            {
+              "x": 1438.88286,
+              "y": -256
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(0,218,222)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 502519,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1479.38286,
+          "y": -160
+        },
+        "width": 72.90852,
+        "height": 0,
+        "points": {
+          "__a": [
+            {
+              "x": 1442.9286,
+              "y": -160
+            },
+            {
+              "x": 1515.83712,
+              "y": -160
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(0,218,222)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 502520,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1634.38286,
+          "y": -243
+        },
+        "width": 87,
+        "height": 259.81695,
+        "points": {
+          "__a": [
+            {
+              "x": 1590.88286,
+              "y": -113.09152
+            },
+            {
+              "x": 1590.88286,
+              "y": -372.90848
+            },
+            {
+              "x": 1677.88286,
+              "y": -372.90848
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(0,218,222)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 502521,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1673.38286,
+          "y": -222
+        },
+        "width": 165,
+        "height": 217.52117,
+        "points": {
+          "__a": [
+            {
+              "x": 1590.88286,
+              "y": -330.76058
+            },
+            {
+              "x": 1755.88286,
+              "y": -330.76058
+            },
+            {
+              "x": 1755.88286,
+              "y": -113.23941
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(0,218,222)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 502522,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1551.38286,
+          "y": -225
+        },
+        "width": 72.80977,
+        "height": 130.65274,
+        "points": {
+          "__a": [
+            {
+              "x": 1587.78774,
+              "y": -159.67363
+            },
+            {
+              "x": 1514.97798,
+              "y": -159.67363
+            },
+            {
+              "x": 1514.97798,
+              "y": -290.22907
+            },
+            {
+              "x": 1535.47282,
+              "y": -290.32637
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(0,218,222)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 502523,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1569.38286,
+          "y": -264
+        },
+        "width": 43,
+        "height": 20,
+        "points": {
+          "__a": [
+            {
+              "x": 1547.88286,
+              "y": -274
+            },
+            {
+              "x": 1547.88286,
+              "y": -254
+            },
+            {
+              "x": 1590.88286,
+              "y": -254
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(0,218,222)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 502524,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1673.38286,
+          "y": -160
+        },
+        "width": 160.37884,
+        "height": 0.28609,
+        "points": {
+          "__a": [
+            {
+              "x": 1593.19344,
+              "y": -160.14305
+            },
+            {
+              "x": 1753.57228,
+              "y": -159.85695
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(0,218,222)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 502525,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1693.38286,
+          "y": -226
+        },
+        "width": 20,
+        "height": 130,
+        "points": {
+          "__a": [
+            {
+              "x": 1683.38286,
+              "y": -161
+            },
+            {
+              "x": 1683.38286,
+              "y": -291
+            },
+            {
+              "x": 1703.38286,
+              "y": -291
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(0,218,222)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 502526,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1733.38286,
+          "y": -265
+        },
+        "width": 43,
+        "height": 20,
+        "points": {
+          "__a": [
+            {
+              "x": 1711.88286,
+              "y": -275
+            },
+            {
+              "x": 1711.88286,
+              "y": -255
+            },
+            {
+              "x": 1754.88286,
+              "y": -255
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(0,218,222)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 502527,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1795.38286,
+          "y": -160
+        },
+        "width": 73.85477,
+        "height": 0,
+        "points": {
+          "__a": [
+            {
+              "x": 1758.45547,
+              "y": -160
+            },
+            {
+              "x": 1832.31024,
+              "y": -160
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(0,218,222)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 502528,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1832,
+          "y": -135.89202
+        },
+        "width": 0,
+        "height": 48.21595,
+        "points": {
+          "__a": [
+            {
+              "x": 1832,
+              "y": -160
+            },
+            {
+              "x": 1832,
+              "y": -111.78405
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(0,218,222)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 502529,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1847.52222,
+          "y": -113
+        },
+        "width": 0,
+        "height": 21.13372,
+        "points": {
+          "__a": [
+            {
+              "x": 1847.52222,
+              "y": -123.56686
+            },
+            {
+              "x": 1847.52222,
+              "y": -102.43314
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(0,218,222)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 502530,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 555.38286,
+          "y": -150
+        },
+        "width": 0.1445,
+        "height": 32.2539,
+        "points": {
+          "__a": [
+            {
+              "x": 555.45511,
+              "y": -166.12695
+            },
+            {
+              "x": 555.31061,
+              "y": -133.87305
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(0,218,222)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502531,
+      "p": {
+        "name": "泵-普通",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/泵-普通.json",
+        "rotation": 1.5708,
+        "position": {
+          "x": 401.38286,
+          "y": -349
+        },
+        "width": 32,
+        "height": 32
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502532,
+      "p": {
+        "name": "泵-普通",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/泵-普通.json",
+        "rotation": 1.5708,
+        "position": {
+          "x": 402.38286,
+          "y": -275
+        },
+        "width": 32,
+        "height": 32
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502533,
+      "p": {
+        "name": "24",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/24.json",
+        "position": {
+          "x": 556.5,
+          "y": -105
+        },
+        "width": 47,
+        "height": 28
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(0,218,222)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502534,
+      "p": {
+        "name": "流入流出",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/流入流出.json",
+        "rotation": 1.5708,
+        "position": {
+          "x": 555.38286,
+          "y": -125
+        },
+        "width": 14,
+        "height": 14
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(51,231,255)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502535,
+      "p": {
+        "name": "截止阀",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/截止阀.json",
+        "rotation": 1.5708,
+        "position": {
+          "x": 555.38286,
+          "y": -149
+        },
+        "width": 30,
+        "height": 14
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(232,232,232)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502536,
+      "p": {
+        "name": "桨叶",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/桨叶.json",
+        "position": {
+          "x": 942.38286,
+          "y": -228
+        },
+        "width": 46,
+        "height": 120
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502537,
+      "p": {
+        "name": "桨叶",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/桨叶.json",
+        "position": {
+          "x": 1055.38286,
+          "y": -229
+        },
+        "width": 46,
+        "height": 120
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502538,
+      "p": {
+        "name": "电动机-MATE",
+        "layer": 1,
+        "image": "symbols/palette-icon/m-point/电动机-MATE.json",
+        "position": {
+          "x": 950.38286,
+          "y": -303
+        },
+        "width": 48,
+        "height": 32
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502539,
+      "p": {
+        "name": "电动机-MATE",
+        "layer": 1,
+        "image": "symbols/palette-icon/m-point/电动机-MATE.json",
+        "position": {
+          "x": 1062.38286,
+          "y": -303
+        },
+        "width": 48,
+        "height": 32
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502540,
+      "p": {
+        "name": "流向",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/流向.json",
+        "rotation": 1.5708,
+        "position": {
+          "x": 1223.38286,
+          "y": -291
+        },
+        "width": 18,
+        "height": 15
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(224,224,224)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502541,
+      "p": {
+        "name": "流向",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/流向.json",
+        "position": {
+          "x": 1232.38286,
+          "y": -283
+        },
+        "width": 18,
+        "height": 15
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(224,224,224)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502542,
+      "p": {
+        "name": "流向",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/流向.json",
+        "rotation": 1.5708,
+        "position": {
+          "x": 1387.38286,
+          "y": -292
+        },
+        "width": 18,
+        "height": 15
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(224,224,224)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502543,
+      "p": {
+        "name": "流向",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/流向.json",
+        "position": {
+          "x": 1396.38286,
+          "y": -284
+        },
+        "width": 18,
+        "height": 15
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(224,224,224)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502544,
+      "p": {
+        "name": "流向",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/流向.json",
+        "rotation": 1.5708,
+        "position": {
+          "x": 1538.38286,
+          "y": -290
+        },
+        "width": 18,
+        "height": 15
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(224,224,224)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502545,
+      "p": {
+        "name": "流向",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/流向.json",
+        "position": {
+          "x": 1547.38286,
+          "y": -282
+        },
+        "width": 18,
+        "height": 15
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(224,224,224)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502546,
+      "p": {
+        "name": "流向",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/流向.json",
+        "rotation": 1.5708,
+        "position": {
+          "x": 1703.38286,
+          "y": -290
+        },
+        "width": 18,
+        "height": 15
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(224,224,224)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502547,
+      "p": {
+        "name": "流向",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/流向.json",
+        "position": {
+          "x": 1712.38286,
+          "y": -282
+        },
+        "width": 18,
+        "height": 15
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(224,224,224)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502548,
+      "p": {
+        "name": "电动阀-带框",
+        "layer": 1,
+        "image": "symbols/palette-icon/m-point/电动阀-带框.json",
+        "position": {
+          "x": 1226.38286,
+          "y": -225
+        },
+        "width": 34,
+        "height": 34
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502549,
+      "p": {
+        "name": "泵-MATE",
+        "layer": 1,
+        "image": "symbols/palette-icon/m-point/泵-MATE.json",
+        "position": {
+          "x": 1280.38286,
+          "y": -224
+        },
+        "width": 48,
+        "height": 32
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502550,
+      "p": {
+        "name": "截止阀",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/截止阀.json",
+        "rotation": 1.5708,
+        "position": {
+          "x": 1275.38286,
+          "y": -348
+        },
+        "width": 30,
+        "height": 14
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(232,232,232)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502551,
+      "p": {
+        "name": "截止阀",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/截止阀.json",
+        "rotation": 1.5708,
+        "position": {
+          "x": 1275.38286,
+          "y": -305
+        },
+        "width": 30,
+        "height": 14
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(232,232,232)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502552,
+      "p": {
+        "name": "截止阀",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/截止阀.json",
+        "rotation": 1.5708,
+        "position": {
+          "x": 1275.38286,
+          "y": -139
+        },
+        "width": 30,
+        "height": 14
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(232,232,232)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502553,
+      "p": {
+        "name": "截止阀",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/截止阀.json",
+        "rotation": 1.5708,
+        "position": {
+          "x": 1275.38286,
+          "y": -183
+        },
+        "width": 30,
+        "height": 14
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(232,232,232)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502554,
+      "p": {
+        "name": "电动阀-带框",
+        "layer": 1,
+        "image": "symbols/palette-icon/m-point/电动阀-带框.json",
+        "position": {
+          "x": 1549.38286,
+          "y": -229
+        },
+        "width": 34,
+        "height": 34
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502555,
+      "p": {
+        "name": "泵-MATE",
+        "layer": 1,
+        "image": "symbols/palette-icon/m-point/泵-MATE.json",
+        "position": {
+          "x": 1597.38286,
+          "y": -228
+        },
+        "width": 48,
+        "height": 32
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502556,
+      "p": {
+        "name": "截止阀",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/截止阀.json",
+        "rotation": 1.5708,
+        "position": {
+          "x": 1591.38286,
+          "y": -350
+        },
+        "width": 30,
+        "height": 14
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(232,232,232)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502557,
+      "p": {
+        "name": "截止阀",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/截止阀.json",
+        "rotation": 1.5708,
+        "position": {
+          "x": 1591.38286,
+          "y": -307
+        },
+        "width": 30,
+        "height": 14
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(232,232,232)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502558,
+      "p": {
+        "name": "截止阀",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/截止阀.json",
+        "rotation": 1.5708,
+        "position": {
+          "x": 1591.38286,
+          "y": -141
+        },
+        "width": 30,
+        "height": 14
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(232,232,232)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502559,
+      "p": {
+        "name": "截止阀",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/截止阀.json",
+        "rotation": 1.5708,
+        "position": {
+          "x": 1591.38286,
+          "y": -185
+        },
+        "width": 30,
+        "height": 14
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(232,232,232)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502560,
+      "p": {
+        "name": "电动阀-带框",
+        "layer": 1,
+        "image": "symbols/palette-icon/m-point/电动阀-带框.json",
+        "position": {
+          "x": 1396.38286,
+          "y": -226
+        },
+        "width": 34,
+        "height": 34
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502561,
+      "p": {
+        "name": "泵-MATE",
+        "layer": 1,
+        "image": "symbols/palette-icon/m-point/泵-MATE.json",
+        "position": {
+          "x": 1449.38286,
+          "y": -224
+        },
+        "width": 48,
+        "height": 32
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502562,
+      "p": {
+        "name": "截止阀",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/截止阀.json",
+        "rotation": 1.5708,
+        "position": {
+          "x": 1440.38286,
+          "y": -181
+        },
+        "width": 30,
+        "height": 14
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(232,232,232)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502563,
+      "p": {
+        "name": "截止阀",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/截止阀.json",
+        "rotation": 1.5708,
+        "position": {
+          "x": 1440.38286,
+          "y": -137
+        },
+        "width": 30,
+        "height": 14
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(232,232,232)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502564,
+      "p": {
+        "name": "截止阀",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/截止阀.json",
+        "rotation": 1.5708,
+        "position": {
+          "x": 1440.38286,
+          "y": -307
+        },
+        "width": 30,
+        "height": 14
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(232,232,232)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502565,
+      "p": {
+        "name": "电动阀-带框",
+        "layer": 1,
+        "image": "symbols/palette-icon/m-point/电动阀-带框.json",
+        "position": {
+          "x": 1712.38286,
+          "y": -226
+        },
+        "width": 34,
+        "height": 34
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502566,
+      "p": {
+        "name": "泵-MATE",
+        "layer": 1,
+        "image": "symbols/palette-icon/m-point/泵-MATE.json",
+        "position": {
+          "x": 1765.38286,
+          "y": -224
+        },
+        "width": 48,
+        "height": 32
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502567,
+      "p": {
+        "name": "截止阀",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/截止阀.json",
+        "rotation": 1.5708,
+        "position": {
+          "x": 1756.38286,
+          "y": -181
+        },
+        "width": 30,
+        "height": 14
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(232,232,232)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502568,
+      "p": {
+        "name": "截止阀",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/截止阀.json",
+        "rotation": 1.5708,
+        "position": {
+          "x": 1756.38286,
+          "y": -137
+        },
+        "width": 30,
+        "height": 14
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(232,232,232)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502569,
+      "p": {
+        "name": "截止阀",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/截止阀.json",
+        "rotation": 1.5708,
+        "position": {
+          "x": 1756.38286,
+          "y": -307
+        },
+        "width": 30,
+        "height": 14
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(232,232,232)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502570,
+      "p": {
+        "name": "截止阀",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/截止阀.json",
+        "position": {
+          "x": 462.38286,
+          "y": -348
+        },
+        "width": 30,
+        "height": 14
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(232,232,232)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502571,
+      "p": {
+        "name": "截止阀",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/截止阀.json",
+        "position": {
+          "x": 460.38286,
+          "y": -276
+        },
+        "width": 30,
+        "height": 14
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(232,232,232)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502572,
+      "p": {
+        "name": "进度条",
+        "layer": 1,
+        "tag": "DPU1036.HW.AI030304.PV",
+        "image": "symbols/palette-icon/basic/进度条.json",
+        "position": {
+          "x": 685,
+          "y": -232.30632
+        },
+        "width": 28,
+        "height": 131.38736
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.tag": "DPU1036.HW.AI030304.PV",
+        "bar.max": 4
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 502573,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1229.5,
+          "y": -297.78773
+        },
+        "width": 13,
+        "height": 16.42454,
+        "points": {
+          "__a": [
+            {
+              "x": 1235.03637,
+              "y": -306
+            },
+            {
+              "x": 1223,
+              "y": -302.91462
+            },
+            {
+              "x": 1236,
+              "y": -301.23689
+            },
+            {
+              "x": 1223.09156,
+              "y": -298.04235
+            },
+            {
+              "x": 1231.96606,
+              "y": -296.28654
+            },
+            {
+              "x": 1232.0514,
+              "y": -289.57546
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 1,
+        "shape.border.color": "rgb(0,218,222)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 502574,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1393.38286,
+          "y": -300
+        },
+        "width": 13,
+        "height": 16.42454,
+        "points": {
+          "__a": [
+            {
+              "x": 1398.91923,
+              "y": -308.21227
+            },
+            {
+              "x": 1386.88286,
+              "y": -305.12689
+            },
+            {
+              "x": 1399.88286,
+              "y": -303.44916
+            },
+            {
+              "x": 1386.97442,
+              "y": -300.25462
+            },
+            {
+              "x": 1395.84892,
+              "y": -298.49881
+            },
+            {
+              "x": 1395.93426,
+              "y": -291.78773
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 1,
+        "shape.border.color": "rgb(255,255,255)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 502575,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1545.38286,
+          "y": -297
+        },
+        "width": 13,
+        "height": 16.42454,
+        "points": {
+          "__a": [
+            {
+              "x": 1550.91923,
+              "y": -305.21227
+            },
+            {
+              "x": 1538.88286,
+              "y": -302.12689
+            },
+            {
+              "x": 1551.88286,
+              "y": -300.44916
+            },
+            {
+              "x": 1538.97442,
+              "y": -297.25462
+            },
+            {
+              "x": 1547.84892,
+              "y": -295.49881
+            },
+            {
+              "x": 1547.93426,
+              "y": -288.78773
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 1,
+        "shape.border.color": "rgb(255,255,255)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 502576,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1709.38286,
+          "y": -299
+        },
+        "width": 13,
+        "height": 16.42454,
+        "points": {
+          "__a": [
+            {
+              "x": 1714.91923,
+              "y": -307.21227
+            },
+            {
+              "x": 1702.88286,
+              "y": -304.12689
+            },
+            {
+              "x": 1715.88286,
+              "y": -302.44916
+            },
+            {
+              "x": 1702.97442,
+              "y": -299.25462
+            },
+            {
+              "x": 1711.84892,
+              "y": -297.49881
+            },
+            {
+              "x": 1711.93426,
+              "y": -290.78773
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 1,
+        "shape.border.color": "rgb(255,255,255)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502577,
+      "p": {
+        "name": "流入流出",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/流入流出.json",
+        "position": {
+          "x": 1370.38286,
+          "y": -374
+        },
+        "width": 14,
+        "height": 14
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(51,231,255)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502578,
+      "p": {
+        "name": "流入流出",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/流入流出.json",
+        "position": {
+          "x": 1686.38286,
+          "y": -373
+        },
+        "width": 14,
+        "height": 14
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(51,231,255)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502579,
+      "p": {
+        "name": "进度条",
+        "layer": 1,
+        "tag": "DPU1035.HW.AI090201.PV",
+        "image": "symbols/palette-icon/basic/进度条.json",
+        "position": {
+          "x": 995.38286,
+          "y": -229
+        },
+        "width": 16.76572,
+        "height": 124
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.tag": "DPU1035.HW.AI090201.PV",
+        "bar.max": 800
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502580,
+      "p": {
+        "name": "进度条",
+        "layer": 1,
+        "tag": "DPU1035.HW.AI100201.PV",
+        "image": "symbols/palette-icon/basic/进度条.json",
+        "position": {
+          "x": 1107.38286,
+          "y": -229
+        },
+        "width": 16.76572,
+        "height": 124
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.tag": "DPU1035.HW.AI100201.PV",
+        "bar.max": 800
+      }
+    },
+    {
+      "c": "ht.Text",
+      "i": 502581,
+      "p": {
+        "name": "文字",
+        "layer": 1,
+        "position": {
+          "x": 601.38286,
+          "y": -182
+        }
+      },
+      "s": {
+        "text": "次氯酸钠储存罐",
+        "text.align": "center",
+        "text.font": "16px arial, sans-serif",
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Text",
+      "i": 502582,
+      "p": {
+        "name": "文字",
+        "layer": 1,
+        "position": {
+          "x": 930,
+          "y": -131
+        }
+      },
+      "s": {
+        "text": "次氯酸钠计量箱A",
+        "text.align": "center",
+        "text.font": "16px arial, sans-serif",
+        "label": "",
+        "text.color": "rgb(255,255,255)"
+      }
+    },
+    {
+      "c": "ht.Text",
+      "i": 502583,
+      "p": {
+        "name": "文字",
+        "layer": 1,
+        "position": {
+          "x": 1067,
+          "y": -127
+        }
+      },
+      "s": {
+        "text": "次氯酸钠计量箱B",
+        "text.align": "center",
+        "text.font": "16px arial, sans-serif",
+        "label": "",
+        "text.color": "rgb(255,255,255)"
+      }
+    },
+    {
+      "c": "ht.Text",
+      "i": 502584,
+      "p": {
+        "name": "文字",
+        "layer": 1,
+        "position": {
+          "x": 1423,
+          "y": -372
+        }
+      },
+      "s": {
+        "text": "去超滤反洗",
+        "text.align": "center",
+        "text.font": "16px arial, sans-serif",
+        "label": "",
+        "text.color": "rgb(255,255,255)"
+      }
+    },
+    {
+      "c": "ht.Text",
+      "i": 502585,
+      "p": {
+        "name": "文字",
+        "layer": 1,
+        "position": {
+          "x": 1746,
+          "y": -371
+        }
+      },
+      "s": {
+        "text": "去过滤器进水",
+        "text.align": "center",
+        "text.font": "16px arial, sans-serif",
+        "label": "",
+        "text.color": "rgb(255,255,255)"
+      }
+    },
+    {
+      "c": "ht.Text",
+      "i": 502586,
+      "p": {
+        "name": "文字",
+        "layer": 1,
+        "rotation": 1.5708,
+        "position": {
+          "x": 1315,
+          "y": -233
+        }
+      },
+      "s": {
+        "text": "超滤反洗次氯酸钠计量泵A",
+        "text.align": "center",
+        "text.font": "16px arial, sans-serif",
+        "label": "",
+        "text.color": "rgb(255,255,255)"
+      }
+    },
+    {
+      "c": "ht.Text",
+      "i": 502587,
+      "p": {
+        "name": "文字",
+        "layer": 1,
+        "rotation": 1.5708,
+        "position": {
+          "x": 1484.00018,
+          "y": -233.99991
+        }
+      },
+      "s": {
+        "text": "超滤反洗次氯酸钠计量泵B",
+        "text.align": "center",
+        "text.font": "16px arial, sans-serif",
+        "label": "",
+        "text.color": "rgb(255,255,255)"
+      }
+    },
+    {
+      "c": "ht.Text",
+      "i": 502588,
+      "p": {
+        "name": "文字",
+        "layer": 1,
+        "rotation": 1.5708,
+        "position": {
+          "x": 1636.38286,
+          "y": -214
+        }
+      },
+      "s": {
+        "text": "过滤器进水次氯酸钠计量泵A",
+        "text.align": "center",
+        "text.font": "16px arial, sans-serif",
+        "label": "",
+        "text.color": "rgb(255,255,255)"
+      }
+    },
+    {
+      "c": "ht.Text",
+      "i": 502589,
+      "p": {
+        "name": "文字",
+        "layer": 1,
+        "rotation": 1.5708,
+        "position": {
+          "x": 1798.38286,
+          "y": -213
+        }
+      },
+      "s": {
+        "text": "过滤器进水次氯酸钠计量泵B",
+        "text.align": "center",
+        "text.font": "16px arial, sans-serif",
+        "label": "",
+        "text.color": "rgb(255,255,255)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502590,
+      "p": {
+        "name": "数据绑定",
+        "layer": 1,
+        "tag": "DPU1036.HW.AI030304.PV",
+        "image": "symbols/palette-icon/basic/数据绑定.json",
+        "position": {
+          "x": 737.38286,
+          "y": -178
+        },
+        "width": 80,
+        "height": 24
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.unit": "m",
+        "node.tag": "DPU1036.HW.AI030304.PV",
+        "node.label": "#.##"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502591,
+      "p": {
+        "name": "数据绑定",
+        "layer": 1,
+        "tag": "DPU1035.HW.AI090201.PV",
+        "image": "symbols/palette-icon/basic/数据绑定.json",
+        "position": {
+          "x": 958.38262,
+          "y": -148.3111
+        },
+        "width": 80,
+        "height": 24
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.unit": "mm",
+        "node.tag": "DPU1035.HW.AI090201.PV",
+        "node.label": "###.##"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502592,
+      "p": {
+        "name": "数据绑定",
+        "layer": 1,
+        "tag": "DPU1035.HW.AI100201.PV",
+        "image": "symbols/palette-icon/basic/数据绑定.json",
+        "position": {
+          "x": 1066.99976,
+          "y": -146.3111
+        },
+        "width": 80,
+        "height": 24
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.unit": "mm",
+        "node.tag": "DPU1035.HW.AI100201.PV",
+        "node.label": "###.##"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502593,
+      "p": {
+        "name": "数据绑定",
+        "layer": 1,
+        "tag": "DPU1035.HW.AI070204.PV",
+        "image": "symbols/palette-icon/basic/数据绑定.json",
+        "position": {
+          "x": 1229.38286,
+          "y": -194
+        },
+        "width": 80,
+        "height": 24
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.unit": "Hz",
+        "node.tag": "DPU1035.HW.AI070204.PV"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502594,
+      "p": {
+        "name": "数据绑定",
+        "layer": 1,
+        "tag": "DPU1035.HW.AI080204.PV",
+        "image": "symbols/palette-icon/basic/数据绑定.json",
+        "position": {
+          "x": 1401.38286,
+          "y": -195
+        },
+        "width": 80,
+        "height": 24
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.unit": "Hz",
+        "node.tag": "DPU1035.HW.AI080204.PV"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502595,
+      "p": {
+        "name": "数据绑定",
+        "layer": 1,
+        "tag": "DPU1035.HW.AI010203.PV",
+        "image": "symbols/palette-icon/basic/数据绑定.json",
+        "position": {
+          "x": 1551,
+          "y": -193
+        },
+        "width": 80,
+        "height": 24
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.unit": "Hz",
+        "node.tag": "DPU1035.HW.AI010203.PV"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502596,
+      "p": {
+        "name": "数据绑定",
+        "layer": 1,
+        "tag": "DPU1035.HW.AI020203.PV",
+        "image": "symbols/palette-icon/basic/数据绑定.json",
+        "position": {
+          "x": 1717,
+          "y": -195
+        },
+        "width": 80,
+        "height": 24
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.unit": "Hz",
+        "node.tag": "DPU1035.HW.AI020203.PV"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502597,
+      "p": {
+        "name": "气体收集器",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/气体收集器.json",
+        "position": {
+          "x": 841.5,
+          "y": -20.07789
+        },
+        "width": 89,
+        "height": 69.84423
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 502598,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 752.34368,
+          "y": -57.22704
+        },
+        "width": 124.83208,
+        "height": 91.32011,
+        "points": {
+          "__a": [
+            {
+              "x": 689.92764,
+              "y": -11.56699
+            },
+            {
+              "x": 689.92764,
+              "y": -102.8871
+            },
+            {
+              "x": 814.75972,
+              "y": -102.8871
+            },
+            {
+              "x": 814.75972,
+              "y": -54.71365
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(250,187,187)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 502599,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 772.46294,
+          "y": -16.49066
+        },
+        "width": 64.00267,
+        "height": 11,
+        "points": {
+          "__a": [
+            {
+              "x": 804.46427,
+              "y": -21.99066
+            },
+            {
+              "x": 740.46161,
+              "y": -21.99066
+            },
+            {
+              "x": 740.46161,
+              "y": -10.99066
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(250,187,187)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 502600,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 838.6841,
+          "y": -73.22423
+        },
+        "width": 48.00794,
+        "height": 0,
+        "points": {
+          "__a": [
+            {
+              "x": 814.68013,
+              "y": -73.22423
+            },
+            {
+              "x": 862.68806,
+              "y": -73.22423
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(250,187,187)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502601,
+      "p": {
+        "name": "旗",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/旗.json",
+        "position": {
+          "x": 664.79981,
+          "y": 251
+        },
+        "width": 15.59962,
+        "height": 24
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(255,255,255)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502602,
+      "p": {
+        "name": "流入流出",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/流入流出.json",
+        "rotation": 1.5708,
+        "position": {
+          "x": 741,
+          "y": -3
+        }
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(255,0,0)"
+      }
+    },
+    {
+      "c": "ht.Text",
+      "i": 502603,
+      "p": {
+        "name": "文字",
+        "layer": 1,
+        "position": {
+          "x": 841,
+          "y": 29
+        }
+      },
+      "s": {
+        "text": "酸雾收集器",
+        "text.align": "center",
+        "text.font": "16px arial, sans-serif",
+        "label": "",
+        "text.color": "rgb(255,255,255)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 502604,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1112.95939,
+          "y": 60.8177
+        },
+        "width": 131.23618,
+        "height": 849.885,
+        "points": {
+          "__a": [
+            {
+              "x": 1047.3413,
+              "y": -364.1248
+            },
+            {
+              "x": 1150.2741,
+              "y": -364.1248
+            },
+            {
+              "x": 1150.2741,
+              "y": 429.15982
+            },
+            {
+              "x": 1178.57747,
+              "y": 429.15982
+            },
+            {
+              "x": 1178.57747,
+              "y": 485.7602
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(0,255,0)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 502605,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1166.12593,
+          "y": 134.01365
+        },
+        "width": 33.1757,
+        "height": 77,
+        "points": {
+          "__a": [
+            {
+              "x": 1149.53808,
+              "y": 95.51365
+            },
+            {
+              "x": 1182.71378,
+              "y": 95.51365
+            },
+            {
+              "x": 1182.71378,
+              "y": 172.51365
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(0,255,0)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 502606,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1165.61311,
+          "y": -152.20716
+        },
+        "width": 29.22621,
+        "height": 75,
+        "points": {
+          "__a": [
+            {
+              "x": 1151,
+              "y": -189.70716
+            },
+            {
+              "x": 1180.22621,
+              "y": -189.70716
+            },
+            {
+              "x": 1180.22621,
+              "y": -114.70716
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(0,255,0)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502607,
+      "p": {
+        "name": "流入流出",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/流入流出.json",
+        "position": {
+          "x": 1038,
+          "y": -365
+        }
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(0,255,102)"
+      }
+    },
+    {
+      "c": "ht.Text",
+      "i": 502608,
+      "p": {
+        "name": "文字",
+        "layer": 1,
+        "position": {
+          "x": 979,
+          "y": -365
+        }
+      },
+      "s": {
+        "text": "自用水泵来水",
+        "text.align": "center",
+        "text.font": "16px arial, sans-serif",
+        "label": "",
+        "text.color": "rgb(255,255,255)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 502609,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 658,
+          "y": 282.08237
+        },
+        "width": 0,
+        "height": 40.16474,
+        "points": {
+          "__a": [
+            {
+              "x": 658,
+              "y": 262
+            },
+            {
+              "x": 658,
+              "y": 302.16474
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(255,255,3)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502610,
+      "p": {
+        "name": "旗",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/旗.json",
+        "position": {
+          "x": 662.79981,
+          "y": -62
+        },
+        "width": 15.59962,
+        "height": 24
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(255,255,255)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 502611,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 656.79981,
+          "y": -31
+        },
+        "width": 0,
+        "height": 40.16474,
+        "points": {
+          "__a": [
+            {
+              "x": 656.79981,
+              "y": -51.08237
+            },
+            {
+              "x": 656.79981,
+              "y": -10.91763
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(250,187,187)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502612,
+      "p": {
+        "name": "旗",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/旗.json",
+        "position": {
+          "x": 663.79981,
+          "y": -349
+        },
+        "width": 15.59962,
+        "height": 24
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(255,255,255)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 502613,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 658,
+          "y": -317.91763
+        },
+        "width": 0,
+        "height": 40.16474,
+        "points": {
+          "__a": [
+            {
+              "x": 658,
+              "y": -338
+            },
+            {
+              "x": 658,
+              "y": -297.83526
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(0,218,222)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502614,
+      "p": {
+        "name": "截止阀",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/截止阀.json",
+        "position": {
+          "x": 841,
+          "y": -73
+        },
+        "width": 30,
+        "height": 14
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(232,232,232)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 502615,
+      "p": {
+        "name": "旗",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/旗.json",
+        "position": {
+          "x": 868.79981,
+          "y": -95
+        },
+        "width": 15.59962,
+        "height": 24
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(255,255,255)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 502616,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 863,
+          "y": -69.31237
+        },
+        "width": 0,
+        "height": 29.37526,
+        "points": {
+          "__a": [
+            {
+              "x": 863,
+              "y": -84
+            },
+            {
+              "x": 863,
+              "y": -54.62474
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(250,187,187)"
+      }
+    }
+  ]
+}

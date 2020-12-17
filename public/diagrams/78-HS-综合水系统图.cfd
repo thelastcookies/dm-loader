@@ -1,0 +1,7884 @@
+{
+  "v": "7.0.9",
+  "p": {
+    "layers": [
+      "0",
+      1
+    ],
+    "autoAdjustIndex": true,
+    "hierarchicalRendering": false
+  },
+  "d": [
+    {
+      "c": "ht.Shape",
+      "i": 825880,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1792.85954,
+          "y": 231.94705
+        },
+        "width": 381.71907,
+        "height": 143.8941,
+        "points": {
+          "__a": [
+            {
+              "x": 1602,
+              "y": 161.99853
+            },
+            {
+              "x": 1983.71907,
+              "y": 161.99853
+            },
+            {
+              "x": 1983.71907,
+              "y": 303.8941
+            },
+            {
+              "x": 1602,
+              "y": 303.8941
+            },
+            {
+              "x": 1602,
+              "y": 160
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(220,220,220)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 825881,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1200.11675,
+          "y": -28.08787
+        },
+        "width": 1684.76006,
+        "height": 915.10943,
+        "points": {
+          "__a": [
+            {
+              "x": 1639.19754,
+              "y": 305.96168
+            },
+            {
+              "x": 1637.60265,
+              "y": 428.6694
+            },
+            {
+              "x": 2040.10444,
+              "y": 429.46685
+            },
+            {
+              "x": 2042.49678,
+              "y": -485.64258
+            },
+            {
+              "x": 357.73672,
+              "y": -485.64258
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(0,255,0)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 825882,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 358.78362,
+          "y": -318.56172
+        },
+        "width": 0.8881,
+        "height": 335.51255,
+        "points": {
+          "__a": [
+            {
+              "x": 358.33957,
+              "y": -486.31799
+            },
+            {
+              "x": 359.22767,
+              "y": -150.80544
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(0,255,0)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 825883,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 580,
+          "y": -317.80401
+        },
+        "width": 0,
+        "height": 336.39197,
+        "segments": {
+          "__a": [
+            1,
+            2,
+            2
+          ]
+        },
+        "points": {
+          "__a": [
+            {
+              "x": 580,
+              "y": -486
+            },
+            {
+              "x": 580,
+              "y": -475.4428
+            },
+            {
+              "x": 580,
+              "y": -149.60803
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(0,255,0)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 825884,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 798.17572,
+          "y": -317.31711
+        },
+        "width": 0.35145,
+        "height": 339.36578,
+        "points": {
+          "__a": [
+            {
+              "x": 798,
+              "y": -487
+            },
+            {
+              "x": 798.35145,
+              "y": -147.63422
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(0,255,0)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 825885,
+      "p": {
+        "name": "流向",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/流向.json",
+        "position": {
+          "x": 360,
+          "y": -147.5
+        }
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 825886,
+      "p": {
+        "name": "流向",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/流向.json",
+        "position": {
+          "x": 580,
+          "y": -147.5
+        },
+        "width": 18,
+        "height": 15
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 825887,
+      "p": {
+        "name": "流向",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/流向.json",
+        "position": {
+          "x": 798,
+          "y": -146.5
+        }
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 825888,
+      "p": {
+        "name": "按钮",
+        "layer": 1,
+        "image": "symbols/palette-icon/basic/按钮.json",
+        "position": {
+          "x": 334.5,
+          "y": -333
+        },
+        "width": 43,
+        "height": 26
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Text",
+      "i": 825889,
+      "p": {
+        "name": "文字",
+        "layer": 1,
+        "position": {
+          "x": 335,
+          "y": -333
+        }
+      },
+      "s": {
+        "text": "跳闸",
+        "text.align": "center",
+        "text.font": "16px arial, sans-serif",
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 825890,
+      "p": {
+        "name": "按钮",
+        "layer": 1,
+        "image": "symbols/palette-icon/basic/按钮.json",
+        "position": {
+          "x": 334.5,
+          "y": -306
+        },
+        "width": 43,
+        "height": 26
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 825891,
+      "p": {
+        "name": "按钮",
+        "layer": 1,
+        "image": "symbols/palette-icon/basic/按钮.json",
+        "position": {
+          "x": 557.5,
+          "y": -333
+        },
+        "width": 43,
+        "height": 26
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 825892,
+      "p": {
+        "name": "按钮",
+        "layer": 1,
+        "image": "symbols/palette-icon/basic/按钮.json",
+        "position": {
+          "x": 557.5,
+          "y": -306
+        },
+        "width": 43,
+        "height": 26
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 825893,
+      "p": {
+        "name": "按钮",
+        "layer": 1,
+        "image": "symbols/palette-icon/basic/按钮.json",
+        "position": {
+          "x": 774.5,
+          "y": -333
+        },
+        "width": 43,
+        "height": 26
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 825894,
+      "p": {
+        "name": "按钮",
+        "layer": 1,
+        "image": "symbols/palette-icon/basic/按钮.json",
+        "position": {
+          "x": 774.5,
+          "y": -306
+        },
+        "width": 43,
+        "height": 26
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 825895,
+      "p": {
+        "name": "按钮",
+        "layer": 1,
+        "image": "symbols/palette-icon/basic/按钮.json",
+        "position": {
+          "x": 433.5,
+          "y": -333
+        },
+        "width": 145,
+        "height": 26
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Text",
+      "i": 825896,
+      "p": {
+        "name": "文字",
+        "layer": 1,
+        "position": {
+          "x": 433,
+          "y": -331
+        }
+      },
+      "s": {
+        "text": "辅机循环水泵A参数",
+        "text.align": "center",
+        "text.font": "16px arial, sans-serif",
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 825897,
+      "p": {
+        "name": "按钮",
+        "layer": 1,
+        "image": "symbols/palette-icon/basic/按钮.json",
+        "position": {
+          "x": 655.5,
+          "y": -333
+        },
+        "width": 145,
+        "height": 26
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 825898,
+      "p": {
+        "name": "按钮",
+        "layer": 1,
+        "image": "symbols/palette-icon/basic/按钮.json",
+        "position": {
+          "x": 873.5,
+          "y": -333
+        },
+        "width": 145,
+        "height": 26
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Text",
+      "i": 825899,
+      "p": {
+        "name": "文字",
+        "layer": 1,
+        "position": {
+          "x": 655,
+          "y": -331
+        }
+      },
+      "s": {
+        "text": "辅机循环水泵A参数",
+        "text.align": "center",
+        "text.font": "16px arial, sans-serif",
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Text",
+      "i": 825900,
+      "p": {
+        "name": "文字",
+        "layer": 1,
+        "position": {
+          "x": 873,
+          "y": -331
+        }
+      },
+      "s": {
+        "text": "辅机循环水泵A参数",
+        "text.align": "center",
+        "text.font": "16px arial, sans-serif",
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Text",
+      "i": 825901,
+      "p": {
+        "name": "文字",
+        "layer": 1,
+        "position": {
+          "x": 558,
+          "y": -331
+        }
+      },
+      "s": {
+        "text": "跳闸",
+        "text.align": "center",
+        "text.font": "16px arial, sans-serif",
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Text",
+      "i": 825902,
+      "p": {
+        "name": "文字",
+        "layer": 1,
+        "position": {
+          "x": 775,
+          "y": -331
+        }
+      },
+      "s": {
+        "text": "跳闸",
+        "text.align": "center",
+        "text.font": "16px arial, sans-serif",
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Text",
+      "i": 825903,
+      "p": {
+        "name": "文字",
+        "layer": 1,
+        "position": {
+          "x": 335,
+          "y": -304
+        }
+      },
+      "s": {
+        "text": "允许",
+        "text.align": "center",
+        "text.font": "16px arial, sans-serif",
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Text",
+      "i": 825904,
+      "p": {
+        "name": "文字",
+        "layer": 1,
+        "position": {
+          "x": 557,
+          "y": -304
+        }
+      },
+      "s": {
+        "text": "允许",
+        "text.align": "center",
+        "text.font": "16px arial, sans-serif",
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Text",
+      "i": 825905,
+      "p": {
+        "name": "文字",
+        "layer": 1,
+        "position": {
+          "x": 774,
+          "y": -305
+        }
+      },
+      "s": {
+        "text": "允许",
+        "text.align": "center",
+        "text.font": "16px arial, sans-serif",
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 825906,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1799,
+          "y": 345.31029
+        },
+        "width": 0,
+        "height": 80.6206,
+        "points": {
+          "__a": [
+            {
+              "x": 1799,
+              "y": 304.99999
+            },
+            {
+              "x": 1799,
+              "y": 385.62059
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(0,255,0)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 825907,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1716.57583,
+          "y": 344.96702
+        },
+        "width": 75.15166,
+        "height": 79.93404,
+        "points": {
+          "__a": [
+            {
+              "x": 1679,
+              "y": 305
+            },
+            {
+              "x": 1679,
+              "y": 384.93404
+            },
+            {
+              "x": 1754.15166,
+              "y": 384.93404
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(0,255,0)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 825908,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1838.17646,
+          "y": 385
+        },
+        "width": 152.35292,
+        "height": 0,
+        "points": {
+          "__a": [
+            {
+              "x": 1762,
+              "y": 385
+            },
+            {
+              "x": 1914.35292,
+              "y": 385
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(0,255,0)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 825909,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1760,
+          "y": 366.85411
+        },
+        "width": 0,
+        "height": 125.70823,
+        "points": {
+          "__a": [
+            {
+              "x": 1760,
+              "y": 304
+            },
+            {
+              "x": 1760,
+              "y": 429.70823
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(0,255,0)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 825910,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1919.10017,
+          "y": 366.02841
+        },
+        "width": 0,
+        "height": 124.34184,
+        "points": {
+          "__a": [
+            {
+              "x": 1919.10017,
+              "y": 303.85749
+            },
+            {
+              "x": 1919.10017,
+              "y": 428.19933
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(0,255,0)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 825911,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1942.96806,
+          "y": 345.10332
+        },
+        "width": 39.74996,
+        "height": 80.20665,
+        "points": {
+          "__a": [
+            {
+              "x": 1962.84304,
+              "y": 305
+            },
+            {
+              "x": 1962.84304,
+              "y": 384.93404
+            },
+            {
+              "x": 1923.09308,
+              "y": 385.20665
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(0,255,0)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 825912,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 918.40937,
+          "y": -237.59494
+        },
+        "width": 1400.81874,
+        "height": 595.18047,
+        "points": {
+          "__a": [
+            {
+              "x": 219.06865,
+              "y": -535.18518
+            },
+            {
+              "x": 218,
+              "y": 58.0433
+            },
+            {
+              "x": 1618.81874,
+              "y": 59.99529
+            },
+            {
+              "x": 1618.81874,
+              "y": -20.52116
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(0,255,0)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 825913,
+      "p": {
+        "name": "消防水池",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/消防水池.json",
+        "position": {
+          "x": 1109,
+          "y": -73
+        }
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 825914,
+      "p": {
+        "name": "普通隔离",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/普通隔离.json",
+        "position": {
+          "x": 1189,
+          "y": -72.5
+        },
+        "width": 18,
+        "height": 105
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 825915,
+      "p": {
+        "name": "消防水池",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/消防水池.json",
+        "position": {
+          "x": 1268.16227,
+          "y": -72.79056
+        }
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 825916,
+      "p": {
+        "name": "消防隔离",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/消防隔离.json",
+        "position": {
+          "x": 1347,
+          "y": -73
+        }
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 825917,
+      "p": {
+        "name": "消防水池",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/消防水池.json",
+        "position": {
+          "x": 1426,
+          "y": -73
+        }
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 825918,
+      "p": {
+        "name": "消防水池",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/消防水池.json",
+        "position": {
+          "x": 1567,
+          "y": -73
+        }
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 825919,
+      "p": {
+        "name": "消防隔离",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/消防隔离.json",
+        "position": {
+          "x": 1646,
+          "y": -73
+        }
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 825920,
+      "p": {
+        "name": "消防水池",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/消防水池.json",
+        "position": {
+          "x": 1725,
+          "y": -73
+        }
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 825921,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1560,
+          "y": 20.01582
+        },
+        "width": 0,
+        "height": 80.03164,
+        "points": {
+          "__a": [
+            {
+              "x": 1560,
+              "y": -20
+            },
+            {
+              "x": 1560,
+              "y": 60.03164
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(0,255,0)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 825922,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1399,
+          "y": 19.01582
+        },
+        "width": 0,
+        "height": 80.03164,
+        "points": {
+          "__a": [
+            {
+              "x": 1399,
+              "y": -21
+            },
+            {
+              "x": 1399,
+              "y": 59.03164
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(0,255,0)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 825923,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1460,
+          "y": 20.01582
+        },
+        "width": 0,
+        "height": 80.03164,
+        "points": {
+          "__a": [
+            {
+              "x": 1460,
+              "y": -20
+            },
+            {
+              "x": 1460,
+              "y": 60.03164
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(0,255,0)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 825924,
+      "p": {
+        "name": "冷却塔风机",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/冷却塔风机.json",
+        "position": {
+          "x": 542,
+          "y": 209.74365
+        },
+        "width": 286,
+        "height": 177.4873
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 825925,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1095,
+          "y": 20.01582
+        },
+        "width": 0,
+        "height": 80.03164,
+        "points": {
+          "__a": [
+            {
+              "x": 1095,
+              "y": -20
+            },
+            {
+              "x": 1095,
+              "y": 60.03164
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(0,255,0)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 825926,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 478.27293,
+          "y": 96.34901
+        },
+        "width": 0.44405,
+        "height": 46.74625,
+        "points": {
+          "__a": [
+            {
+              "x": 478.49496,
+              "y": 72.97588
+            },
+            {
+              "x": 478.05091,
+              "y": 119.72213
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(0,255,0)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 825927,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 621.2351,
+          "y": 96.57103
+        },
+        "width": 0.44405,
+        "height": 46.3022,
+        "points": {
+          "__a": [
+            {
+              "x": 621.45713,
+              "y": 73.41993
+            },
+            {
+              "x": 621.01308,
+              "y": 119.72213
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(0,255,0)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 825928,
+      "p": {
+        "name": "电动阀-FSL",
+        "layer": 1,
+        "image": "symbols/palette-icon/m-point/电动阀-FSL.json",
+        "position": {
+          "x": 451,
+          "y": 359
+        }
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.direction": "left"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 825929,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1258.68523,
+          "y": 278.87931
+        },
+        "width": 521.96663,
+        "height": 238.61331,
+        "points": {
+          "__a": [
+            {
+              "x": 999.19325,
+              "y": 159.57265
+            },
+            {
+              "x": 999.19325,
+              "y": 398.18597
+            },
+            {
+              "x": 1519.66855,
+              "y": 398.18597
+            },
+            {
+              "x": 1519.66855,
+              "y": 159.57265
+            },
+            {
+              "x": 997.70192,
+              "y": 159.57265
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(255,215,0)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 825930,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1258.68523,
+          "y": 198.34732
+        },
+        "width": 521.96663,
+        "height": 0,
+        "points": {
+          "__a": [
+            {
+              "x": 997.70192,
+              "y": 198.34732
+            },
+            {
+              "x": 1519.66855,
+              "y": 198.34732
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(255,215,0)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 825931,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1258.98331,
+          "y": 240
+        },
+        "width": 521.96663,
+        "height": 0,
+        "points": {
+          "__a": [
+            {
+              "x": 998,
+              "y": 240
+            },
+            {
+              "x": 1519.96663,
+              "y": 240
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(255,215,0)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 825932,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1258.98331,
+          "y": 278
+        },
+        "width": 521.96663,
+        "height": 0,
+        "points": {
+          "__a": [
+            {
+              "x": 998,
+              "y": 278
+            },
+            {
+              "x": 1519.96663,
+              "y": 278
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(255,215,0)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 825933,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1259.98331,
+          "y": 321
+        },
+        "width": 521.96663,
+        "height": 0,
+        "points": {
+          "__a": [
+            {
+              "x": 999,
+              "y": 321
+            },
+            {
+              "x": 1520.96663,
+              "y": 321
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(255,215,0)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 825934,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1259.98331,
+          "y": 361
+        },
+        "width": 521.96663,
+        "height": 0,
+        "points": {
+          "__a": [
+            {
+              "x": 999,
+              "y": 361
+            },
+            {
+              "x": 1520.96663,
+              "y": 361
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(255,215,0)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 825935,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1079.62195,
+          "y": 279.41046
+        },
+        "width": 0,
+        "height": 237.44509,
+        "points": {
+          "__a": [
+            {
+              "x": 1079.62195,
+              "y": 160.68792
+            },
+            {
+              "x": 1079.62195,
+              "y": 398.13301
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(255,215,0)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 825936,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1300,
+          "y": 276.72255
+        },
+        "width": 0,
+        "height": 237.44509,
+        "points": {
+          "__a": [
+            {
+              "x": 1300,
+              "y": 158
+            },
+            {
+              "x": 1300,
+              "y": 395.44509
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(255,215,0)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 825937,
+      "p": {
+        "layer": 1,
+        "rotation": 0.61087,
+        "position": {
+          "x": 1040.06936,
+          "y": 179.96654
+        },
+        "width": 87.2645,
+        "height": 14.10542,
+        "points": {
+          "__a": [
+            {
+              "x": 996.43711,
+              "y": 187.01926
+            },
+            {
+              "x": 1083.70161,
+              "y": 172.91383
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(255,215,0)"
+      }
+    },
+    {
+      "c": "ht.Text",
+      "i": 825938,
+      "p": {
+        "name": "文字",
+        "layer": 1,
+        "position": {
+          "x": 1040,
+          "y": 221
+        }
+      },
+      "s": {
+        "text": "风机振动",
+        "text.align": "center",
+        "text.font": "16px arial, sans-serif",
+        "label": "",
+        "text.color": "rgb(255,255,255)"
+      }
+    },
+    {
+      "c": "ht.Text",
+      "i": 825939,
+      "p": {
+        "name": "文字",
+        "layer": 1,
+        "position": {
+          "x": 1041,
+          "y": 260
+        }
+      },
+      "s": {
+        "text": "出口压力",
+        "text.align": "center",
+        "text.font": "16px arial, sans-serif",
+        "label": "",
+        "text.color": "rgb(255,255,255)"
+      }
+    },
+    {
+      "c": "ht.Text",
+      "i": 825940,
+      "p": {
+        "name": "文字",
+        "layer": 1,
+        "position": {
+          "x": 1041,
+          "y": 302
+        }
+      },
+      "s": {
+        "text": "塔池液位",
+        "text.align": "center",
+        "text.font": "16px arial, sans-serif",
+        "label": "",
+        "text.color": "rgb(255,255,255)"
+      }
+    },
+    {
+      "c": "ht.Text",
+      "i": 825941,
+      "p": {
+        "name": "文字",
+        "layer": 1,
+        "position": {
+          "x": 1041,
+          "y": 342
+        }
+      },
+      "s": {
+        "text": "风机温度",
+        "text.align": "center",
+        "text.font": "16px arial, sans-serif",
+        "label": "",
+        "text.color": "rgb(255,255,255)"
+      }
+    },
+    {
+      "c": "ht.Text",
+      "i": 825942,
+      "p": {
+        "name": "文字",
+        "layer": 1,
+        "position": {
+          "x": 1039,
+          "y": 379
+        }
+      },
+      "s": {
+        "text": "风机油位",
+        "text.align": "center",
+        "text.font": "16px arial, sans-serif",
+        "label": "",
+        "text.color": "rgb(255,255,255)"
+      }
+    },
+    {
+      "c": "ht.Text",
+      "i": 825943,
+      "p": {
+        "name": "文字",
+        "layer": 1,
+        "position": {
+          "x": 1192,
+          "y": 179
+        }
+      },
+      "s": {
+        "text": "#1机力通风冷却塔参数",
+        "text.align": "center",
+        "text.font": "16px arial, sans-serif",
+        "label": "",
+        "text.color": "rgb(255,255,255)"
+      }
+    },
+    {
+      "c": "ht.Text",
+      "i": 825944,
+      "p": {
+        "name": "文字",
+        "layer": 1,
+        "position": {
+          "x": 1417,
+          "y": 181
+        }
+      },
+      "s": {
+        "text": "#2机力通风冷却塔参数",
+        "text.align": "center",
+        "text.font": "16px arial, sans-serif",
+        "label": "",
+        "text.color": "rgb(255,255,255)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 825945,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1059.66596,
+          "y": 380.95061
+        },
+        "width": 1318.68114,
+        "height": 161.50297,
+        "points": {
+          "__a": [
+            {
+              "x": 1719.00653,
+              "y": 303.29422
+            },
+            {
+              "x": 1719.00653,
+              "y": 459.63551
+            },
+            {
+              "x": 401.39784,
+              "y": 461.7021
+            },
+            {
+              "x": 400.32539,
+              "y": 300.19913
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(0,255,0)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 825946,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 453.38642,
+          "y": 379.04001
+        },
+        "width": 0.77284,
+        "height": 160.08003,
+        "points": {
+          "__a": [
+            {
+              "x": 453,
+              "y": 299
+            },
+            {
+              "x": 453.77284,
+              "y": 459.08003
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(0,255,0)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 825947,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 509.38642,
+          "y": 379.04001
+        },
+        "width": 0.77284,
+        "height": 160.08003,
+        "points": {
+          "__a": [
+            {
+              "x": 509,
+              "y": 299
+            },
+            {
+              "x": 509.77284,
+              "y": 459.08003
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(0,255,0)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 825948,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 571.38642,
+          "y": 379.04001
+        },
+        "width": 0.77284,
+        "height": 160.08003,
+        "points": {
+          "__a": [
+            {
+              "x": 571,
+              "y": 299
+            },
+            {
+              "x": 571.77284,
+              "y": 459.08003
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(0,255,0)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 825949,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 629.38642,
+          "y": 380.04001
+        },
+        "width": 0.77284,
+        "height": 160.08003,
+        "points": {
+          "__a": [
+            {
+              "x": 629,
+              "y": 300
+            },
+            {
+              "x": 629.77284,
+              "y": 460.08003
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(0,255,0)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 825950,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 682.38642,
+          "y": 379.04001
+        },
+        "width": 0.77284,
+        "height": 160.08003,
+        "points": {
+          "__a": [
+            {
+              "x": 682,
+              "y": 299
+            },
+            {
+              "x": 682.77284,
+              "y": 459.08003
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(0,255,0)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 825951,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 392,
+          "y": 359.5
+        },
+        "width": 32,
+        "height": 33,
+        "points": {
+          "__a": [
+            {
+              "x": 376.86487,
+              "y": 375.41071
+            },
+            {
+              "x": 376.86487,
+              "y": 343
+            },
+            {
+              "x": 408,
+              "y": 343
+            },
+            {
+              "x": 408,
+              "y": 376
+            },
+            {
+              "x": 376,
+              "y": 376
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 1,
+        "shape.border.color": "rgb(220,220,220)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 825952,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 444.5,
+          "y": 360.40772
+        },
+        "width": 33,
+        "height": 32.81545,
+        "points": {
+          "__a": [
+            {
+              "x": 428.89189,
+              "y": 376.22946
+            },
+            {
+              "x": 428.89189,
+              "y": 344
+            },
+            {
+              "x": 461,
+              "y": 344
+            },
+            {
+              "x": 461,
+              "y": 376.81545
+            },
+            {
+              "x": 428,
+              "y": 376.81545
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 1,
+        "shape.border.color": "rgb(220,220,220)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 825953,
+      "p": {
+        "name": "电动阀-FSL",
+        "layer": 1,
+        "image": "symbols/palette-icon/m-point/电动阀-FSL.json",
+        "position": {
+          "x": 399,
+          "y": 358
+        },
+        "width": 56,
+        "height": 32
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.direction": "left"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 825954,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 500,
+          "y": 360.5
+        },
+        "width": 32,
+        "height": 33,
+        "points": {
+          "__a": [
+            {
+              "x": 484.86487,
+              "y": 376.41071
+            },
+            {
+              "x": 484.86487,
+              "y": 344
+            },
+            {
+              "x": 516,
+              "y": 344
+            },
+            {
+              "x": 516,
+              "y": 377
+            },
+            {
+              "x": 484,
+              "y": 377
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 1,
+        "shape.border.color": "rgb(220,220,220)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 825955,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 563,
+          "y": 360.5
+        },
+        "width": 32,
+        "height": 33,
+        "points": {
+          "__a": [
+            {
+              "x": 547.86487,
+              "y": 376.41071
+            },
+            {
+              "x": 547.86487,
+              "y": 344
+            },
+            {
+              "x": 579,
+              "y": 344
+            },
+            {
+              "x": 579,
+              "y": 377
+            },
+            {
+              "x": 547,
+              "y": 377
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 1,
+        "shape.border.color": "rgb(220,220,220)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 825956,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 621,
+          "y": 361.5
+        },
+        "width": 32,
+        "height": 33,
+        "points": {
+          "__a": [
+            {
+              "x": 605.86487,
+              "y": 377.41071
+            },
+            {
+              "x": 605.86487,
+              "y": 345
+            },
+            {
+              "x": 637,
+              "y": 345
+            },
+            {
+              "x": 637,
+              "y": 378
+            },
+            {
+              "x": 605,
+              "y": 378
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 1,
+        "shape.border.color": "rgb(220,220,220)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 825957,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 674,
+          "y": 361.5
+        },
+        "width": 32,
+        "height": 33,
+        "points": {
+          "__a": [
+            {
+              "x": 658.86487,
+              "y": 377.41071
+            },
+            {
+              "x": 658.86487,
+              "y": 345
+            },
+            {
+              "x": 690,
+              "y": 345
+            },
+            {
+              "x": 690,
+              "y": 378
+            },
+            {
+              "x": 658,
+              "y": 378
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 1,
+        "shape.border.color": "rgb(220,220,220)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 825958,
+      "p": {
+        "name": "电动阀-FSL",
+        "layer": 1,
+        "image": "symbols/palette-icon/m-point/电动阀-FSL.json",
+        "position": {
+          "x": 507,
+          "y": 359
+        },
+        "width": 56,
+        "height": 32
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.direction": "left"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 825959,
+      "p": {
+        "name": "电动阀-FSL",
+        "layer": 1,
+        "image": "symbols/palette-icon/m-point/电动阀-FSL.json",
+        "position": {
+          "x": 570,
+          "y": 359
+        },
+        "width": 56,
+        "height": 32
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.direction": "left"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 825960,
+      "p": {
+        "name": "电动阀-FSL",
+        "layer": 1,
+        "image": "symbols/palette-icon/m-point/电动阀-FSL.json",
+        "position": {
+          "x": 628,
+          "y": 360
+        },
+        "width": 56,
+        "height": 32
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.direction": "left"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 825961,
+      "p": {
+        "name": "电动阀-FSL",
+        "layer": 1,
+        "image": "symbols/palette-icon/m-point/电动阀-FSL.json",
+        "position": {
+          "x": 681,
+          "y": 360
+        },
+        "width": 56,
+        "height": 32
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.direction": "left"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 825962,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 470,
+          "y": 96.5
+        },
+        "width": 32,
+        "height": 33,
+        "points": {
+          "__a": [
+            {
+              "x": 454.86487,
+              "y": 112.41071
+            },
+            {
+              "x": 454.86487,
+              "y": 80
+            },
+            {
+              "x": 486,
+              "y": 80
+            },
+            {
+              "x": 486,
+              "y": 113
+            },
+            {
+              "x": 454,
+              "y": 113
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 1,
+        "shape.border.color": "rgb(220,220,220)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 825963,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 611,
+          "y": 96.5
+        },
+        "width": 32,
+        "height": 33,
+        "points": {
+          "__a": [
+            {
+              "x": 595.86487,
+              "y": 112.41071
+            },
+            {
+              "x": 595.86487,
+              "y": 80
+            },
+            {
+              "x": 627,
+              "y": 80
+            },
+            {
+              "x": 627,
+              "y": 113
+            },
+            {
+              "x": 595,
+              "y": 113
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 1,
+        "shape.border.color": "rgb(220,220,220)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 825964,
+      "p": {
+        "name": "电动阀-FSL",
+        "layer": 1,
+        "image": "symbols/palette-icon/m-point/电动阀-FSL.json",
+        "position": {
+          "x": 619,
+          "y": 95
+        },
+        "width": 56,
+        "height": 32
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.direction": "left"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 825965,
+      "p": {
+        "name": "电动阀-FSL",
+        "layer": 1,
+        "image": "symbols/palette-icon/m-point/电动阀-FSL.json",
+        "position": {
+          "x": 477,
+          "y": 95
+        },
+        "width": 56,
+        "height": 32
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.direction": "left"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 825966,
+      "p": {
+        "name": "按钮",
+        "layer": 1,
+        "image": "symbols/palette-icon/basic/按钮.json",
+        "position": {
+          "x": 877,
+          "y": 185
+        },
+        "width": 234,
+        "height": 30
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Text",
+      "i": 825967,
+      "p": {
+        "name": "文字",
+        "layer": 1,
+        "position": {
+          "x": 876,
+          "y": 187
+        }
+      },
+      "s": {
+        "text": "1#机力通风冷却塔风机急停指令",
+        "text.align": "center",
+        "text.font": "16px arial, sans-serif",
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 825968,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 305.59413,
+          "y": 205.82335
+        },
+        "width": 214.06005,
+        "height": 66.821,
+        "points": {
+          "__a": [
+            {
+              "x": 412.62415,
+              "y": 172.7134
+            },
+            {
+              "x": 199.1652,
+              "y": 172.41285
+            },
+            {
+              "x": 198.5641,
+              "y": 239.23385
+            },
+            {
+              "x": 279.90361,
+              "y": 239.23385
+            },
+            {
+              "x": 280.03607,
+              "y": 177.3214
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(0,255,0)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 825969,
+      "p": {
+        "name": "交叉线路连接",
+        "layer": 1,
+        "image": "symbols/palette-icon/lines/交叉线路连接.json",
+        "rotation": 3.14159,
+        "position": {
+          "x": 280,
+          "y": 173
+        }
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(0,255,0)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 825970,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 434.72969,
+          "y": 157.17613
+        },
+        "width": 309.45937,
+        "height": 22.06101,
+        "points": {
+          "__a": [
+            {
+              "x": 280.11327,
+              "y": 168.20663
+            },
+            {
+              "x": 280,
+              "y": 147
+            },
+            {
+              "x": 589.45937,
+              "y": 146.14562
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(0,255,0)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 825971,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 190,
+          "y": 211.5
+        },
+        "width": 32,
+        "height": 33,
+        "points": {
+          "__a": [
+            {
+              "x": 174.86487,
+              "y": 227.41071
+            },
+            {
+              "x": 174.86487,
+              "y": 195
+            },
+            {
+              "x": 206,
+              "y": 195
+            },
+            {
+              "x": 206,
+              "y": 228
+            },
+            {
+              "x": 174,
+              "y": 228
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 1,
+        "shape.border.color": "rgb(220,220,220)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 825972,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 271,
+          "y": 212.5
+        },
+        "width": 32,
+        "height": 33,
+        "points": {
+          "__a": [
+            {
+              "x": 255.86487,
+              "y": 228.41071
+            },
+            {
+              "x": 255.86487,
+              "y": 196
+            },
+            {
+              "x": 287,
+              "y": 196
+            },
+            {
+              "x": 287,
+              "y": 229
+            },
+            {
+              "x": 255,
+              "y": 229
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 1,
+        "shape.border.color": "rgb(220,220,220)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 825973,
+      "p": {
+        "name": "电动阀-FSL",
+        "layer": 1,
+        "image": "symbols/palette-icon/m-point/电动阀-FSL.json",
+        "position": {
+          "x": 197,
+          "y": 210
+        },
+        "width": 56,
+        "height": 32
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.direction": "left"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 825974,
+      "p": {
+        "name": "电动阀-FSL",
+        "layer": 1,
+        "image": "symbols/palette-icon/m-point/电动阀-FSL.json",
+        "position": {
+          "x": 278,
+          "y": 211
+        },
+        "width": 56,
+        "height": 32
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.direction": "left"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 825975,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 239.13816,
+          "y": 288.81208
+        },
+        "width": 0,
+        "height": 97.58947,
+        "points": {
+          "__a": [
+            {
+              "x": 239.13816,
+              "y": 240.01734
+            },
+            {
+              "x": 239.13816,
+              "y": 337.60681
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(0,255,0)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 825976,
+      "p": {
+        "name": "流向",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/流向.json",
+        "position": {
+          "x": 239,
+          "y": 273.5
+        }
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 825977,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 540.74446,
+          "y": 16.64302
+        },
+        "width": 162.52713,
+        "height": 112.53268,
+        "points": {
+          "__a": [
+            {
+              "x": 459.48089,
+              "y": -39.62332
+            },
+            {
+              "x": 459.48089,
+              "y": 72.90936
+            },
+            {
+              "x": 622.00802,
+              "y": 72.90936
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(0,255,0)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 825978,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1099.69601,
+          "y": -298.67873
+        },
+        "width": 80.4035,
+        "height": 238.21205,
+        "points": {
+          "__a": [
+            {
+              "x": 1101.13739,
+              "y": -417.78476
+            },
+            {
+              "x": 1100.20489,
+              "y": -340.95156
+            },
+            {
+              "x": 1059.49426,
+              "y": -340.95156
+            },
+            {
+              "x": 1060.18312,
+              "y": -179.57271
+            },
+            {
+              "x": 1139.89776,
+              "y": -180.26157
+            },
+            {
+              "x": 1139.77882,
+              "y": -341.01783
+            },
+            {
+              "x": 1097.03265,
+              "y": -340.89889
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(0,255,0)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 825979,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1099.40272,
+          "y": -152.51386
+        },
+        "width": 0.68886,
+        "height": 55.09975,
+        "points": {
+          "__a": [
+            {
+              "x": 1099.74715,
+              "y": -180.06374
+            },
+            {
+              "x": 1099.05829,
+              "y": -124.96399
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(0,255,0)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 825980,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1420.33128,
+          "y": -146.27189
+        },
+        "width": 561.08719,
+        "height": 43.45622,
+        "points": {
+          "__a": [
+            {
+              "x": 1140.01972,
+              "y": -124.54378
+            },
+            {
+              "x": 1139.78768,
+              "y": -166.85985
+            },
+            {
+              "x": 1700.45197,
+              "y": -168
+            },
+            {
+              "x": 1700.87487,
+              "y": -124.75838
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(0,255,0)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 825981,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1400.09861,
+          "y": -145.61354
+        },
+        "width": 1.22572,
+        "height": 41.97831,
+        "points": {
+          "__a": [
+            {
+              "x": 1400.71147,
+              "y": -166.6027
+            },
+            {
+              "x": 1399.48575,
+              "y": -124.62439
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(0,255,0)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 825982,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1540.68442,
+          "y": -173.01084
+        },
+        "width": 0.63115,
+        "height": 97.10981,
+        "points": {
+          "__a": [
+            {
+              "x": 1540.36885,
+              "y": -221.56574
+            },
+            {
+              "x": 1541,
+              "y": -124.45593
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(0,255,0)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 825983,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1239.91349,
+          "y": -145.11045
+        },
+        "width": 0.17303,
+        "height": 43.30904,
+        "points": {
+          "__a": [
+            {
+              "x": 1239.82697,
+              "y": -166.76497
+            },
+            {
+              "x": 1240,
+              "y": -123.45593
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(0,255,0)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 825984,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1279.98412,
+          "y": -308.56618
+        },
+        "width": 80.64406,
+        "height": 219.70357,
+        "points": {
+          "__a": [
+            {
+              "x": 1280.71063,
+              "y": -418.41796
+            },
+            {
+              "x": 1280.71063,
+              "y": -301.95181
+            },
+            {
+              "x": 1240,
+              "y": -301.95181
+            },
+            {
+              "x": 1239.6621,
+              "y": -198.71439
+            },
+            {
+              "x": 1320.30615,
+              "y": -198.80438
+            },
+            {
+              "x": 1320.28457,
+              "y": -302.01808
+            },
+            {
+              "x": 1277.5384,
+              "y": -301.89914
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(0,255,0)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 825985,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1279.61406,
+          "y": -161.4117
+        },
+        "width": 0.78726,
+        "height": 72.07691,
+        "points": {
+          "__a": [
+            {
+              "x": 1280.00769,
+              "y": -197.45016
+            },
+            {
+              "x": 1279.22043,
+              "y": -125.37325
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(0,255,0)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 825986,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1530.72155,
+          "y": -162.5625
+        },
+        "width": 420.53353,
+        "height": 73.82603,
+        "points": {
+          "__a": [
+            {
+              "x": 1320.45479,
+              "y": -199.28187
+            },
+            {
+              "x": 1360.68621,
+              "y": -199.47552
+            },
+            {
+              "x": 1360.49257,
+              "y": -180.50743
+            },
+            {
+              "x": 1740.98832,
+              "y": -180.50743
+            },
+            {
+              "x": 1740.71295,
+              "y": -125.64949
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(0,255,0)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 825987,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1629.81343,
+          "y": -332.92878
+        },
+        "width": 339.62687,
+        "height": 228.14243,
+        "points": {
+          "__a": [
+            {
+              "x": 1799.11399,
+              "y": -447
+            },
+            {
+              "x": 1799.62687,
+              "y": -218.85757
+            },
+            {
+              "x": 1460.57119,
+              "y": -219.38213
+            },
+            {
+              "x": 1460,
+              "y": -388.38771
+            },
+            {
+              "x": 1799.11399,
+              "y": -388.38771
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(0,255,0)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 825988,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1579.35221,
+          "y": -303.97321
+        },
+        "width": 80.70442,
+        "height": 168.05358,
+        "points": {
+          "__a": [
+            {
+              "x": 1619.70442,
+              "y": -388
+            },
+            {
+              "x": 1619.70442,
+              "y": -339.38424
+            },
+            {
+              "x": 1539,
+              "y": -339.38424
+            },
+            {
+              "x": 1540.57371,
+              "y": -219.94642
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(0,255,0)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 825989,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1569.36693,
+          "y": -300.48612
+        },
+        "width": 62.87504,
+        "height": 78.58986,
+        "points": {
+          "__a": [
+            {
+              "x": 1600.20938,
+              "y": -339.78105
+            },
+            {
+              "x": 1600.80445,
+              "y": -261.19119
+            },
+            {
+              "x": 1537.9294,
+              "y": -261.19119
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(0,255,0)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 825990,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1599.1252,
+          "y": -240.50765
+        },
+        "width": 0.21148,
+        "height": 43.12045,
+        "points": {
+          "__a": [
+            {
+              "x": 1599.23094,
+              "y": -262.06788
+            },
+            {
+              "x": 1599.01946,
+              "y": -218.94743
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(0,255,0)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 825991,
+      "p": {
+        "name": "电动阀",
+        "layer": 1,
+        "image": "symbols/palette-icon/m-point/电动阀.json",
+        "position": {
+          "x": 1573,
+          "y": -226
+        }
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 825992,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1460.29803,
+          "y": -193.05869
+        },
+        "width": 0.59604,
+        "height": 135.88262,
+        "points": {
+          "__a": [
+            {
+              "x": 1460.59605,
+              "y": -261
+            },
+            {
+              "x": 1460.00001,
+              "y": -125.11738
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(0,255,0)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 825993,
+      "p": {
+        "name": "截止阀",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/截止阀.json",
+        "rotation": 1.5708,
+        "position": {
+          "x": 1460.00006,
+          "y": -198.99997
+        }
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(0,255,0)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 825994,
+      "p": {
+        "name": "截止阀",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/截止阀.json",
+        "rotation": 1.5708,
+        "position": {
+          "x": 1591.00006,
+          "y": -199.99997
+        },
+        "width": 30,
+        "height": 14
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(0,255,0)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 825995,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1590.53031,
+          "y": -172.12396
+        },
+        "width": 0.93939,
+        "height": 96.01316,
+        "points": {
+          "__a": [
+            {
+              "x": 1590.06062,
+              "y": -220.13054
+            },
+            {
+              "x": 1591,
+              "y": -124.11738
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(0,255,0)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 825996,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1760.20576,
+          "y": -257.32574
+        },
+        "width": 0,
+        "height": 264.20848,
+        "points": {
+          "__a": [
+            {
+              "x": 1760.20576,
+              "y": -389.42998
+            },
+            {
+              "x": 1760.20576,
+              "y": -125.2215
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(0,255,0)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 825997,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1740.22361,
+          "y": -320.60256
+        },
+        "width": 40.8524,
+        "height": 79.92862,
+        "points": {
+          "__a": [
+            {
+              "x": 1759.76171,
+              "y": -280.63825
+            },
+            {
+              "x": 1719.79741,
+              "y": -280.63825
+            },
+            {
+              "x": 1719.79741,
+              "y": -360.56687
+            },
+            {
+              "x": 1760.64981,
+              "y": -360.56687
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(0,255,0)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 825998,
+      "p": {
+        "name": "截止阀",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/截止阀.json",
+        "rotation": 1.5708,
+        "position": {
+          "x": 1720,
+          "y": -321
+        },
+        "width": 30,
+        "height": 14
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(0,255,0)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 825999,
+      "p": {
+        "name": "截止阀",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/截止阀.json",
+        "rotation": 1.5708,
+        "position": {
+          "x": 1760,
+          "y": -336
+        },
+        "width": 30,
+        "height": 14
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(0,255,0)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826000,
+      "p": {
+        "name": "截止阀",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/截止阀.json",
+        "rotation": 1.5708,
+        "position": {
+          "x": 1760,
+          "y": -304
+        },
+        "width": 30,
+        "height": 14
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(0,255,0)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826001,
+      "p": {
+        "name": "34",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/34.json",
+        "position": {
+          "x": 1580,
+          "y": -362
+        }
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 826002,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1629.00606,
+          "y": -316.52326
+        },
+        "width": 340.1915,
+        "height": 38.50034,
+        "points": {
+          "__a": [
+            {
+              "x": 1799.10181,
+              "y": -335.77343
+            },
+            {
+              "x": 1640.99797,
+              "y": -335.77343
+            },
+            {
+              "x": 1640.05124,
+              "y": -297.27309
+            },
+            {
+              "x": 1458.91031,
+              "y": -297.27309
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 1,
+        "shape.border.color": "rgb(0,255,0)",
+        "shape.dash": true,
+        "shape.dash.color": "rgb(0,0,0)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826003,
+      "p": {
+        "name": "电动阀-FSL",
+        "layer": 1,
+        "image": "symbols/palette-icon/m-point/电动阀-FSL.json",
+        "position": {
+          "x": 1458,
+          "y": -299
+        }
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.direction": "left"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826004,
+      "p": {
+        "name": "泵-FSL",
+        "layer": 1,
+        "image": "symbols/palette-icon/m-point/泵-FSL.json",
+        "position": {
+          "x": 1463,
+          "y": -333
+        }
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826005,
+      "p": {
+        "name": "截止阀",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/截止阀.json",
+        "rotation": 1.5708,
+        "position": {
+          "x": 1279.00006,
+          "y": -145.99997
+        },
+        "width": 30,
+        "height": 14
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(0,255,0)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826006,
+      "p": {
+        "name": "电动阀-FSL",
+        "layer": 1,
+        "image": "symbols/palette-icon/m-point/电动阀-FSL.json",
+        "position": {
+          "x": 1459,
+          "y": -147
+        }
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.direction": "left"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826007,
+      "p": {
+        "name": "电动阀-FSL",
+        "layer": 1,
+        "image": "symbols/palette-icon/m-point/电动阀-FSL.json",
+        "position": {
+          "x": 1589,
+          "y": -146
+        },
+        "width": 56,
+        "height": 32
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.direction": "left"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826008,
+      "p": {
+        "name": "截止阀",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/截止阀.json",
+        "rotation": 1.5708,
+        "position": {
+          "x": 1741.00006,
+          "y": -145.99997
+        },
+        "width": 30,
+        "height": 14
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(0,255,0)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826009,
+      "p": {
+        "name": "电动阀-FSL",
+        "layer": 1,
+        "image": "symbols/palette-icon/m-point/电动阀-FSL.json",
+        "position": {
+          "x": 1798,
+          "y": -279
+        },
+        "width": 56,
+        "height": 32
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.direction": "left"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826010,
+      "p": {
+        "name": "截止阀",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/截止阀.json",
+        "rotation": 1.5708,
+        "position": {
+          "x": 1800.00006,
+          "y": -238.99997
+        },
+        "width": 30,
+        "height": 14
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(0,255,0)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 826011,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1452,
+          "y": -145.5
+        },
+        "width": 32,
+        "height": 33,
+        "points": {
+          "__a": [
+            {
+              "x": 1436.86487,
+              "y": -129.58929
+            },
+            {
+              "x": 1436.86487,
+              "y": -162
+            },
+            {
+              "x": 1468,
+              "y": -162
+            },
+            {
+              "x": 1468,
+              "y": -129
+            },
+            {
+              "x": 1436,
+              "y": -129
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 1,
+        "shape.border.color": "rgb(220,220,220)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 826012,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1582,
+          "y": -144.5
+        },
+        "width": 32,
+        "height": 33,
+        "points": {
+          "__a": [
+            {
+              "x": 1566.86487,
+              "y": -128.58929
+            },
+            {
+              "x": 1566.86487,
+              "y": -161
+            },
+            {
+              "x": 1598,
+              "y": -161
+            },
+            {
+              "x": 1598,
+              "y": -128
+            },
+            {
+              "x": 1566,
+              "y": -128
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 1,
+        "shape.border.color": "rgb(220,220,220)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 826013,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1791,
+          "y": -277.5
+        },
+        "width": 32,
+        "height": 33,
+        "points": {
+          "__a": [
+            {
+              "x": 1775.86487,
+              "y": -261.58929
+            },
+            {
+              "x": 1775.86487,
+              "y": -294
+            },
+            {
+              "x": 1807,
+              "y": -294
+            },
+            {
+              "x": 1807,
+              "y": -261
+            },
+            {
+              "x": 1775,
+              "y": -261
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 1,
+        "shape.border.color": "rgb(220,220,220)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 826014,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1451,
+          "y": -297.5
+        },
+        "width": 32,
+        "height": 33,
+        "points": {
+          "__a": [
+            {
+              "x": 1435.86487,
+              "y": -281.58929
+            },
+            {
+              "x": 1435.86487,
+              "y": -314
+            },
+            {
+              "x": 1467,
+              "y": -314
+            },
+            {
+              "x": 1467,
+              "y": -281
+            },
+            {
+              "x": 1435,
+              "y": -281
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 1,
+        "shape.border.color": "rgb(220,220,220)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826015,
+      "p": {
+        "name": "截止阀",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/截止阀.json",
+        "rotation": 1.5708,
+        "position": {
+          "x": 1799.00006,
+          "y": -363.99997
+        },
+        "width": 30,
+        "height": 14
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(0,255,0)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826016,
+      "p": {
+        "name": "截止阀",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/截止阀.json",
+        "rotation": 3.14159,
+        "position": {
+          "x": 1719.00006,
+          "y": -387.99997
+        },
+        "width": 30,
+        "height": 14
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(0,255,0)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826017,
+      "p": {
+        "name": "截止阀",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/截止阀.json",
+        "rotation": 3.14159,
+        "position": {
+          "x": 1545,
+          "y": -389
+        },
+        "width": 30,
+        "height": 14
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(0,255,0)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826018,
+      "p": {
+        "name": "截止阀",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/截止阀.json",
+        "rotation": 1.5708,
+        "position": {
+          "x": 1460.00006,
+          "y": -368.99997
+        },
+        "width": 30,
+        "height": 14
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(0,255,0)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826019,
+      "p": {
+        "name": "泵-FSL",
+        "layer": 1,
+        "image": "symbols/palette-icon/m-point/泵-FSL.json",
+        "position": {
+          "x": 1242,
+          "y": -277
+        }
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826020,
+      "p": {
+        "name": "信号标志",
+        "layer": 1,
+        "image": "symbols/palette-icon/m-point/信号标志.json",
+        "position": {
+          "x": 1282,
+          "y": -280
+        }
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826021,
+      "p": {
+        "name": "电动阀-2",
+        "layer": 1,
+        "image": "symbols/palette-icon/m-point/电动阀-2.json",
+        "position": {
+          "x": 1289,
+          "y": -219
+        }
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826022,
+      "p": {
+        "name": "泵-FSL",
+        "layer": 1,
+        "image": "symbols/palette-icon/m-point/泵-FSL.json",
+        "position": {
+          "x": 1063,
+          "y": -264
+        }
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826023,
+      "p": {
+        "name": "泵-FSL",
+        "layer": 1,
+        "image": "symbols/palette-icon/m-point/泵-FSL.json",
+        "position": {
+          "x": 1144,
+          "y": -264
+        }
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 826024,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1059,
+          "y": -264
+        },
+        "width": 34,
+        "height": 34,
+        "points": {
+          "__a": [
+            {
+              "x": 1042.91892,
+              "y": -247.60715
+            },
+            {
+              "x": 1042.91892,
+              "y": -281
+            },
+            {
+              "x": 1076,
+              "y": -281
+            },
+            {
+              "x": 1076,
+              "y": -247
+            },
+            {
+              "x": 1042,
+              "y": -247
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 1,
+        "shape.border.color": "rgb(220,220,220)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 826025,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1140,
+          "y": -264
+        },
+        "width": 34,
+        "height": 34,
+        "points": {
+          "__a": [
+            {
+              "x": 1123.91892,
+              "y": -247.60715
+            },
+            {
+              "x": 1123.91892,
+              "y": -281
+            },
+            {
+              "x": 1157,
+              "y": -281
+            },
+            {
+              "x": 1157,
+              "y": -247
+            },
+            {
+              "x": 1123,
+              "y": -247
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 1,
+        "shape.border.color": "rgb(220,220,220)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 826026,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1238,
+          "y": -277
+        },
+        "width": 34,
+        "height": 34,
+        "points": {
+          "__a": [
+            {
+              "x": 1221.91892,
+              "y": -260.60715
+            },
+            {
+              "x": 1221.91892,
+              "y": -294
+            },
+            {
+              "x": 1255,
+              "y": -294
+            },
+            {
+              "x": 1255,
+              "y": -260
+            },
+            {
+              "x": 1221,
+              "y": -260
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 1,
+        "shape.border.color": "rgb(220,220,220)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 826027,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1319,
+          "y": -277
+        },
+        "width": 34,
+        "height": 34,
+        "points": {
+          "__a": [
+            {
+              "x": 1302.91892,
+              "y": -260.60715
+            },
+            {
+              "x": 1302.91892,
+              "y": -294
+            },
+            {
+              "x": 1336,
+              "y": -294
+            },
+            {
+              "x": 1336,
+              "y": -260
+            },
+            {
+              "x": 1302,
+              "y": -260
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 1,
+        "shape.border.color": "rgb(220,220,220)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 826028,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1460,
+          "y": -333
+        },
+        "width": 34,
+        "height": 34,
+        "points": {
+          "__a": [
+            {
+              "x": 1443.91892,
+              "y": -316.60715
+            },
+            {
+              "x": 1443.91892,
+              "y": -350
+            },
+            {
+              "x": 1477,
+              "y": -350
+            },
+            {
+              "x": 1477,
+              "y": -316
+            },
+            {
+              "x": 1443,
+              "y": -316
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 1,
+        "shape.border.color": "rgb(220,220,220)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 826029,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1538,
+          "y": -313
+        },
+        "width": 34,
+        "height": 34,
+        "points": {
+          "__a": [
+            {
+              "x": 1521.91892,
+              "y": -296.60715
+            },
+            {
+              "x": 1521.91892,
+              "y": -330
+            },
+            {
+              "x": 1555,
+              "y": -330
+            },
+            {
+              "x": 1555,
+              "y": -296
+            },
+            {
+              "x": 1521,
+              "y": -296
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 1,
+        "shape.border.color": "rgb(220,220,220)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 826030,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1599,
+          "y": -312
+        },
+        "width": 34,
+        "height": 34,
+        "points": {
+          "__a": [
+            {
+              "x": 1582.91892,
+              "y": -295.60715
+            },
+            {
+              "x": 1582.91892,
+              "y": -329
+            },
+            {
+              "x": 1616,
+              "y": -329
+            },
+            {
+              "x": 1616,
+              "y": -295
+            },
+            {
+              "x": 1582,
+              "y": -295
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 1,
+        "shape.border.color": "rgb(220,220,220)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 826031,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1797,
+          "y": -315
+        },
+        "width": 34,
+        "height": 34,
+        "points": {
+          "__a": [
+            {
+              "x": 1780.91892,
+              "y": -298.60715
+            },
+            {
+              "x": 1780.91892,
+              "y": -332
+            },
+            {
+              "x": 1814,
+              "y": -332
+            },
+            {
+              "x": 1814,
+              "y": -298
+            },
+            {
+              "x": 1780,
+              "y": -298
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 1,
+        "shape.border.color": "rgb(220,220,220)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826032,
+      "p": {
+        "name": "泵-FSL",
+        "layer": 1,
+        "image": "symbols/palette-icon/m-point/泵-FSL.json",
+        "position": {
+          "x": 1542,
+          "y": -313
+        }
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826033,
+      "p": {
+        "name": "泵-FSL",
+        "layer": 1,
+        "image": "symbols/palette-icon/m-point/泵-FSL.json",
+        "position": {
+          "x": 1602,
+          "y": -312
+        }
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826034,
+      "p": {
+        "name": "泵-FSL",
+        "layer": 1,
+        "image": "symbols/palette-icon/m-point/泵-FSL.json",
+        "position": {
+          "x": 1801,
+          "y": -315
+        }
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826035,
+      "p": {
+        "name": "截止阀",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/截止阀.json",
+        "rotation": 1.5708,
+        "position": {
+          "x": 1140.00006,
+          "y": -321.99997
+        },
+        "width": 30,
+        "height": 14
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(0,255,0)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826036,
+      "p": {
+        "name": "流向",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/流向.json",
+        "rotation": 3.14159,
+        "position": {
+          "x": 1140.29676,
+          "y": -299
+        },
+        "width": 14.59351,
+        "height": 12
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826037,
+      "p": {
+        "name": "截止阀",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/截止阀.json",
+        "rotation": 1.5708,
+        "position": {
+          "x": 1059.00006,
+          "y": -321.99997
+        },
+        "width": 30,
+        "height": 14
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(0,255,0)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826038,
+      "p": {
+        "name": "流向",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/流向.json",
+        "rotation": 3.14159,
+        "position": {
+          "x": 1059.29676,
+          "y": -299
+        },
+        "width": 14.59351,
+        "height": 12
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826039,
+      "p": {
+        "name": "截止阀",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/截止阀.json",
+        "rotation": 3.14159,
+        "position": {
+          "x": 1280.00002,
+          "y": -197.99996
+        },
+        "width": 30,
+        "height": 14
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(0,255,0)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826040,
+      "p": {
+        "name": "泵-普通",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/泵-普通.json",
+        "position": {
+          "x": 1319,
+          "y": -277
+        }
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826041,
+      "p": {
+        "name": "截止阀",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/截止阀.json",
+        "rotation": 1.5708,
+        "position": {
+          "x": 1060.00006,
+          "y": -205.99997
+        },
+        "width": 30,
+        "height": 14
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(0,255,0)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826042,
+      "p": {
+        "name": "截止阀",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/截止阀.json",
+        "rotation": 1.5708,
+        "position": {
+          "x": 1140.00006,
+          "y": -205.99997
+        },
+        "width": 30,
+        "height": 14
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(0,255,0)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826043,
+      "p": {
+        "name": "截止阀",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/截止阀.json",
+        "rotation": 3.14159,
+        "position": {
+          "x": 1341.00002,
+          "y": -199.99996
+        },
+        "width": 30,
+        "height": 14
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(0,255,0)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826044,
+      "p": {
+        "name": "截止阀",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/截止阀.json",
+        "rotation": 1.5708,
+        "position": {
+          "x": 1461.00006,
+          "y": -250.99997
+        },
+        "width": 30,
+        "height": 14
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(0,255,0)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826045,
+      "p": {
+        "name": "34",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/34.json",
+        "rotation": 1.5708,
+        "position": {
+          "x": 1123,
+          "y": -385
+        }
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826046,
+      "p": {
+        "name": "电动阀-FSL",
+        "layer": 1,
+        "image": "symbols/palette-icon/m-point/电动阀-FSL.json",
+        "position": {
+          "x": 357,
+          "y": -419
+        },
+        "width": 56,
+        "height": 32
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.direction": "left"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826047,
+      "p": {
+        "name": "电动阀-FSL",
+        "layer": 1,
+        "image": "symbols/palette-icon/m-point/电动阀-FSL.json",
+        "position": {
+          "x": 579,
+          "y": -418
+        },
+        "width": 56,
+        "height": 32
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.direction": "left"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826048,
+      "p": {
+        "name": "电动阀-FSL",
+        "layer": 1,
+        "image": "symbols/palette-icon/m-point/电动阀-FSL.json",
+        "position": {
+          "x": 796,
+          "y": -419
+        },
+        "width": 56,
+        "height": 32
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.direction": "left"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 826049,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 789,
+          "y": -417.5
+        },
+        "width": 32,
+        "height": 33,
+        "points": {
+          "__a": [
+            {
+              "x": 773.86487,
+              "y": -401.58929
+            },
+            {
+              "x": 773.86487,
+              "y": -434
+            },
+            {
+              "x": 805,
+              "y": -434
+            },
+            {
+              "x": 805,
+              "y": -401
+            },
+            {
+              "x": 773,
+              "y": -401
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 1,
+        "shape.border.color": "rgb(220,220,220)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 826050,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 572,
+          "y": -416.5
+        },
+        "width": 32,
+        "height": 33,
+        "points": {
+          "__a": [
+            {
+              "x": 556.86487,
+              "y": -400.58929
+            },
+            {
+              "x": 556.86487,
+              "y": -433
+            },
+            {
+              "x": 588,
+              "y": -433
+            },
+            {
+              "x": 588,
+              "y": -400
+            },
+            {
+              "x": 556,
+              "y": -400
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 1,
+        "shape.border.color": "rgb(220,220,220)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 826051,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 350,
+          "y": -417.5
+        },
+        "width": 32,
+        "height": 33,
+        "points": {
+          "__a": [
+            {
+              "x": 334.86487,
+              "y": -401.58929
+            },
+            {
+              "x": 334.86487,
+              "y": -434
+            },
+            {
+              "x": 366,
+              "y": -434
+            },
+            {
+              "x": 366,
+              "y": -401
+            },
+            {
+              "x": 334,
+              "y": -401
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 1,
+        "shape.border.color": "rgb(220,220,220)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826052,
+      "p": {
+        "name": "电动阀-2",
+        "layer": 1,
+        "image": "symbols/palette-icon/m-point/电动阀-2.json",
+        "position": {
+          "x": 306,
+          "y": -260
+        }
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826053,
+      "p": {
+        "name": "电动阀-2",
+        "layer": 1,
+        "image": "symbols/palette-icon/m-point/电动阀-2.json",
+        "position": {
+          "x": 532,
+          "y": -262
+        }
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826054,
+      "p": {
+        "name": "电动阀-2",
+        "layer": 1,
+        "image": "symbols/palette-icon/m-point/电动阀-2.json",
+        "position": {
+          "x": 746,
+          "y": -261
+        }
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 826055,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 797,
+          "y": -260
+        },
+        "width": 34,
+        "height": 34,
+        "points": {
+          "__a": [
+            {
+              "x": 780.91892,
+              "y": -243.60715
+            },
+            {
+              "x": 780.91892,
+              "y": -277
+            },
+            {
+              "x": 814,
+              "y": -277
+            },
+            {
+              "x": 814,
+              "y": -243
+            },
+            {
+              "x": 780,
+              "y": -243
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 1,
+        "shape.border.color": "rgb(220,220,220)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 826056,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 581,
+          "y": -262
+        },
+        "width": 34,
+        "height": 34,
+        "points": {
+          "__a": [
+            {
+              "x": 564.91892,
+              "y": -245.60715
+            },
+            {
+              "x": 564.91892,
+              "y": -279
+            },
+            {
+              "x": 598,
+              "y": -279
+            },
+            {
+              "x": 598,
+              "y": -245
+            },
+            {
+              "x": 564,
+              "y": -245
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 1,
+        "shape.border.color": "rgb(220,220,220)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 826057,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 358,
+          "y": -261
+        },
+        "width": 34,
+        "height": 34,
+        "points": {
+          "__a": [
+            {
+              "x": 341.91892,
+              "y": -244.60715
+            },
+            {
+              "x": 341.91892,
+              "y": -278
+            },
+            {
+              "x": 375,
+              "y": -278
+            },
+            {
+              "x": 375,
+              "y": -244
+            },
+            {
+              "x": 341,
+              "y": -244
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 1,
+        "shape.border.color": "rgb(220,220,220)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826058,
+      "p": {
+        "name": "泵-FSL",
+        "layer": 1,
+        "image": "symbols/palette-icon/m-point/泵-FSL.json",
+        "position": {
+          "x": 362,
+          "y": -261
+        }
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826059,
+      "p": {
+        "name": "泵-FSL",
+        "layer": 1,
+        "image": "symbols/palette-icon/m-point/泵-FSL.json",
+        "position": {
+          "x": 585,
+          "y": -261
+        }
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826060,
+      "p": {
+        "name": "泵-FSL",
+        "layer": 1,
+        "image": "symbols/palette-icon/m-point/泵-FSL.json",
+        "position": {
+          "x": 801,
+          "y": -260
+        }
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826061,
+      "p": {
+        "name": "开关-拟物",
+        "layer": 1,
+        "image": "symbols/palette-icon/m-point/开关-拟物.json",
+        "position": {
+          "x": 461,
+          "y": -259
+        }
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826062,
+      "p": {
+        "name": "开关-拟物",
+        "layer": 1,
+        "image": "symbols/palette-icon/m-point/开关-拟物.json",
+        "position": {
+          "x": 681,
+          "y": -260
+        }
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826063,
+      "p": {
+        "name": "开关-拟物",
+        "layer": 1,
+        "image": "symbols/palette-icon/m-point/开关-拟物.json",
+        "position": {
+          "x": 901,
+          "y": -259
+        }
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 826064,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 249.35263,
+          "y": -401.50863
+        },
+        "width": 63.10148,
+        "height": 159.78924,
+        "points": {
+          "__a": [
+            {
+              "x": 217.80189,
+              "y": -481.40325
+            },
+            {
+              "x": 280.90338,
+              "y": -481.40325
+            },
+            {
+              "x": 280.90338,
+              "y": -321.61401
+            },
+            {
+              "x": 217.80189,
+              "y": -321.61401
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(0,255,0)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826065,
+      "p": {
+        "name": "截止阀",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/截止阀.json",
+        "rotation": 1.5708,
+        "position": {
+          "x": 218,
+          "y": -455
+        }
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(0,255,0)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826066,
+      "p": {
+        "name": "截止阀",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/截止阀.json",
+        "rotation": 1.5708,
+        "position": {
+          "x": 281,
+          "y": -455
+        },
+        "width": 30,
+        "height": 14
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(0,255,0)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826067,
+      "p": {
+        "name": "截止阀",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/截止阀.json",
+        "rotation": 1.5708,
+        "position": {
+          "x": 218,
+          "y": -399
+        },
+        "width": 30,
+        "height": 14
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(0,255,0)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826068,
+      "p": {
+        "name": "截止阀",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/截止阀.json",
+        "rotation": 1.5708,
+        "position": {
+          "x": 281,
+          "y": -400
+        },
+        "width": 30,
+        "height": 14
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(0,255,0)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826069,
+      "p": {
+        "name": "截止阀",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/截止阀.json",
+        "rotation": 1.5708,
+        "position": {
+          "x": 218,
+          "y": -367
+        },
+        "width": 30,
+        "height": 14
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(0,255,0)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826070,
+      "p": {
+        "name": "截止阀",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/截止阀.json",
+        "rotation": 1.5708,
+        "position": {
+          "x": 281,
+          "y": -368
+        },
+        "width": 30,
+        "height": 14
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(0,255,0)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826071,
+      "p": {
+        "name": "流向",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/流向.json",
+        "position": {
+          "x": 1638,
+          "y": 400.5
+        }
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826072,
+      "p": {
+        "name": "流向",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/流向.json",
+        "position": {
+          "x": 1761,
+          "y": 403.5
+        }
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826073,
+      "p": {
+        "name": "流向",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/流向.json",
+        "position": {
+          "x": 1919,
+          "y": 405.5
+        }
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826074,
+      "p": {
+        "name": "流向",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/流向.json",
+        "rotation": 3.14159,
+        "position": {
+          "x": 1679,
+          "y": 349.5
+        }
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826075,
+      "p": {
+        "name": "流向",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/流向.json",
+        "rotation": 3.14159,
+        "position": {
+          "x": 1799,
+          "y": 351.5
+        }
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826076,
+      "p": {
+        "name": "流向",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/流向.json",
+        "rotation": 3.14159,
+        "position": {
+          "x": 1963,
+          "y": 351.5
+        },
+        "width": 18,
+        "height": 15
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826077,
+      "p": {
+        "name": "流向",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/流向.json",
+        "rotation": 3.14159,
+        "position": {
+          "x": 1719,
+          "y": 407.5
+        },
+        "width": 18,
+        "height": 15
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826078,
+      "p": {
+        "name": "电动机-MATE",
+        "layer": 1,
+        "image": "symbols/palette-icon/m-point/电动机-MATE.json",
+        "position": {
+          "x": 484,
+          "y": 211.57472
+        },
+        "width": 82,
+        "height": 57.14944
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826079,
+      "p": {
+        "name": "电动机-MATE",
+        "layer": 1,
+        "image": "symbols/palette-icon/m-point/电动机-MATE.json",
+        "position": {
+          "x": 627,
+          "y": 211.57472
+        },
+        "width": 82,
+        "height": 57.14944
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826080,
+      "p": {
+        "name": "电动阀-2",
+        "layer": 1,
+        "image": "symbols/palette-icon/m-point/电动阀-2.json",
+        "position": {
+          "x": 742,
+          "y": 239
+        }
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826081,
+      "p": {
+        "name": "按钮",
+        "layer": 1,
+        "image": "symbols/palette-icon/basic/按钮.json",
+        "position": {
+          "x": 880,
+          "y": 296
+        },
+        "width": 234,
+        "height": 30
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Text",
+      "i": 826082,
+      "p": {
+        "name": "文字",
+        "layer": 1,
+        "position": {
+          "x": 879,
+          "y": 297
+        }
+      },
+      "s": {
+        "text": "2#机力通风冷却塔风机急停指令",
+        "text.align": "center",
+        "text.font": "16px arial, sans-serif",
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826083,
+      "p": {
+        "name": "按钮",
+        "layer": 1,
+        "image": "symbols/palette-icon/basic/按钮.json",
+        "position": {
+          "x": 1520,
+          "y": -360
+        },
+        "width": 86,
+        "height": 26
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Text",
+      "i": 826084,
+      "p": {
+        "name": "文字",
+        "layer": 1,
+        "position": {
+          "x": 1520,
+          "y": -359
+        }
+      },
+      "s": {
+        "text": "电动消防泵",
+        "text.align": "center",
+        "text.font": "16px arial, sans-serif",
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826085,
+      "p": {
+        "name": "告警变色",
+        "layer": 1,
+        "tag": "DPU1025.HW.DI010411.PV",
+        "image": "symbols/palette-icon/basic/告警变色.json",
+        "position": {
+          "x": 400,
+          "y": -550
+        }
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.label": "220V电源故障",
+        "node.tag": "DPU1025.HW.DI010411.PV"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826086,
+      "p": {
+        "name": "告警变色",
+        "layer": 1,
+        "tag": "DPU1025.HW.DI010412.PV",
+        "image": "symbols/palette-icon/basic/告警变色.json",
+        "position": {
+          "x": 408,
+          "y": -524
+        }
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.label": "DC24V电源故障",
+        "node.tag": "DPU1025.HW.DI010412.PV"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826087,
+      "p": {
+        "name": "告警变色",
+        "layer": 1,
+        "tag": "DPU1025.HW.DI010413.PV",
+        "image": "symbols/palette-icon/basic/告警变色.json",
+        "position": {
+          "x": 398,
+          "y": -499
+        }
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.label": "油泵运行状态",
+        "node.tag": "DPU1025.HW.DI010413.PV"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826088,
+      "p": {
+        "name": "告警变色",
+        "layer": 1,
+        "tag": "DPU1025.HW.DI020411.PV",
+        "image": "symbols/palette-icon/basic/告警变色.json",
+        "position": {
+          "x": 578,
+          "y": -549
+        },
+        "width": 70,
+        "height": 24
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.label": "220V电源故障",
+        "node.tag": "DPU1025.HW.DI020411.PV"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826089,
+      "p": {
+        "name": "告警变色",
+        "layer": 1,
+        "tag": "DPU1025.HW.DI030411.PV",
+        "image": "symbols/palette-icon/basic/告警变色.json",
+        "position": {
+          "x": 797,
+          "y": -551
+        },
+        "width": 70,
+        "height": 24
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.label": "220V电源故障",
+        "node.tag": "DPU1025.HW.DI030411.PV"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826090,
+      "p": {
+        "name": "告警变色",
+        "layer": 1,
+        "tag": "DPU1025.HW.DI020412.PV",
+        "image": "symbols/palette-icon/basic/告警变色.json",
+        "position": {
+          "x": 585,
+          "y": -525
+        },
+        "width": 70,
+        "height": 24
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.label": "DC24V电源故障",
+        "node.tag": "DPU1025.HW.DI020412.PV"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826091,
+      "p": {
+        "name": "告警变色",
+        "layer": 1,
+        "tag": "DPU1025.HW.DI030412.PV",
+        "image": "symbols/palette-icon/basic/告警变色.json",
+        "position": {
+          "x": 807,
+          "y": -527
+        },
+        "width": 70,
+        "height": 24
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.label": "DC24V电源故障",
+        "node.tag": "DPU1025.HW.DI030412.PV"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826092,
+      "p": {
+        "name": "告警变色",
+        "layer": 1,
+        "tag": "DPU1025.HW.DI030413.PV",
+        "image": "symbols/palette-icon/basic/告警变色.json",
+        "position": {
+          "x": 799,
+          "y": -499
+        },
+        "width": 70,
+        "height": 24
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.label": "油泵运行状态",
+        "node.tag": "DPU1025.HW.DI030413.PV"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826093,
+      "p": {
+        "name": "告警变色",
+        "layer": 1,
+        "tag": "DPU1025.HW.DI020413.PV",
+        "image": "symbols/palette-icon/basic/告警变色.json",
+        "position": {
+          "x": 583,
+          "y": -500
+        },
+        "width": 70,
+        "height": 24
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.label": "油泵运行状态",
+        "node.tag": "DPU1025.HW.DI020413.PV"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826094,
+      "p": {
+        "name": "告警变色",
+        "layer": 1,
+        "tag": "DPU1025.HW.DI010406.PV",
+        "image": "symbols/palette-icon/basic/告警变色.json",
+        "position": {
+          "x": 432,
+          "y": -428
+        }
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.label": "15度位置",
+        "node.tag": "DPU1025.HW.DI010406.PV"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826095,
+      "p": {
+        "name": "告警变色",
+        "layer": 1,
+        "tag": "DPU1025.HW.DI010408.PV",
+        "image": "symbols/palette-icon/basic/告警变色.json",
+        "position": {
+          "x": 433,
+          "y": -408
+        }
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.label": "75度位置",
+        "node.tag": "DPU1025.HW.DI010408.PV"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826096,
+      "p": {
+        "name": "告警变色",
+        "layer": 1,
+        "tag": "DPU1025.HW.DI020406.PV",
+        "image": "symbols/palette-icon/basic/告警变色.json",
+        "position": {
+          "x": 645,
+          "y": -430
+        },
+        "width": 70,
+        "height": 24
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.label": "15度位置",
+        "node.tag": "DPU1025.HW.DI020406.PV"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826097,
+      "p": {
+        "name": "告警变色",
+        "layer": 1,
+        "tag": "DPU1025.HW.DI030406.PV",
+        "image": "symbols/palette-icon/basic/告警变色.json",
+        "position": {
+          "x": 861,
+          "y": -431
+        },
+        "width": 70,
+        "height": 24
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.label": "15度位置",
+        "node.tag": "DPU1025.HW.DI030406.PV"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826098,
+      "p": {
+        "name": "告警变色",
+        "layer": 1,
+        "tag": "DPU1025.HW.DI020408.PV",
+        "image": "symbols/palette-icon/basic/告警变色.json",
+        "position": {
+          "x": 646,
+          "y": -410
+        },
+        "width": 70,
+        "height": 24
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.label": "75度位置",
+        "node.tag": "DPU1025.HW.DI020408.PV"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826099,
+      "p": {
+        "name": "告警变色",
+        "layer": 1,
+        "tag": "DPU1025.HW.DI030408.PV",
+        "image": "symbols/palette-icon/basic/告警变色.json",
+        "position": {
+          "x": 862,
+          "y": -410
+        },
+        "width": 70,
+        "height": 24
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.label": "75度位置",
+        "node.tag": "DPU1025.HW.DI030408.PV"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826100,
+      "p": {
+        "name": "告警变色",
+        "layer": 1,
+        "tag": "DPU1025.HW.DQ010608.PV",
+        "image": "symbols/palette-icon/basic/告警变色.json",
+        "position": {
+          "x": 364,
+          "y": -6
+        }
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.label": "辅机循环水泵A停止信号",
+        "node.tag": "DPU1025.HW.DQ010608.PV"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826101,
+      "p": {
+        "name": "告警变色",
+        "layer": 1,
+        "tag": "DPU1025.HW.DQ020608.PV",
+        "image": "symbols/palette-icon/basic/告警变色.json",
+        "position": {
+          "x": 365,
+          "y": 14
+        },
+        "width": 70,
+        "height": 24
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.label": "辅机循环水泵A停止信号",
+        "node.tag": "DPU1025.HW.DQ020608.PV"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826102,
+      "p": {
+        "name": "告警变色",
+        "layer": 1,
+        "tag": "DPU1025.HW.DQ030608.PV",
+        "image": "symbols/palette-icon/basic/告警变色.json",
+        "position": {
+          "x": 367,
+          "y": 33
+        },
+        "width": 70,
+        "height": 24
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.label": "辅机循环水泵A停止信号",
+        "node.tag": "DPU1025.HW.DQ030608.PV"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826103,
+      "p": {
+        "name": "电动阀-2",
+        "layer": 1,
+        "image": "symbols/palette-icon/m-point/电动阀-2.json",
+        "position": {
+          "x": 1096,
+          "y": 16
+        }
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.direction": "left"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826104,
+      "p": {
+        "name": "电动阀-2",
+        "layer": 1,
+        "image": "symbols/palette-icon/m-point/电动阀-2.json",
+        "position": {
+          "x": 1400,
+          "y": 14
+        },
+        "width": 46,
+        "height": 32
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.direction": "left"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826105,
+      "p": {
+        "name": "电动阀-2",
+        "layer": 1,
+        "image": "symbols/palette-icon/m-point/电动阀-2.json",
+        "position": {
+          "x": 1618,
+          "y": 14
+        },
+        "width": 46,
+        "height": 32
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.direction": "left"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826106,
+      "p": {
+        "name": "电动阀-FSL",
+        "layer": 1,
+        "image": "symbols/palette-icon/m-point/电动阀-FSL.json",
+        "position": {
+          "x": 1459,
+          "y": 14
+        },
+        "width": 56,
+        "height": 32
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.direction": "left"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826107,
+      "p": {
+        "name": "电动阀-FSL",
+        "layer": 1,
+        "image": "symbols/palette-icon/m-point/电动阀-FSL.json",
+        "position": {
+          "x": 1558,
+          "y": 14
+        },
+        "width": 56,
+        "height": 32
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.direction": "left"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 826108,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1452,
+          "y": 15.5
+        },
+        "width": 32,
+        "height": 33,
+        "points": {
+          "__a": [
+            {
+              "x": 1436.86487,
+              "y": 31.41071
+            },
+            {
+              "x": 1436.86487,
+              "y": -1
+            },
+            {
+              "x": 1468,
+              "y": -1
+            },
+            {
+              "x": 1468,
+              "y": 32
+            },
+            {
+              "x": 1436,
+              "y": 32
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 1,
+        "shape.border.color": "rgb(220,220,220)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 826109,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1551,
+          "y": 15.5
+        },
+        "width": 32,
+        "height": 33,
+        "points": {
+          "__a": [
+            {
+              "x": 1535.86487,
+              "y": 31.41071
+            },
+            {
+              "x": 1535.86487,
+              "y": -1
+            },
+            {
+              "x": 1567,
+              "y": -1
+            },
+            {
+              "x": 1567,
+              "y": 32
+            },
+            {
+              "x": 1535,
+              "y": 32
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 1,
+        "shape.border.color": "rgb(220,220,220)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826110,
+      "p": {
+        "name": "告警变色",
+        "layer": 1,
+        "tag": "DPU1025.HW.DI090201.PV",
+        "image": "symbols/palette-icon/basic/告警变色.json",
+        "position": {
+          "x": 1139,
+          "y": 12
+        }
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.label": "全开",
+        "node.tag": "DPU1025.HW.DI090201.PV"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826111,
+      "p": {
+        "name": "告警变色",
+        "layer": 1,
+        "tag": "DPU1025.HW.DI090203.PV",
+        "image": "symbols/palette-icon/basic/告警变色.json",
+        "position": {
+          "x": 1184,
+          "y": 13
+        }
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.label": "远程",
+        "node.tag": "DPU1025.HW.DI090203.PV"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826112,
+      "p": {
+        "name": "告警变色",
+        "layer": 1,
+        "tag": "DPU1025.HW.DI090202.PV",
+        "image": "symbols/palette-icon/basic/告警变色.json",
+        "position": {
+          "x": 1138,
+          "y": 32
+        }
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.label": "全关",
+        "node.tag": "DPU1025.HW.DI090202.PV"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826113,
+      "p": {
+        "name": "告警变色",
+        "layer": 1,
+        "tag": "DPU1025.HW.DI090204.PV",
+        "image": "symbols/palette-icon/basic/告警变色.json",
+        "position": {
+          "x": 1184,
+          "y": 32
+        }
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.label": "故障",
+        "node.tag": "DPU1025.HW.DI090204.PV"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826114,
+      "p": {
+        "name": "告警变色",
+        "layer": 1,
+        "tag": "DPU1025.HW.DI070405.PV",
+        "image": "symbols/palette-icon/basic/告警变色.json",
+        "position": {
+          "x": 1302,
+          "y": 10
+        },
+        "width": 70,
+        "height": 24
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.label": "全开",
+        "node.tag": "DPU1025.HW.DI070405.PV"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826115,
+      "p": {
+        "name": "告警变色",
+        "layer": 1,
+        "tag": "DPU1025.HW.DI080401.PV",
+        "image": "symbols/palette-icon/basic/告警变色.json",
+        "position": {
+          "x": 1661,
+          "y": 10
+        },
+        "width": 70,
+        "height": 24
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.label": "全开",
+        "node.tag": "DPU1025.HW.DI080401.PV"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826116,
+      "p": {
+        "name": "告警变色",
+        "layer": 1,
+        "tag": "DPU1025.HW.DI070407.PV",
+        "image": "symbols/palette-icon/basic/告警变色.json",
+        "position": {
+          "x": 1342,
+          "y": 10
+        },
+        "width": 70,
+        "height": 24
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.label": "远程",
+        "node.tag": "DPU1025.HW.DI070407.PV"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826117,
+      "p": {
+        "name": "告警变色",
+        "layer": 1,
+        "tag": "DPU1025.HW.DI080403.PV",
+        "image": "symbols/palette-icon/basic/告警变色.json",
+        "position": {
+          "x": 1704,
+          "y": 10
+        },
+        "width": 70,
+        "height": 24
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.label": "远程",
+        "node.tag": "DPU1025.HW.DI080403.PV"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826118,
+      "p": {
+        "name": "告警变色",
+        "layer": 1,
+        "tag": "DPU1025.HW.DI070406.PV",
+        "image": "symbols/palette-icon/basic/告警变色.json",
+        "position": {
+          "x": 1302,
+          "y": 31
+        },
+        "width": 70,
+        "height": 24
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.label": "全关",
+        "node.tag": "DPU1025.HW.DI070406.PV"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826119,
+      "p": {
+        "name": "告警变色",
+        "layer": 1,
+        "tag": "DPU1025.HW.DI080402.PV",
+        "image": "symbols/palette-icon/basic/告警变色.json",
+        "position": {
+          "x": 1661,
+          "y": 31
+        },
+        "width": 70,
+        "height": 24
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.label": "全关",
+        "node.tag": "DPU1025.HW.DI080402.PV"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826120,
+      "p": {
+        "name": "告警变色",
+        "layer": 1,
+        "tag": "DPU1025.HW.DI070408.PV",
+        "image": "symbols/palette-icon/basic/告警变色.json",
+        "position": {
+          "x": 1342,
+          "y": 30
+        },
+        "width": 70,
+        "height": 24
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.label": "故障",
+        "node.tag": "DPU1025.HW.DI070408.PV"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826121,
+      "p": {
+        "name": "告警变色",
+        "layer": 1,
+        "tag": "DPU1025.HW.DI080404.PV",
+        "image": "symbols/palette-icon/basic/告警变色.json",
+        "position": {
+          "x": 1704,
+          "y": 30
+        },
+        "width": 70,
+        "height": 24
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.label": "故障",
+        "node.tag": "DPU1025.HW.DI080404.PV"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826122,
+      "p": {
+        "name": "告警变色",
+        "layer": 1,
+        "tag": "DPU1025.HW.DI070513.PV",
+        "image": "symbols/palette-icon/basic/告警变色.json",
+        "position": {
+          "x": 1151,
+          "y": -355
+        }
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.label": "生活变频水泵生活故障",
+        "node.tag": "DPU1025.HW.DI070513.PV"
+      }
+    },
+    {
+      "c": "ht.Text",
+      "i": 826123,
+      "p": {
+        "name": "文字",
+        "layer": 1,
+        "position": {
+          "x": 238,
+          "y": 356
+        }
+      },
+      "s": {
+        "text": "工业水来",
+        "text.align": "center",
+        "text.font": "16px arial, sans-serif",
+        "label": "",
+        "text.color": "rgb(255,255,255)"
+      }
+    },
+    {
+      "c": "ht.Text",
+      "i": 826124,
+      "p": {
+        "name": "文字",
+        "layer": 1,
+        "position": {
+          "x": 266,
+          "y": -554
+        }
+      },
+      "s": {
+        "text": "第三水厂自来水",
+        "text.align": "center",
+        "text.font": "16px arial, sans-serif",
+        "label": "",
+        "text.color": "rgb(255,255,255)"
+      }
+    },
+    {
+      "c": "ht.Text",
+      "i": 826125,
+      "p": {
+        "name": "文字",
+        "layer": 1,
+        "position": {
+          "x": 1795,
+          "y": 233
+        }
+      },
+      "s": {
+        "text": "主厂房",
+        "text.align": "center",
+        "text.font": "16px arial, sans-serif",
+        "label": "",
+        "text.color": "rgb(255,255,255)"
+      }
+    },
+    {
+      "c": "ht.Text",
+      "i": 826126,
+      "p": {
+        "name": "文字",
+        "layer": 1,
+        "position": {
+          "x": 1113,
+          "y": -110
+        }
+      },
+      "s": {
+        "text": "生活水池",
+        "text.align": "center",
+        "text.font": "16px arial, sans-serif",
+        "label": "",
+        "text.color": "rgb(255,255,255)"
+      }
+    },
+    {
+      "c": "ht.Text",
+      "i": 826127,
+      "p": {
+        "name": "文字",
+        "layer": 1,
+        "position": {
+          "x": 1271,
+          "y": -109
+        }
+      },
+      "s": {
+        "text": "工业水池A",
+        "text.align": "center",
+        "text.font": "16px arial, sans-serif",
+        "label": "",
+        "text.color": "rgb(255,255,255)"
+      }
+    },
+    {
+      "c": "ht.Text",
+      "i": 826128,
+      "p": {
+        "name": "文字",
+        "layer": 1,
+        "position": {
+          "x": 1425,
+          "y": -110
+        }
+      },
+      "s": {
+        "text": "消防水池A",
+        "text.align": "center",
+        "text.font": "16px arial, sans-serif",
+        "label": "",
+        "text.color": "rgb(255,255,255)"
+      }
+    },
+    {
+      "c": "ht.Text",
+      "i": 826129,
+      "p": {
+        "name": "文字",
+        "layer": 1,
+        "position": {
+          "x": 1568,
+          "y": -113
+        }
+      },
+      "s": {
+        "text": "消防水池B",
+        "text.align": "center",
+        "text.font": "16px arial, sans-serif",
+        "label": "",
+        "text.color": "rgb(255,255,255)"
+      }
+    },
+    {
+      "c": "ht.Text",
+      "i": 826130,
+      "p": {
+        "name": "文字",
+        "layer": 1,
+        "position": {
+          "x": 1729,
+          "y": -112
+        }
+      },
+      "s": {
+        "text": "工业水池B",
+        "text.align": "center",
+        "text.font": "16px arial, sans-serif",
+        "label": "",
+        "text.color": "rgb(255,255,255)"
+      }
+    },
+    {
+      "c": "ht.Text",
+      "i": 826131,
+      "p": {
+        "name": "文字",
+        "layer": 1,
+        "position": {
+          "x": 1574,
+          "y": -275
+        }
+      },
+      "s": {
+        "text": "第三水厂自来水",
+        "text.align": "center",
+        "text.font": "16px arial, sans-serif",
+        "label": "",
+        "text.color": "rgb(255,255,255)"
+      }
+    },
+    {
+      "c": "ht.Text",
+      "i": 826132,
+      "p": {
+        "name": "文字",
+        "layer": 1,
+        "position": {
+          "x": 1874,
+          "y": -309
+        }
+      },
+      "s": {
+        "text": "柴油消防泵",
+        "text.align": "center",
+        "text.font": "16px arial, sans-serif",
+        "label": "",
+        "text.color": "rgb(255,255,255)"
+      }
+    },
+    {
+      "c": "ht.Text",
+      "i": 826133,
+      "p": {
+        "name": "文字",
+        "layer": 1,
+        "position": {
+          "x": 1797,
+          "y": -461
+        }
+      },
+      "s": {
+        "text": "至厂区消防水管网",
+        "text.align": "center",
+        "text.font": "16px arial, sans-serif",
+        "label": "",
+        "text.color": "rgb(255,255,255)"
+      }
+    },
+    {
+      "c": "ht.Text",
+      "i": 826134,
+      "p": {
+        "name": "文字",
+        "layer": 1,
+        "position": {
+          "x": 1094,
+          "y": -424
+        }
+      },
+      "s": {
+        "text": "至厂区生活水管网",
+        "text.align": "center",
+        "text.font": "16px arial, sans-serif",
+        "label": "",
+        "text.color": "rgb(255,255,255)"
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 826135,
+      "p": {
+        "layer": 1,
+        "position": {
+          "x": 1460.02632,
+          "y": -403.97525
+        },
+        "width": 0,
+        "height": 31.17494,
+        "points": {
+          "__a": [
+            {
+              "x": 1460.02632,
+              "y": -419.56272
+            },
+            {
+              "x": 1460.02632,
+              "y": -388.38778
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.width": 2,
+        "shape.border.color": "rgb(0,255,0)"
+      }
+    },
+    {
+      "c": "ht.Text",
+      "i": 826136,
+      "p": {
+        "name": "文字",
+        "layer": 1,
+        "position": {
+          "x": 1277,
+          "y": -431
+        }
+      },
+      "s": {
+        "text": "至厂区工业水管网",
+        "text.align": "center",
+        "text.font": "16px arial, sans-serif",
+        "label": "",
+        "text.color": "rgb(255,255,255)"
+      }
+    },
+    {
+      "c": "ht.Text",
+      "i": 826137,
+      "p": {
+        "name": "文字",
+        "layer": 1,
+        "position": {
+          "x": 1456,
+          "y": -462
+        }
+      },
+      "s": {
+        "text": "至厂区消防水管网",
+        "text.align": "center",
+        "text.font": "16px arial, sans-serif",
+        "label": "",
+        "text.color": "rgb(255,255,255)"
+      }
+    },
+    {
+      "c": "ht.Text",
+      "i": 826138,
+      "p": {
+        "name": "文字",
+        "layer": 1,
+        "position": {
+          "x": 1101,
+          "y": -224
+        }
+      },
+      "s": {
+        "text": "生活水泵",
+        "text.align": "center",
+        "text.font": "16px arial, sans-serif",
+        "label": "",
+        "text.color": "rgb(255,255,255)"
+      }
+    },
+    {
+      "c": "ht.Text",
+      "i": 826139,
+      "p": {
+        "name": "文字",
+        "layer": 1,
+        "position": {
+          "x": 1281,
+          "y": -247
+        }
+      },
+      "s": {
+        "text": "工业水泵",
+        "text.align": "center",
+        "text.font": "16px arial, sans-serif",
+        "label": "",
+        "text.color": "rgb(255,255,255)"
+      }
+    },
+    {
+      "c": "ht.Text",
+      "i": 826140,
+      "p": {
+        "name": "文字",
+        "layer": 1,
+        "position": {
+          "x": 1795,
+          "y": 258
+        }
+      },
+      "s": {
+        "text": "辅机冷却水系统",
+        "text.align": "center",
+        "text.font": "16px arial, sans-serif",
+        "label": "",
+        "text.color": "rgb(255,255,255)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826141,
+      "p": {
+        "name": "按钮",
+        "layer": 1,
+        "image": "symbols/palette-icon/basic/按钮.json",
+        "position": {
+          "x": 1117.5,
+          "y": -605.21023
+        },
+        "width": 137,
+        "height": 43.57953
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Text",
+      "i": 826142,
+      "p": {
+        "name": "文字",
+        "layer": 1,
+        "position": {
+          "x": 1117,
+          "y": -603
+        }
+      },
+      "s": {
+        "text": "综合水系统",
+        "text.align": "center",
+        "text.font": "26px arial, sans-serif",
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826143,
+      "p": {
+        "name": "数据绑定",
+        "layer": 1,
+        "tag": "DPU1025.HW.AI040201.PV",
+        "image": "symbols/palette-icon/basic/数据绑定.json",
+        "position": {
+          "x": 686,
+          "y": -547
+        }
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.label": "#.###",
+        "node.unit": "MPa",
+        "node.tag": "DPU1025.HW.AI040201.PV"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826144,
+      "p": {
+        "name": "数据绑定",
+        "layer": 1,
+        "tag": "DPU1025.HW.AI010102.PV",
+        "image": "symbols/palette-icon/basic/数据绑定.json",
+        "position": {
+          "x": 349,
+          "y": -467
+        }
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.unit": "MPa",
+        "node.label": "#.##",
+        "node.tag": "DPU1025.HW.AI010102.PV"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826145,
+      "p": {
+        "name": "数据绑定",
+        "layer": 1,
+        "tag": "DPU1025.HW.AI020102.PV",
+        "image": "symbols/palette-icon/basic/数据绑定.json",
+        "position": {
+          "x": 573,
+          "y": -467
+        },
+        "width": 80,
+        "height": 24
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.unit": "MPa",
+        "node.label": "#.##",
+        "node.tag": "DPU1025.HW.AI020102.PV"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826146,
+      "p": {
+        "name": "数据绑定",
+        "layer": 1,
+        "tag": "DPU1025.HW.AI030102.PV",
+        "image": "symbols/palette-icon/basic/数据绑定.json",
+        "position": {
+          "x": 789,
+          "y": -465
+        },
+        "width": 80,
+        "height": 24
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.unit": "MPa",
+        "node.label": "#.##",
+        "node.tag": "DPU1025.HW.AI030102.PV"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826147,
+      "p": {
+        "name": "数据绑定",
+        "layer": 1,
+        "tag": "DPU1025.HW.AI040107.PV",
+        "image": "symbols/palette-icon/basic/数据绑定.json",
+        "position": {
+          "x": 441,
+          "y": -449
+        }
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.label": "###.#",
+        "node.unit": "%",
+        "node.tag": "DPU1025.HW.AI040107.PV"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826148,
+      "p": {
+        "name": "数据绑定",
+        "layer": 1,
+        "tag": "DPU1025.HW.AI040207.PV",
+        "image": "symbols/palette-icon/basic/数据绑定.json",
+        "position": {
+          "x": 656,
+          "y": -449
+        },
+        "width": 80,
+        "height": 24
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.label": "###.#",
+        "node.unit": "%",
+        "node.tag": "DPU1025.HW.AI040207.PV"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826149,
+      "p": {
+        "name": "数据绑定",
+        "layer": 1,
+        "tag": "DPU1025.HW.AI060207.PV",
+        "image": "symbols/palette-icon/basic/数据绑定.json",
+        "position": {
+          "x": 871,
+          "y": -449
+        },
+        "width": 80,
+        "height": 24
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.label": "###.#",
+        "node.unit": "%",
+        "node.tag": "DPU1025.HW.AI060207.PV"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826150,
+      "p": {
+        "name": "电动阀",
+        "layer": 1,
+        "image": "symbols/palette-icon/m-point/电动阀.json",
+        "position": {
+          "x": 359,
+          "y": -185
+        }
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.direction": "left"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826151,
+      "p": {
+        "name": "电动阀",
+        "layer": 1,
+        "image": "symbols/palette-icon/m-point/电动阀.json",
+        "position": {
+          "x": 580,
+          "y": -185
+        },
+        "width": 46,
+        "height": 32
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.direction": "left"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826152,
+      "p": {
+        "name": "电动阀",
+        "layer": 1,
+        "image": "symbols/palette-icon/m-point/电动阀.json",
+        "position": {
+          "x": 799,
+          "y": -185
+        },
+        "width": 46,
+        "height": 32
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.direction": "left"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826153,
+      "p": {
+        "name": "数据绑定",
+        "layer": 1,
+        "tag": "DPU1025.HW.AI010107.PV",
+        "image": "symbols/palette-icon/basic/数据绑定.json",
+        "position": {
+          "x": 416,
+          "y": -183
+        },
+        "width": 80,
+        "height": 24
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.label": "###.#",
+        "node.unit": "%",
+        "node.tag": "DPU1025.HW.AI010107.PV"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826154,
+      "p": {
+        "name": "数据绑定",
+        "layer": 1,
+        "tag": "DPU1025.HW.AI020107.PV",
+        "image": "symbols/palette-icon/basic/数据绑定.json",
+        "position": {
+          "x": 640,
+          "y": -184
+        },
+        "width": 80,
+        "height": 24
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.label": "###.#",
+        "node.unit": "%",
+        "node.tag": "DPU1025.HW.AI020107.PV"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826155,
+      "p": {
+        "name": "数据绑定",
+        "layer": 1,
+        "tag": "DPU1025.HW.AI030107.PV",
+        "image": "symbols/palette-icon/basic/数据绑定.json",
+        "position": {
+          "x": 860,
+          "y": -185
+        },
+        "width": 80,
+        "height": 24
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.label": "###.#",
+        "node.unit": "%",
+        "node.tag": "DPU1025.HW.AI030107.PV"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826156,
+      "p": {
+        "name": "数据绑定",
+        "layer": 1,
+        "tag": "DPU1025.HW.AI010101.PV",
+        "image": "symbols/palette-icon/basic/数据绑定.json",
+        "position": {
+          "x": 397,
+          "y": -225
+        }
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.label": "###.#",
+        "node.unit": "A",
+        "node.tag": "DPU1025.HW.AI010101.PV"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826157,
+      "p": {
+        "name": "数据绑定",
+        "layer": 1,
+        "tag": "DPU1025.HW.AI020101.PV",
+        "image": "symbols/palette-icon/basic/数据绑定.json",
+        "position": {
+          "x": 619,
+          "y": -227
+        },
+        "width": 80,
+        "height": 24
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.label": "###.#",
+        "node.unit": "A",
+        "node.tag": "DPU1025.HW.AI020101.PV"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826158,
+      "p": {
+        "name": "数据绑定",
+        "layer": 1,
+        "tag": "DPU1025.HW.AI030101.PV",
+        "image": "symbols/palette-icon/basic/数据绑定.json",
+        "position": {
+          "x": 835,
+          "y": -226
+        },
+        "width": 80,
+        "height": 24
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.label": "###.#",
+        "node.unit": "A",
+        "node.tag": "DPU1025.HW.AI030101.PV"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826159,
+      "p": {
+        "name": "数据绑定",
+        "layer": 1,
+        "tag": "DPU1025.HW.AI060203.PV",
+        "image": "symbols/palette-icon/basic/数据绑定.json",
+        "position": {
+          "x": 311,
+          "y": -211
+        }
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.unit": "Hz",
+        "node.label": "###.#",
+        "node.tag": "DPU1025.HW.AI060203.PV"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826160,
+      "p": {
+        "name": "数据绑定",
+        "layer": 1,
+        "tag": "DPU1025.HW.AI060204.PV",
+        "image": "symbols/palette-icon/basic/数据绑定.json",
+        "position": {
+          "x": 545,
+          "y": -210
+        },
+        "width": 80,
+        "height": 24
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.unit": "Hz",
+        "node.label": "###.#",
+        "node.tag": "DPU1025.HW.AI060204.PV"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826161,
+      "p": {
+        "name": "数据绑定",
+        "layer": 1,
+        "tag": "DPU1025.HW.AI060205.PV",
+        "image": "symbols/palette-icon/basic/数据绑定.json",
+        "position": {
+          "x": 761,
+          "y": -209
+        },
+        "width": 80,
+        "height": 24
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.unit": "Hz",
+        "node.label": "###.#",
+        "node.tag": "DPU1025.HW.AI060205.PV"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826162,
+      "p": {
+        "name": "电动阀-2",
+        "layer": 1,
+        "image": "symbols/palette-icon/m-point/电动阀-2.json",
+        "position": {
+          "x": 350,
+          "y": 239
+        }
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826163,
+      "p": {
+        "name": "数据绑定",
+        "layer": 1,
+        "tag": "DPU1025.HW.AI060201.PV",
+        "image": "symbols/palette-icon/basic/数据绑定.json",
+        "position": {
+          "x": 347,
+          "y": 267
+        },
+        "width": 80,
+        "height": 24
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.unit": "Hz",
+        "node.label": "###.#",
+        "node.tag": "DPU1025.HW.AI060201.PV"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826164,
+      "p": {
+        "name": "数据绑定",
+        "layer": 1,
+        "tag": "DPU1025.HW.AI060202.PV",
+        "image": "symbols/palette-icon/basic/数据绑定.json",
+        "position": {
+          "x": 736,
+          "y": 264
+        },
+        "width": 80,
+        "height": 24
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.unit": "Hz",
+        "node.label": "###.#",
+        "node.tag": "DPU1025.HW.AI060202.PV"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826165,
+      "p": {
+        "name": "数据绑定",
+        "layer": 1,
+        "tag": "DPU1025.HW.AI070201.PV",
+        "image": "symbols/palette-icon/basic/数据绑定.json",
+        "position": {
+          "x": 1363,
+          "y": -217
+        },
+        "width": 80,
+        "height": 24
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.unit": "Hz",
+        "node.label": "###.#",
+        "node.tag": "DPU1025.HW.AI070201.PV"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826166,
+      "p": {
+        "name": "数据绑定",
+        "layer": 1,
+        "tag": "DPU1025.HW.AI080205.PV",
+        "image": "symbols/palette-icon/basic/数据绑定.json",
+        "position": {
+          "x": 1329,
+          "y": -381
+        },
+        "width": 80,
+        "height": 24
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.label": "#.###",
+        "node.unit": "MPa",
+        "node.tag": "DPU1025.HW.AI080205.PV"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826167,
+      "p": {
+        "name": "数据绑定",
+        "layer": 1,
+        "tag": "DPU1025.HW.AI080202.PV",
+        "image": "symbols/palette-icon/basic/数据绑定.json",
+        "position": {
+          "x": 1507,
+          "y": -410
+        },
+        "width": 80,
+        "height": 24
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.label": "#.###",
+        "node.unit": "MPa",
+        "node.tag": "DPU1025.HW.AI080202.PV"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826168,
+      "p": {
+        "name": "数据绑定",
+        "layer": 1,
+        "tag": "DPU1025.HW.AI080102.PV",
+        "image": "symbols/palette-icon/basic/数据绑定.json",
+        "position": {
+          "x": 1751,
+          "y": -409
+        },
+        "width": 80,
+        "height": 24
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.label": "#.###",
+        "node.unit": "MPa",
+        "node.tag": "DPU1025.HW.AI080102.PV"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826169,
+      "p": {
+        "name": "数据绑定",
+        "layer": 1,
+        "tag": "DPU1025.HW.AI080106.PV",
+        "image": "symbols/palette-icon/basic/数据绑定.json",
+        "position": {
+          "x": 1103,
+          "y": -195
+        },
+        "width": 80,
+        "height": 24
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.label": "###.#",
+        "node.unit": "A",
+        "node.tag": "DPU1025.HW.AI080106.PV"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826170,
+      "p": {
+        "name": "数据绑定",
+        "layer": 1,
+        "tag": "DPU1025.SH0025.AALM01.PV",
+        "image": "symbols/palette-icon/basic/数据绑定.json",
+        "position": {
+          "x": 1518,
+          "y": -436
+        }
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.label": "###.##",
+        "node.unit": "m3/h",
+        "node.tag": "DPU1025.SH0025.AALM01.PV"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826171,
+      "p": {
+        "name": "数据绑定",
+        "layer": 1,
+        "tag": "DPU1025.HW.RT070306.PV",
+        "image": "symbols/palette-icon/basic/数据绑定.json",
+        "position": {
+          "x": 1862,
+          "y": -368
+        }
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.label": "###.#",
+        "node.unit": "℃",
+        "node.tag": "DPU1025.HW.RT070306.PV"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826172,
+      "p": {
+        "name": "数据绑定",
+        "layer": 1,
+        "tag": "DPU1025.HW.AI080206.PV",
+        "image": "symbols/palette-icon/basic/数据绑定.json",
+        "position": {
+          "x": 1879,
+          "y": -269
+        },
+        "width": 80,
+        "height": 24
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.label": "###.##",
+        "node.unit": "t/h",
+        "node.tag": "DPU1025.HW.AI080206.PV"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826173,
+      "p": {
+        "name": "数据绑定",
+        "layer": 1,
+        "tag": "DPU1025.HW.AI080105.PV",
+        "image": "symbols/palette-icon/basic/数据绑定.json",
+        "position": {
+          "x": 1113,
+          "y": -89
+        }
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.label": "###.##",
+        "node.unit": "m",
+        "node.tag": "DPU1025.HW.AI080105.PV"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826174,
+      "p": {
+        "name": "数据绑定",
+        "layer": 1,
+        "tag": "DPU1025.HW.AI080101.PV",
+        "image": "symbols/palette-icon/basic/数据绑定.json",
+        "position": {
+          "x": 1281,
+          "y": -90
+        },
+        "width": 80,
+        "height": 24
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.label": "###.##",
+        "node.unit": "m",
+        "node.tag": "DPU1025.HW.AI080101.PV"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826175,
+      "p": {
+        "name": "数据绑定",
+        "layer": 1,
+        "tag": "DPU1025.HW.AI080201.PV",
+        "image": "symbols/palette-icon/basic/数据绑定.json",
+        "position": {
+          "x": 1435,
+          "y": -90
+        },
+        "width": 80,
+        "height": 24
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.label": "###.##",
+        "node.unit": "m",
+        "node.tag": "DPU1025.HW.AI080201.PV"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826176,
+      "p": {
+        "name": "数据绑定",
+        "layer": 1,
+        "tag": "DPU1025.HW.AI080103.PV",
+        "image": "symbols/palette-icon/basic/数据绑定.json",
+        "position": {
+          "x": 1580,
+          "y": -90
+        },
+        "width": 80,
+        "height": 24
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.label": "###.##",
+        "node.unit": "m",
+        "node.tag": "DPU1025.HW.AI080103.PV"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826177,
+      "p": {
+        "name": "数据绑定",
+        "layer": 1,
+        "tag": "DPU1025.HW.AI080203.PV",
+        "image": "symbols/palette-icon/basic/数据绑定.json",
+        "position": {
+          "x": 1739,
+          "y": -90
+        },
+        "width": 80,
+        "height": 24
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.label": "###.##",
+        "node.unit": "m",
+        "node.tag": "DPU1025.HW.AI080203.PV"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826178,
+      "p": {
+        "name": "数据绑定",
+        "layer": 1,
+        "tag": "DPU1025.HW.AI070206.PV",
+        "image": "symbols/palette-icon/basic/数据绑定.json",
+        "position": {
+          "x": 1099,
+          "y": 80
+        },
+        "width": 80,
+        "height": 24
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.label": "###.#",
+        "node.unit": "%",
+        "node.tag": "DPU1025.HW.AI070206.PV"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826179,
+      "p": {
+        "name": "数据绑定",
+        "layer": 1,
+        "tag": "PU1025.HW.AI070205",
+        "image": "symbols/palette-icon/basic/数据绑定.json",
+        "position": {
+          "x": 1411,
+          "y": 80
+        },
+        "width": 80,
+        "height": 24
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.label": "###.#",
+        "node.unit": "%",
+        "node.tag": "PU1025.HW.AI070205"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826180,
+      "p": {
+        "name": "数据绑定",
+        "layer": 1,
+        "tag": "DPU1025.HW.AI070204.PV",
+        "image": "symbols/palette-icon/basic/数据绑定.json",
+        "position": {
+          "x": 1624,
+          "y": 76
+        },
+        "width": 80,
+        "height": 24
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.label": "###.#",
+        "node.unit": "%",
+        "node.tag": "DPU1025.HW.AI070204.PV"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826181,
+      "p": {
+        "name": "数据绑定",
+        "layer": 1,
+        "tag": "DPU1025.HW.AI040202.PV",
+        "image": "symbols/palette-icon/basic/数据绑定.json",
+        "position": {
+          "x": 738,
+          "y": 154
+        },
+        "width": 80,
+        "height": 24
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.label": "###.##",
+        "node.unit": "m",
+        "node.tag": "DPU1025.HW.AI040202.PV"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826182,
+      "p": {
+        "name": "数据绑定",
+        "layer": 1,
+        "tag": "DPU1025.HW.AI040102.PV",
+        "image": "symbols/palette-icon/basic/数据绑定.json",
+        "position": {
+          "x": 346,
+          "y": 163
+        },
+        "width": 80,
+        "height": 24
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.label": "###.##",
+        "node.unit": "m",
+        "node.tag": "DPU1025.HW.AI040102.PV"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826183,
+      "p": {
+        "name": "数据绑定",
+        "layer": 1,
+        "tag": "DPU1025.HW.AI050101.PV",
+        "image": "symbols/palette-icon/basic/数据绑定.json",
+        "position": {
+          "x": 472,
+          "y": 259
+        },
+        "width": 80,
+        "height": 24
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.label": "###.#",
+        "node.unit": "A",
+        "node.tag": "DPU1025.HW.AI050101.PV"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826184,
+      "p": {
+        "name": "数据绑定",
+        "layer": 1,
+        "tag": "DPU1025.HW.AI050201.PV",
+        "image": "symbols/palette-icon/basic/数据绑定.json",
+        "position": {
+          "x": 619,
+          "y": 257
+        },
+        "width": 80,
+        "height": 24
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.label": "###.#",
+        "node.unit": "A",
+        "node.tag": "DPU1025.HW.AI050201.PV"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826185,
+      "p": {
+        "name": "数据绑定",
+        "layer": 1,
+        "tag": "DPU1025.HW.AI040105.PV",
+        "image": "symbols/palette-icon/basic/数据绑定.json",
+        "position": {
+          "x": 1189,
+          "y": 220
+        }
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.label": "###.##",
+        "node.unit": "mm/s",
+        "node.tag": "DPU1025.HW.AI040105.PV"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826186,
+      "p": {
+        "name": "数据绑定",
+        "layer": 1,
+        "tag": "DPU1025.HW.AI020102.PV",
+        "image": "symbols/palette-icon/basic/数据绑定.json",
+        "position": {
+          "x": 1196,
+          "y": 263
+        }
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.label": "###.##",
+        "node.unit": "MPa",
+        "node.tag": "DPU1025.HW.AI020102.PV"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826187,
+      "p": {
+        "name": "数据绑定",
+        "layer": 1,
+        "tag": "DPU1025.HW.AI040102.PV",
+        "image": "symbols/palette-icon/basic/数据绑定.json",
+        "position": {
+          "x": 1202,
+          "y": 302
+        }
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.label": "###.##",
+        "node.unit": "m",
+        "node.tag": "DPU1025.HW.AI040102.PV"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826188,
+      "p": {
+        "name": "数据绑定",
+        "layer": 1,
+        "tag": "DPU1025.HW.AI040104.PV",
+        "image": "symbols/palette-icon/basic/数据绑定.json",
+        "position": {
+          "x": 1201,
+          "y": 345
+        }
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.label": "###.##",
+        "node.unit": "℃",
+        "node.tag": "DPU1025.HW.AI040104.PV"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826189,
+      "p": {
+        "name": "数据绑定",
+        "layer": 1,
+        "tag": "DPU1025.HW.AI040103.PV",
+        "image": "symbols/palette-icon/basic/数据绑定.json",
+        "position": {
+          "x": 1202,
+          "y": 377
+        }
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.label": "###.##",
+        "node.unit": "m",
+        "node.tag": "DPU1025.HW.AI040103.PV"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826190,
+      "p": {
+        "name": "数据绑定",
+        "layer": 1,
+        "tag": "DPU1025.HW.AI040205.PV",
+        "image": "symbols/palette-icon/basic/数据绑定.json",
+        "position": {
+          "x": 1414,
+          "y": 219
+        },
+        "width": 80,
+        "height": 24
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.label": "###.##",
+        "node.unit": "mm/s",
+        "node.tag": "DPU1025.HW.AI040205.PV"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826191,
+      "p": {
+        "name": "数据绑定",
+        "layer": 1,
+        "tag": "DPU1025.HW.AI020102.PV",
+        "image": "symbols/palette-icon/basic/数据绑定.json",
+        "position": {
+          "x": 1419,
+          "y": 265
+        },
+        "width": 80,
+        "height": 24
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.label": "###.##",
+        "node.unit": "MPa",
+        "node.tag": "DPU1025.HW.AI020102.PV"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826192,
+      "p": {
+        "name": "数据绑定",
+        "layer": 1,
+        "tag": "DPU1025.HW.AI040202.PV",
+        "image": "symbols/palette-icon/basic/数据绑定.json",
+        "position": {
+          "x": 1426,
+          "y": 300
+        },
+        "width": 80,
+        "height": 24
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.label": "###.##",
+        "node.unit": "m",
+        "node.tag": "DPU1025.HW.AI040202.PV"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826193,
+      "p": {
+        "name": "数据绑定",
+        "layer": 1,
+        "tag": "DPU1025.HW.AI040204.PV",
+        "image": "symbols/palette-icon/basic/数据绑定.json",
+        "position": {
+          "x": 1427,
+          "y": 342
+        },
+        "width": 80,
+        "height": 24
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.label": "###.##",
+        "node.unit": "℃",
+        "node.tag": "DPU1025.HW.AI040204.PV"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826194,
+      "p": {
+        "name": "数据绑定",
+        "layer": 1,
+        "tag": "DPU1025.HW.AI040203.PV",
+        "image": "symbols/palette-icon/basic/数据绑定.json",
+        "position": {
+          "x": 1431,
+          "y": 380
+        },
+        "width": 80,
+        "height": 24
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.label": "###.##",
+        "node.unit": "m",
+        "node.tag": "DPU1025.HW.AI040203.PV"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826195,
+      "p": {
+        "name": "数据绑定",
+        "layer": 1,
+        "tag": "DPU1025.HW.AI040101.PV",
+        "image": "symbols/palette-icon/basic/数据绑定.json",
+        "position": {
+          "x": 652,
+          "y": -17
+        }
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.tag": "DPU1025.HW.AI040101.PV",
+        "node.unit": "m"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826196,
+      "p": {
+        "name": "32",
+        "layer": 1,
+        "image": "symbols/palette-icon/steam/32.json",
+        "position": {
+          "x": 570,
+          "y": -82.65642
+        },
+        "width": 588,
+        "height": 80.68716
+      },
+      "s": {
+        "label": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826197,
+      "p": {
+        "name": "母线",
+        "layer": 1,
+        "image": "symbols/palette-icon/lines/母线.json",
+        "position": {
+          "x": 1787,
+          "y": -6
+        },
+        "width": 124,
+        "height": 22
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "line.color": "rgb(175,238,238)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 826198,
+      "p": {
+        "name": "告警变色",
+        "layer": 1,
+        "tag": "DPU1025.HW.DQ080613.PV",
+        "image": "symbols/palette-icon/basic/告警变色.json",
+        "position": {
+          "x": 1786,
+          "y": -4
+        },
+        "width": 70,
+        "height": 24
+      },
+      "s": {
+        "label": ""
+      },
+      "a": {
+        "node.label": "水池液位低信号",
+        "node.tag": "DPU1025.HW.DQ080613.PV",
+        "line.color": "rgb(0,0,0)"
+      }
+    }
+  ]
+}

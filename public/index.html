@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <link rel="icon" href="<%= BASE_URL %>favicon.ico">
+    <title><%= htmlWebpackPlugin.options.title %></title>
+    <script src="lib/core/ht.js"></script>
+    <script src="js/ht-extend.js"></script>
+    <script src="lib/plugin/ht-contextmenu.js"></script>
+    <script src="lib/plugin/ht-cssanimation.js"></script>
+    <script src="lib/plugin/ht-form.js"></script>
+    <script src="lib/plugin/ht-dialog.js"></script>
+    <script src="lib/plugin/ht-palette.js"></script>
+    <script src="lib/plugin/ht-rulerframe.js"></script>
+    <script src="lib/plugin/ht-propertypane.js"></script>
+    <script src="lib/plugin/ht-edgetype.js"></script>
+    <!--右键菜单栏的内容-->
+    <script src="config/dialog-config.js"></script>
+    <script src="config/contextmenu-config.js"></script>
+    <!--图表-->
+    <!--    <script src="echarts/echarts.common.min.js"></script>-->
+    <!--计算-->
+<!--    <script src="js/calculate.js"></script>-->
+    <script src="js/math.js"></script>
+    <style>
+      html, body {
+        width: 100%;
+        height: 100%;
+        margin: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <noscript>
+      <strong>We're sorry but <%= htmlWebpackPlugin.options.title %> doesn't work properly without JavaScript enabled. Please enable it to continue.</strong>
+    </noscript>
+    <div id="app"></div>
+    <!-- built files will be auto injected -->
+  </body>
+</html>

@@ -1,0 +1,295 @@
+{
+  "modified": "Mon Oct 26 2020 11:27:34 GMT+0800 (CST)",
+  "dataBindings": [
+    {
+      "attr": "node.type",
+      "valueType": "String",
+      "defaultValue": "m-point"
+    },
+    {
+      "attr": "node.name",
+      "valueType": "String",
+      "defaultValue": "switch"
+    },
+    {
+      "attr": "node.color",
+      "valueType": "Color",
+      "defaultValue": "rgb(255,0,0)"
+    },
+    {
+      "attr": "node.state",
+      "valueType": "Boolean",
+      "defaultValue": false,
+      "name": "开关状态"
+    }
+  ],
+  "width": 30,
+  "height": 40,
+  "comps": [
+    {
+      "type": "rect",
+      "background": "rgba(217,217,217,0)",
+      "borderWidth": 1,
+      "borderColor": "#979797",
+      "rect": [
+        0,
+        0,
+        30,
+        40
+      ]
+    },
+    {
+      "type": "text",
+      "text": "F",
+      "align": "center",
+      "color": "rgb(255,0,0)",
+      "font": "8px arial, sans-serif",
+      "rect": [
+        -8,
+        0,
+        8,
+        8
+      ]
+    },
+    {
+      "type": "text",
+      "text": "L",
+      "align": "center",
+      "color": "rgb(255,255,0)",
+      "font": "8px arial, sans-serif",
+      "rect": [
+        -8,
+        32,
+        8,
+        8
+      ]
+    },
+    {
+      "type": "rect",
+      "background": "rgb(255,255,0)",
+      "borderColor": "#979797",
+      "rect": [
+        31.2987,
+        28,
+        12,
+        12
+      ]
+    },
+    {
+      "type": "circle",
+      "background": "rgb(0,0,0)",
+      "borderWidth": 0.5,
+      "borderColor": "rgb(0,0,0)",
+      "rect": [
+        35.93523,
+        28.89474,
+        2.34664,
+        2.33202
+      ]
+    },
+    {
+      "type": "shape",
+      "background": "rgb(0,0,0)",
+      "borderWidth": 0.2,
+      "borderColor": "rgb(0,0,0)",
+      "closePath": true,
+      "points": [
+        36.67399,
+        31.4537,
+        36.67399,
+        31.96643,
+        34.68958,
+        33.14966,
+        34.53083,
+        33.49302,
+        34.53083,
+        33.97792,
+        35.2849,
+        34.37233,
+        36.67399,
+        34.37233,
+        36.47555,
+        35.94997,
+        36.03898,
+        37.52762,
+        35.2849,
+        38.4742,
+        35.08646,
+        39.10526,
+        35.9596,
+        39.10526,
+        37.11056,
+        39.10526,
+        36.9915,
+        38.67141,
+        35.9596,
+        38.63196,
+        36.67399,
+        37.6065,
+        37.22963,
+        35.94997,
+        38.38058,
+        37.21209,
+        37.86464,
+        38.11923,
+        37.70588,
+        38.67141,
+        39.69029,
+        38.67141,
+        39.3331,
+        38.04035,
+        38.45996,
+        38.07979,
+        39.09497,
+        36.77824,
+        37.86464,
+        35.51612,
+        38.02339,
+        33.74128,
+        37.94401,
+        32.59749,
+        39.05528,
+        32.87357,
+        41.00001,
+        32.91301,
+        41.00001,
+        32.47916,
+        39.0156,
+        32.36084,
+        37.22963,
+        31.84811,
+        37.18994,
+        31.4537
+      ]
+    },
+    {
+      "type": "shape",
+      "background": "rgb(255,255,0)",
+      "borderColor": "#979797",
+      "closePath": true,
+      "points": [
+        36.56094,
+        32.82426,
+        36.56094,
+        33.86129,
+        35.92814,
+        33.86129,
+        35.1387,
+        33.52
+      ]
+    },
+    {
+      "type": "circle",
+      "background": "rgb(255,0,0)",
+      "borderColor": "#979797",
+      "rect": [
+        31.2987,
+        28,
+        12,
+        12
+      ]
+    },
+    {
+      "type": "rect",
+      "background": "rgb(0,0,0)",
+      "borderWidth": 1,
+      "borderColor": "rgb(0,0,0)",
+      "rect": [
+        36.5487,
+        30.11157,
+        1.5,
+        5
+      ]
+    },
+    {
+      "type": "circle",
+      "background": "rgb(0,0,0)",
+      "borderWidth": 0.5,
+      "borderColor": "rgb(0,0,0)",
+      "rect": [
+        36.2987,
+        36.70712,
+        2,
+        2
+      ]
+    },
+    {
+      "type": "shape",
+      "borderWidth": 2,
+      "borderColor": {
+        "func": "attr@line.color",
+        "value": "rgb(255,0,0)"
+      },
+      "points": [
+        15,
+        12.5,
+        15,
+        0
+      ]
+    },
+    {
+      "type": "shape",
+      "borderWidth": 2,
+      "borderColor": {
+        "func": "attr@line.color",
+        "value": "rgb(255,0,0)"
+      },
+      "rotation": 0.7854,
+      "points": [
+        15,
+        18.5,
+        15,
+        6.5
+      ]
+    },
+    {
+      "type": "shape",
+      "borderWidth": 2,
+      "borderColor": {
+        "func": "attr@line.color",
+        "value": "rgb(255,0,0)"
+      },
+      "rotation": 2.35619,
+      "points": [
+        15,
+        18.5,
+        15,
+        6.5
+      ]
+    },
+    {
+      "type": "shape",
+      "borderWidth": 2,
+      "borderColor": {
+        "func": "attr@line.color",
+        "value": "rgb(255,0,0)"
+      },
+      "points": [
+        15,
+        40,
+        15,
+        30
+      ]
+    },
+    {
+      "type": "shape",
+      "borderWidth": 2,
+      "borderColor": {
+        "func": "__ht__function(data, view) {\n return data.a('node.state') ? 'rgb(255,0,0)' : 'rgb(0,255,0)';\n}",
+        "value": "rgb(255,0,0)"
+      },
+      "anchorX": 0,
+      "anchorY": 1,
+      "rotation": {
+        "func": "__ht__function(data, view) {\n return data.a('node.state') ? 0 : Math.PI/180*30;\n}",
+        "value": 0
+      },
+      "points": [
+        15,
+        30,
+        15,
+        12.5
+      ]
+    }
+  ]
+}

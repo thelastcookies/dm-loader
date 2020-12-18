@@ -5,8 +5,12 @@ import store from './store'
 
 import axios from 'axios';
 
-Vue.prototype.$axios = axios;
+import url from "../public/config/api-config";
 
+axios.defaults.baseURL = '/api';
+
+Vue.prototype.$axios = axios;
+Vue.prototype.$url = url;
 Vue.config.productionTip = false
 
 new Vue({

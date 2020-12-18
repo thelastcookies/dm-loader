@@ -13,7 +13,7 @@
 
 <script>
     import diagramConfig from "../../public/config/diagram-config";
-    import contextmenu_config from "../../public/config/contextmenu-config";
+    import contextmenuConfig from "../../public/config/contextmenu-config";
     import ProgressBar from "../components/progress-bar/ProgressBar";
     export default {
         name: "DmLoader",
@@ -26,7 +26,8 @@
                 dataModel: null,
                 graphView: null,
                 progressBarShow: false,
-
+                realTimeInterval: null,
+                nodeTagArr: [],
                 dataArr: [],
                 callback: function progressCallback(index) {
 
@@ -51,7 +52,7 @@
                     }
                 });
                 // 配置右键菜单
-                this.setContextMenu(contextmenu_config, this.graphView);
+                this.setContextMenu(contextmenuConfig, this.graphView);
 
                 // 请求组态图结构数据以及初始化
                 diagramConfig.pages.forEach(item => {
@@ -97,12 +98,30 @@
             },
             totalTrend() {
                 console.log("totalTrend");
-            }
+            },
+            /**
+             * getRealTimeData 获取实时数据
+             * @param nodeArr - 需要请求参数的测点数组
+             */
+            getRealTimeData(nodeArr) {
+                const nodeStrJoint = nodeArr.join("|");
+                const request = { tags: nodeStrJoint };
+                this.realTimeInterval = setTimeout(() => {
+                    // console.log(this.$url.realtimeData);
+                    // console.log(this.$axios.defaults.baseURL);
+                    // this.$axios.post(this.$url.realtimeData, request).then(res => {
+                    this.$axios.post('/hz/realtimeData', request).then(res => {
+                            console.log(res);
+                        });
+                }, 3000);
+    }
         },
         created() {
         },
         mounted() {
             this.init();
+            this.nodeTagArr = this.dataModel.getNodeTags();
+            this.getRealTimeData(this.nodeTagArr);
         }
     }
 

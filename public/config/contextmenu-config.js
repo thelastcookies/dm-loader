@@ -1,4 +1,4 @@
-const contextmenu_config = [
+const contextmenuConfig = [
     {
         label: "查看测点信息",
         fordata: 1,
@@ -74,4 +74,4 @@ const contextmenu_config = [
     }
 ];
 
-export default contextmenu_config;
+export default contextmenuConfig;

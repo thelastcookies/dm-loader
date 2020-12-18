@@ -1,5 +1,6 @@
 <template>
   <div id="app">
+<!--    <dm-loader :page-name="`#1GL-锅炉总图`"></dm-loader>-->
     <dm-loader :page-name="`#1DQ-发变组`"></dm-loader>
   </div>
 </template>

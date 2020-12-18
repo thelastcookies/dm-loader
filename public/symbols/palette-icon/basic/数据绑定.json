@@ -4,7 +4,7 @@
     {
       "attr": "node.type",
       "valueType": "String",
-      "defaultValue": "m-point"
+      "defaultValue": "m-label"
     },
     {
       "attr": "node.name",
@@ -36,7 +36,7 @@
       "type": "text",
       "text": {
         "func": "__ht__function(data, view) {\n return data.a('node.label');\n}",
-        "value": "#.###"
+        "value": "###.#"
       },
       "align": "right",
       "color": {

@@ -35,10 +35,26 @@ const contextmenuConfig = [
     {
         label: "查看趋势",
         fordata: 2,
-        action: function (item, event) {
-            // totalTrend();
-            // let nodeArr = dataModel.getNodeTags();
-            // let mainView = document.getElementsByClassName("main")[0];
+        action: (item, event) => {
+            let nodeStrJoint = this.dataModel.getNodeTags().join("|");
+            const request = {
+                tags: nodeStrJoint,
+                time: "20200531130000-20200531140000",
+                interval: 300
+            };
+            this.$axios.post(this.$url.historicalData, request).then(res => {
+                console.log(res.data);
+                this.historicalDataPreTreat(res.data.values);
+                // let dataArr = res.data.values.split("|");
+                // let dataArr = {"values": "60|221|237|198|239|250|254|247|214|166|181"}.values.split("|");
+                // let data = [];
+                // this.nodeTagArr.forEach((item, index) => {
+                //     data.push({
+                //         nodeTag: item,
+                //         value: dataArr[index]
+                //     })
+                // });
+            });
             // $.ajax({
             //     type: 'POST',
             //     url: "http://localhost/server/trend.php",
@@ -66,12 +82,11 @@ const contextmenuConfig = [
         label: "关闭查看趋势",
         fordata: 2,
         action: function (item, event) {
+            console.log(this);
             // loadPageRightView.setStatus("cr");
             // graphView.fitContent(true);
             // sendNodeAndRefresh(diagramDM, nodeArr);
             // // progressSplit.
         }
     }
-];
-
-export default contextmenuConfig;
+]

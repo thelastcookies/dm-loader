@@ -6,28 +6,35 @@
 /**
  * ht.DataModel 的扩展方法
  * 根据数据对图元/组件进行颜色、状态改变
- * @param json - 传入的数据 json，要求与 DataModel 中的 'node.tag' 存在对应关系。
+ * @param data - 传入的数据 data，要求与 DataModel 中的 'node.tag' 存在对应关系。
+ * data 格式 [{
+ *     nodeTag: 'nodeTag',
+ *     value: 'value'
+ * }, {...}, ...]
  */
-ht.DataModel.prototype.setNodeStatusByValue = function (json) {
+ht.DataModel.prototype.setNodeStatusByValue = function (data) {
     let dm = this;
-    json.forEach(item => {
+    data.forEach(item => {
         let node = dm.getDataByNodeTag(item.nodeTag);
         let value = item.value;
         node.forEach(function (node) {
+            if (node.a('node.type') === 'm-label') {
+                node.a('node.label', Number(value).toFixed((node.a('node.label').split('.')[1].length)));
+            }
             if (node.a('node.type') === 'm-point') {
                 value = Number(item.value);
                 node.a('node.state', Boolean(value));
             }
             // 如果是 柱状图元
-            if (node instanceof ht.Node && node.a('node.type') === 'zt') {
-                value = Number(item.value)
-                node.s('label') ? node.s('label', String(value)) : '';
-                if ((value > 0 && node.a('zt.dirt') === 'top') || value < 0 && node.a('zt.dirt') === 'bottom') {
-                    node.a('zt.height', Math.abs(value) / (Number(node.a('zt.max')) - Number(node.a('zt.min'))));
-                } else {
-                    node.a('zt.height', 0);
-                }
-            }
+            // if (node instanceof ht.Node && node.a('node.type') === 'zt') {
+            //     value = Number(item.value)
+            //     node.s('label') ? node.s('label', String(value)) : '';
+            //     if ((value > 0 && node.a('zt.dirt') === 'top') || value < 0 && node.a('zt.dirt') === 'bottom') {
+            //         node.a('zt.height', Math.abs(value) / (Number(node.a('zt.max')) - Number(node.a('zt.min'))));
+            //     } else {
+            //         node.a('zt.height', 0);
+            //     }
+            // }
             // 如果是 Text
             if (node instanceof ht.Text) {
                 value = Number(item.value)

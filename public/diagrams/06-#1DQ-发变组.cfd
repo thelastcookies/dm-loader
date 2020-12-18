@@ -84,6 +84,7 @@
         "label": ""
       },
       "a": {
+        "node.label": "##.##",
         "node.unit": "HZ",
         "node.tag": "FC:F01_UA"
       }
@@ -2180,6 +2181,7 @@
         "label": ""
       },
       "a": {
+        "node.label": "##.###",
         "node.unit": "KV",
         "node.tag": "FC:F01_UB"
       }
@@ -2201,6 +2203,7 @@
         "label": ""
       },
       "a": {
+        "node.label": "##.####",
         "node.unit": "KV",
         "node.tag": "FC:F01_UC"
       }

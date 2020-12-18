@@ -356,7 +356,7 @@
         width: 180px;
         height: fit-content;
         padding: 5px 8px;
-        color: #5e5e5e;
+        color: #FFF;
         border: 1px solid #9d9d9d;
         border-radius: 3px;
         position: relative;

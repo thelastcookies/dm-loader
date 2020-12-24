@@ -17,6 +17,12 @@
       "defaultValue": "告警变色"
     },
     {
+      "attr": "node.state",
+      "valueType": "Boolean",
+      "defaultValue": false,
+      "name": "告警状态"
+    },
+    {
       "attr": "line.color",
       "valueType": "Color",
       "defaultValue": "#D8D8D8"

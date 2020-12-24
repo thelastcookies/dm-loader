@@ -18,10 +18,11 @@ ht.DataModel.prototype.setNodeStatusByValue = function (data) {
         let node = dm.getDataByNodeTag(item.nodeTag);
         let value = item.value;
         node.forEach(function (node) {
-            if (node.a('node.type') === 'm-label') {
-                node.a('node.label', Number(value).toFixed((node.a('node.label').split('.')[1].length)));
-            }
             if (node.a('node.type') === 'm-point') {
+                if (node.a('node.label')) {
+                    node.a('node.label', Number(value).toFixed((node.a('node.label').split('.')[1].length)));
+                    return;
+                }
                 value = Number(item.value);
                 node.a('node.state', Boolean(value));
             }

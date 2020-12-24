@@ -22,7 +22,7 @@
                      @mousedown="progressBtnMousedown()"
                 ></div>
             </div>
-            <div id="progress-time">{{ dataArr.length ? timeText: '1970-01-01 00:00:00'}}</div>
+            <div id="progress-time">{{ timestampArr.length ? timeText: '1970-01-01 00:00:00'}}</div>
         </div>
     </div>
 </template>
@@ -59,30 +59,19 @@
                 maxSpeed: 1,
                 // 进度条回调函数
                 progressBarMoveCallback: null,
-                dataArr: [],
-                callbackFunction: null
+                // timestampArr: ['2020-05-01 00:00:00', '2020-05-01 00:01:00', '2020-05-01 00:02:00', '2020-05-01 00:03:00', '2020-05-01 00:04:00'],
+                // callbackFunction: function(index) {
+                //     console.log(this.timestampArr[index]);
+                // }
             }
         },
-        // props: {
-        //     dataArr: [Array, String],
-        //     callbackFunction: [Function, String]
-        // },
-        mounted() {
-            this.progressLen = progressBarConfig.progressLen;
-            this.maxSpeed = progressBarConfig.maxSpeed;
-            this.defaultInterval = progressBarConfig.defaultInterval;
-            this.dataArr = ['2020-05-01 00:00:00', '2020-05-01 00:01:00', '2020-05-01 00:02:00', '2020-05-01 00:03:00', '2020-05-01 00:04:00'];
-            this.callbackFunction = function(index) {
-                // console.log(this.dataArr[index]);
-            };
-
-            this.$nextTick(() => {
-                this.init(this.dataArr, this.callbackFunction);
-            });
+        props: {
+            timestampArr: [Array, String],
+            callbackFunction: [Function, String]
         },
         computed: {
             timeText() {
-                return this.dataArr[this.index]
+                return this.timestampArr[this.index]
             },
             // 进度条播放时间间隔
             interval () {
@@ -142,16 +131,16 @@
             /**
              * 进度条的总初始化方法
              * init()
-             * @param dataArr
+             * @param timestampArr
              * @param callback
              */
-            init (dataArr, callback) {
-                if (!this.dataArr.length) return;
+            init (timestampArr, callback) {
+                if (!this.timestampArr.length) return;
                 this.flag = true;
-                this.dataArr = dataArr;
+                this.timestampArr = timestampArr;
                 // this.minInterval = this.defaultInterval / this.speed;
 
-                this.len = this.dataArr.length - 1;
+                this.len = this.timestampArr.length - 1;
 
                 this.step = this.cal(this.progressLen, this.len, "/");
                 while (this.cal(this.step, this.len, '*') > this.progressLen) {
@@ -273,12 +262,22 @@
                 // $("#fast-forward-btn").off("click");
             }
 
-        }
+        },
+        mounted() {
+            this.progressLen = progressBarConfig.progressLen;
+            this.maxSpeed = progressBarConfig.maxSpeed;
+            this.defaultInterval = progressBarConfig.defaultInterval;
+
+            this.$nextTick(() => {
+                this.init(this.timestampArr, this.callbackFunction);
+            });
+        },
     }
 </script>
 
 <style scoped>
     #progress-div-container {
+        width: 100%;
         position: absolute;
         display: flex;
         align-items: end;
